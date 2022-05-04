@@ -19,8 +19,8 @@ email: ltchong@pitt.edu
 logo: /assets/images/logo.jpg
 description: >- # this means to ignore newlines until "baseurl:"
   The official website for the Chong Lab in the Department of Chemistry at the University of Pittsburgh.
-twitter_username: ChongLabPitt
-github_username: ltchong
+twitter_username: ltchong
+github_username: chonglab-pitt
 minimal_mistakes_skin: "default" # "default", air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Build settings
