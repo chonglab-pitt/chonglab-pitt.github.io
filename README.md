@@ -1,4 +1,4 @@
-# [The Chong Lab Website](https://ltchong.github.io)
+# [The Chong Lab Website](https://chonglab-pitt.github.io)
 
 Git repository for the Chong Lab website at the University of Pittsburgh
 - Maintained using [Jekyll](https://jekyllrb.com/)
