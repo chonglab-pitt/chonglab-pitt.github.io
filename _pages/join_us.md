@@ -47,7 +47,7 @@ Qualifications:
 [1] [https://westpa.github.io](https://westpa.github.io) <br>
 [2] [https://deepdrivemd.github.io](https://deepdrivemd.github.io) <br>
 
-***This position can start immediately and by August 1, 2022.*** The position is funded by NSF as part of the planning process for a Leadership-Class Computing Facility (LCCF) at the Texas Advanced Computing Center (TACC) and is for two years. Candidates must successfully defend their PhD by the start of the position and be conferred their PhD by the end of the term in which they are appointed. The PhD may be in chemistry, physics, or related field. 
+***This position starts on August 1, 2022.*** The position is funded by NSF as part of the planning process for a Leadership-Class Computing Facility (LCCF) at the Texas Advanced Computing Center (TACC) and is for two years. Candidates must successfully defend their PhD by the start of the position and be conferred their PhD by the end of the term in which they are appointed. The PhD may be in chemistry, physics, or related field. 
 
 To apply, please include a CV and cover letter explaining your interest in the position. Please also ask three references to email letters of support to ltchong@pitt.edu. Review of applications will begin immediately and continue until the position is filled. 
 
