@@ -51,6 +51,8 @@ Qualifications:
 
 To apply, please include a CV and cover letter explaining your interest in the position. Please also ask three references to email letters of support to ltchong@pitt.edu. Review of applications will begin immediately and continue until the position is filled. 
 
+[Link For Direct Application](https://cfopitt.taleo.net/careersection/pitt_faculty_external_pd/jobdetail.ftl?job=22003630&tz=GMT-04%3A00&tzname=America%2FNew_York)
+
 The University of Pittsburgh is an Affirmative Action/Equal Opportunity Employer and values equality of opportunity, human dignity, and diversity. EOE, including disability/vets.
 
 
