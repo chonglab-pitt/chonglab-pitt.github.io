@@ -32,7 +32,7 @@ We welcome applications from prospective postdocs, graduate students, and underg
 ## Postdocs
 We are recruiting for one postdoctoral researcher in computational biophysics with a focus on emerging rare-event sampling and machine learning techniques. 
 
-See this [page](https://chonglab-pitt.github.io/postdoc/) for more information.
+See this [page](/postdoc) for more information.
 
 
 ## Graduate Students
