@@ -142,7 +142,7 @@ Positions for a minimum of one year, including full-time research during the sum
 <details>
 <summary>Lillian</summary>
 <ul>
-    <li>Squirrel Hill! Being within walking distance of the Manor theatre, yoga studio, Dobra tea house, Five Points Bakery, Panda Asian grocery store, Classic Lines bookstore, tasty restaurants, and several beautiful parks (Schenley, Frick, and Mellon parks)</li>
+    <li>Squirrel Hill! Being within walking distance of the Manor theatre, yoga studio, Dobra tea house, Five Points Bakery, Panda Asian grocery store, Riverstone bookstore, tasty restaurants, and several beautiful parks (Schenley, Frick, and Mellon parks)</li>
     <li>Great eats from around the world, including Udipi Cafe, Masala House, Chengdu Gourmet, Turkish Kebab House, and Butterjoint (a classy bar with fantastic burgers)</li>
     <li>The awesome Carnegie library system that includes not just an extensive collection of books, but sheet music and musical instruments</li>
     <li>Day trips to Frank Lloyd Wright’s Fallingwater</li>
