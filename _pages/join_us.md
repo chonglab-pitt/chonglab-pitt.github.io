@@ -21,7 +21,7 @@ We welcome applications from prospective postdocs, graduate students, and underg
 
 **Persistence** - We value failures as opportunities for learning, noting that great discoveries are often made after countless failed attempts.
 
-**Collaboration** - We enjoy problem-solving as a team and collaborating with other labs in a variety of efforts, including the integration of simulation with experiment. 
+**Collaboration** - We enjoy collaborating with other labs in a variety of efforts, including the integration of simulation with experiment. 
 
 **Diversity** - We seek to make science a global, inclusive effort in all aspects ranging from hosting visitors to organizing conferences to citing relevant work in our publications.
 
