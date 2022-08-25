@@ -15,7 +15,7 @@ lillian:
     alt: "Lillian Chong"
     title: "Lillian Chong"
     excerpt: "
-    **Associate Professor, Department of Chemistry**<br>
+    **Professor, Department of Chemistry**<br>
     **Affiliated Faculty, CMU-Pitt Molecular Biophysics/Structural Biology Program**<br>
     **Affiliated Faculty, CMU-Pitt Computational Biology Program**<br>
     <br>
