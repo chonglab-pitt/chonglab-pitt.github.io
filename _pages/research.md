@@ -5,7 +5,7 @@ title: "Research"
 
 ## Our research falls into the following main areas:
 
-1) Development of weighted ensemble path sampling strategies and software for efficient sampling of rare events (e.g. protein folding and binding) with rigorous kinetics.  
+1) Development of weighted ensemble path sampling strategies and software for efficient sampling of rare events with rigorous kinetics.  
 2) Application of molecular simulations to characterize mechanisms of protein conformational transitions, binding, and assembly processes.  
 3) Development of molecular simulation strategies for rational design of engineered protein conformational switches.  
 4) Development of biomolecular force fields.  
