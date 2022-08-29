@@ -23,7 +23,7 @@ We welcome applications from prospective postdocs, graduate students, and underg
 
 **Collaboration** - We enjoy collaborating with other labs in a variety of efforts, including the integration of simulation with experiment. 
 
-**Diversity** - We seek to make science a global, inclusive effort in all aspects ranging from hosting visitors to organizing conferences to citing relevant work in our publications.
+**Diversity** - We seek to make science an inclusive effort in all aspects ranging from hosting visitors to citing relevant work.
 
 **Balance** - We value work/life balance and maintain a tidy lab for a clear mind.
 
