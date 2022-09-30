@@ -31,6 +31,12 @@ current_group:
     **Postdoctoral Fellow**<br>
     mls333 AT pitt DOT edu
     " 
+  - image_path: /assets/images/people/default.jpg
+    alt: "Nicolas Frazee"
+    title: "Nicolas Frazee"
+    excerpt: "
+    **Incoming Postdoctoral Fellow**<br>
+    " 
   - image_path: /assets/images/people/ATB.jpg
     alt: "Anthony Bogetti"
     title: "Anthony Bogetti"
@@ -65,6 +71,13 @@ current_group:
     excerpt: "
     **Undergraduate Student**<br>
     rca27 AT pitt DOT edu
+    "
+  - image_path: /assets/images/people/RIS.jpeg
+    alt: "Riccardo Solazzo"
+    title: "Riccardo Solazzo"
+    excerpt: "
+    **Visiting Masters Student**<br>
+    ris130 AT pitt DOT edu
     "
 ---
 
