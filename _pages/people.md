@@ -38,6 +38,7 @@ current_group:
     **Postdoctoral Fellow**<br>
     mls333 AT pitt DOT edu
     " 
+  -
   - image_path: /assets/images/people/ATB.jpg
     alt: "Anthony Bogetti"
     title: "Anthony Bogetti"
@@ -59,6 +60,7 @@ current_group:
     **Molecular Biophysics/ Structural Biology Graduate Student**<br>
     dty7 AT pitt DOT edu
     "
+  -
   - image_path: /assets/images/people/HEP.jpg
     alt: "Hannah Piston"
     title: "Hannah Piston"
