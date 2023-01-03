@@ -15,11 +15,13 @@ lillian:
     title: "Lillian Chong"
     excerpt: "
     **Professor, Department of Chemistry**<br>
-    **Affiliated Faculty, CMU-Pitt Molecular Biophysics/Structural Biology Program**<br>
-    **Affiliated Faculty, CMU-Pitt Computational Biology Program**<br>
+    PhD, Biophysics, UCSF<br>
+    BS, Chemistry, MIT<br>
+    Room 331, Eberly Hall<br>
     <br>
+    Email: ltchong AT pitt DOT edu<br>
     Tel: 412-624-6026<br>
-    ltchong AT pitt DOT edu<br>
+    ORCID: [0000-0002-0590-483X] (https://orcid.org/0000-0002-0590-483X)<br> 
     [CV](/assets/pdf/LTCcvShort.pdf){: .btn .btn--inverse .btn--small}
     "
 current_group:
