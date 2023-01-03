@@ -83,7 +83,7 @@ current_group:
 # Current Group Members
 {% include feature_row id="current_group" class="full" %}
 
-# Group Alumni (in reverse alphabetical order for a change :))
+# Group Alumni 
 
 * Matthew Zwier, PhD in Chemistry (2013), A&S and Mellon Fellow, now an [Associate Professor at Drake University](https://www.drake.edu/chemistry/facultystaff/drmatthewzwier/).  
 * Yiwen Zou, BS in Chemistry (2012), PharmD student at Philadelphia College of Osteopathic Med, now a Specialty Clinical Pharmacist.  
