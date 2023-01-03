@@ -9,7 +9,7 @@ title: The Chong Lab Research Group
 toc: true
 toc_sticky: true
 toc_icon: "users"
-toc_label: "The Chong Lab"
+toc_label: ""
 lillian:
   - image_path: /assets/images/people/LTC.jpg
     alt: "Lillian Chong"
