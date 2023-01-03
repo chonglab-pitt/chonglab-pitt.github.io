@@ -19,10 +19,9 @@ lillian:
     PhD, Biophysics, UCSF<br>
     BS, Chemistry, MIT<br>
     Room 331, Eberly Hall<br>
-    <br>
     Email: ltchong AT pitt DOT edu<br>
     Tel: 412-624-6026<br>
-    ORCID: [0000-0002-0590-483X] (https://orcid.org/0000-0002-0590-483X)<br> 
+    ORCID: [0000-0002-0590-483X](https://orcid.org/0000-0002-0590-483X)<br> 
     [CV](/assets/pdf/LTCcvShort.pdf){: .btn .btn--inverse .btn--small}
     "
 current_group:
