@@ -1,4 +1,5 @@
 ---
+title: The Chong Lab Research Group
 permalink: /people/
 #layout: splash
 #layout: single
