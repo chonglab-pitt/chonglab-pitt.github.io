@@ -92,7 +92,7 @@
   overflow: hidden;
 
   img {
-    width: 100%;
+    max-width: 100%;
   }
 }
 
@@ -218,11 +218,14 @@
 
   .archive__item-teaser {
     @include breakpoint($small) {
-      max-height: 200px;
+      max-height: 120px;
+      max-width: 200px;
+      width: auto;
     }
 
     @include breakpoint($medium) {
       max-height: 120px;
+      width: auto;
     }
   }
 }
@@ -296,11 +299,13 @@
     font-size: 1.125em;
 
     .archive__item {
-      float: left;
+      float: inherit;
+      max-width: 100%;
+      height: auto;
     }
 
     .archive__item-teaser {
-      margin-bottom: 2em;
+      margin-bottom: 1em;
     }
 
     a.btn::before {
@@ -329,7 +334,7 @@
 
   &--right {
     position: relative;
-    float: left;
+    float: right;
     margin-left: 0;
     margin-right: 0;
     width: 100%;
@@ -337,7 +342,7 @@
     font-size: 1.125em;
 
     .archive__item {
-      float: left;
+      float: inherit;
     }
 
     .archive__item-teaser {

@@ -21,68 +21,98 @@ lillian:
     Room 331, Eberly Hall<br>
     Email: ltchong AT pitt DOT edu<br>
     Tel: 412-624-6026<br>
-    ORCID: [0000-0002-0590-483X](https://orcid.org/0000-0002-0590-483X)<br> 
+    ORCID: [0000-0002-0590-483X](https://orcid.org/0000-0002-0590-483X)<br>
     [CV](/assets/pdf/LTCcvShort.pdf){: .btn .btn--inverse .btn--small}
     "
-current_group:
+postdoc_group:
   - image_path: /assets/images/people/NCF.jpg
     alt: "Nicolas Frazee"
     title: "Nicolas Frazee"
     excerpt: "
     **Postdoctoral Fellow**<br>
-    ncf26 AT pitt DOT edu
+    PhD, Biophysics, UCSF<br>
+    BS, Chemistry, MIT<br>
+    Room 226, Eberly Hall<br>
+    Email: ncf26 AT pitt DOT edu<br>
+    ORCID: [0000-0002-0590-483X](https://orcid.org/0000-0002-0590-483X)<br>
+    [CV](/assets/pdf/LTCcvShort.pdf){: .btn .btn--inverse .btn--small}
     " 
   - image_path: /assets/images/people/MLS.jpg
     alt: "Marion Silvestrini"
     title: "Marion Silvestrini"
     excerpt: "
     **Postdoctoral Fellow**<br>
-    mls333 AT pitt DOT edu
+    PhD, Physics, Federal University of Rio Grande do Sul<br>
+    MS, Theoretical Physics, Federal University of Rio Grande do Sul<br>
+    BS, Astrophysics, Federal University of Rio Grande do Sul<br>
+    Room 338, Eberly Hall<br>
+    Email: mls333 AT pitt DOT edu<br>
+    ORCID: [0000-0002-7479-5163](https://orcid.org/0000-0002-7479-5163)<br>
     " 
-  -
+grad_group:
   - image_path: /assets/images/people/ATB.jpg
     alt: "Anthony Bogetti"
     title: "Anthony Bogetti"
     excerpt: "
     **Chemistry Graduate Student**<br>
-    atb43 AT pitt DOT edu
+    BS, Chemistry, Messiah University<br>
+    Room 223, Eberly Hall<br>
+    Email: atb43 AT pitt DOT edu<br>
+    ORCID: [0000-0003-0610-2879](https://orcid.org/0000-0003-0610-2879)<br>
     "
   - image_path: /assets/images/people/JML.jpg
     alt: "Jeremy Leung"
     title: "Jeremy Leung"
     excerpt: "
     **Chemistry Graduate Student**<br>
-    jml230 AT pitt DOT edu
+    BA, Chemistry, Occidental College<br>
+    Room 338, Eberly Hall<br>
+    Email: jml230 AT pitt DOT edu<br>
+    ORCID: [0000-0001-7021-4619](https://orcid.org/0000-0001-7021-4619)<br>
     "
   - image_path: /assets/images/people/DTY.jpg
     alt: "Darian Yang"
     title: "Darian Yang"
     excerpt: "
-    **Molecular Biophysics/ Structural Biology Graduate Student**<br>
-    dty7 AT pitt DOT edu
+    **Molecular Biology/ Structural Biology Graduate Student**<br>
+    BA, Biochemistry, University of Delaware<br>
+    Room 338, Eberly Hall<br>
+    Email: dty7 AT pitt DOT edu<br>
+    ORCID: [0000-0002-8654-3529](https://orcid.org/0000-0002-8654-3529)<br>
+    [SITE](https://darianyang.github.io/index.html){: .btn .btn--inverse .btn--small}
     "
-  -
   - image_path: /assets/images/people/HEP.jpg
     alt: "Hannah Piston"
     title: "Hannah Piston"
     excerpt: "
     **Pitt Medical Student**<br>
-    hep32 AT pitt DOT edu
+    BS, Chemistry/Pre-medical Studies, Pitt<br>
+    Email: hep32 AT pitt DOT edu
     "
+undergrad_group:
   - image_path: /assets/images/people/RCA.jpg
     alt: "Rhea Abraham"
     title: "Rhea Abraham"
     excerpt: "
     **Undergraduate Student**<br>
-    rca27 AT pitt DOT edu
+    Room 338, Eberly Hall<br>
+    Email: rca27 AT pitt DOT edu
     "
 ---
 
 # Principal Investigator
+
 {% include feature_row id="lillian" type="left" %}
 
 # Current Group Members
-{% include feature_row id="current_group" class="full" %}
+## Post-doctorial Students
+{% include feature_row id="postdoc_group" type="left" %}
+
+## Graduate Students
+{% include feature_row id="grad_group" type="left" %}
+
+## Undergraduate Students
+{% include feature_row id="undergrad_group" type="left" %}
 
 # Group Alumni 
 
