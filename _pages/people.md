@@ -34,7 +34,7 @@ postdoc_group:
     BS, Chemistry and Mathematics, Waynesburg University<br>
     Room 226, Eberly Hall<br>
     Email: ncf26 AT pitt DOT edu<br>
-    ORCID: [0000-0002-0590-483X](https://orcid.org/0000-0002-0590-483X)<br>
+    ORCID: [0000-0002-6223-8036](https://orcid.org/0000-0002-6223-8036)<br>
     " 
   - image_path: /assets/images/people/MLS.jpg
     alt: "Marion Silvestrini"
@@ -74,7 +74,7 @@ grad_group:
     title: "Darian Yang"
     excerpt: "
     **Molecular Biology/ Structural Biology Graduate Student**<br>
-    BA, Biochemistry, University of Delaware<br>
+    BS, Biochemistry, University of Delaware<br>
     Room 338, Eberly Hall<br>
     Email: dty7 AT pitt DOT edu<br>
     ORCID: [0000-0002-8654-3529](https://orcid.org/0000-0002-8654-3529)<br>
