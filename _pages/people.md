@@ -35,7 +35,6 @@ postdoc_group:
     Room 226, Eberly Hall<br>
     Email: ncf26 AT pitt DOT edu<br>
     ORCID: [0000-0002-0590-483X](https://orcid.org/0000-0002-0590-483X)<br>
-    [CV](/assets/pdf/LTCcvShort.pdf){: .btn .btn--inverse .btn--small}
     " 
   - image_path: /assets/images/people/MLS.jpg
     alt: "Marion Silvestrini"
