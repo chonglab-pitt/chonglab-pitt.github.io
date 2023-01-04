@@ -30,7 +30,8 @@ postdoc_group:
     title: "Nicolas Frazee"
     excerpt: "
     **Postdoctoral Fellow**<br>
-    PhD, Biophysics, University of Rochester<br>
+    PhD, Biophysics, West Virginia University<br>
+    BS, Biochemistry and Mathematics, Waynesburg University<br>
     Room 226, Eberly Hall<br>
     Email: ncf26 AT pitt DOT edu<br>
     ORCID: [0000-0002-0590-483X](https://orcid.org/0000-0002-0590-483X)<br>
