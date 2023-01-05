@@ -88,6 +88,14 @@ grad_group:
     BS, Chemistry/Pre-medical Studies, Pitt<br>
     Email: hep32 AT pitt DOT edu
     "
+  - image_path: /assets/images/people/BWF.jpg
+    alt: "Baily Ford"
+    title: "Baily Ford"
+    excerpt: "
+    **Chemistry Graduate Student**<br>
+    Room 226, Eberly Hall<br>
+    Email: BWF AT pitt DOT edu<br>
+    "
 undergrad_group:
   - image_path: /assets/images/people/RCA.jpg
     alt: "Rhea Abraham"

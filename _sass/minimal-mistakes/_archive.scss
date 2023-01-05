@@ -92,7 +92,9 @@
   overflow: hidden;
 
   img {
-    max-width: 100%;
+    max-height: 40%;
+    height: auto;
+    filter: grayscale(100%);
   }
 }
 
@@ -106,7 +108,7 @@
   font-family: $caption-font-family;
   font-size: $type-size-8;
   background: #000;
-  text-align: right;
+  text-align: left;
   z-index: 5;
   opacity: 0.5;
   border-radius: $border-radius 0 0 0;
@@ -218,13 +220,13 @@
 
   .archive__item-teaser {
     @include breakpoint($small) {
-      max-height: 120px;
-      max-width: 200px;
+      max-height: 40%;
+      /* max-width: 200px; */
       width: auto;
     }
 
     @include breakpoint($medium) {
-      max-height: 120px;
+      max-height: 40%;
       width: auto;
     }
   }
@@ -294,7 +296,7 @@
     float: left;
     margin-left: 0;
     margin-right: 0;
-    width: 100%;
+    width: 80%;
     clear: both;
     font-size: 1.125em;
 
@@ -306,6 +308,8 @@
 
     .archive__item-teaser {
       margin-bottom: 1em;
+      max-width: 200px;
+      width: auto; 
     }
 
     a.btn::before {
