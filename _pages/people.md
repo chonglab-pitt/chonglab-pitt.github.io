@@ -16,8 +16,8 @@ lillian:
     title: "Lillian Chong"
     excerpt: "
     **Professor, Department of Chemistry**<br>
-    PhD, Biophysics, UCSF<br>
-    BS, Chemistry, MIT<br>
+    PhD, Biophysics, University of California, San Francisco<br>
+    BS, Chemistry, Massachusetts Institute of Technology<br>
     Room 331, Eberly Hall<br>
     Email: ltchong AT pitt DOT edu<br>
     Tel: 412-624-6026<br>
@@ -85,7 +85,8 @@ grad_group:
     title: "Hannah Piston"
     excerpt: "
     **Pitt Medical Student**<br>
-    BS, Chemistry/Pre-medical Studies, Pitt<br>
+    BS, Chemistry, University of Pittsburgh<br>
+    Room 338, Eberly Hall<br>
     Email: hep32 AT pitt DOT edu
     "
   - image_path: /assets/images/people/BWF.jpg
@@ -93,6 +94,7 @@ grad_group:
     title: "Baily Ford"
     excerpt: "
     **Chemistry Graduate Student**<br>
+    BS, Chemistry, Austin Peay State University
     Room 226, Eberly Hall<br>
     Email: BWF AT pitt DOT edu<br>
     "
