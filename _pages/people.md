@@ -16,8 +16,8 @@ lillian:
     title: "Lillian Chong"
     excerpt: "
     **Professor, Department of Chemistry**<br>
-    PhD, Biophysics, University of California, San Francisco<br>
-    BS, Chemistry, Massachusetts Institute of Technology<br>
+    PhD, Biophysics, UCSF<br>
+    BS, Chemistry, MIT<br>
     Room 331, Eberly Hall<br>
     Email: ltchong AT pitt DOT edu<br>
     Tel: 412-624-6026<br>
