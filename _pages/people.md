@@ -94,7 +94,7 @@ grad_group:
     title: "Baily Ford"
     excerpt: "
     **Chemistry Graduate Student**<br>
-    BS, Chemistry, Austin Peay State University
+    BS, Chemistry, Austin Peay State University<br>
     Room 226, Eberly Hall<br>
     Email: BWF AT pitt DOT edu<br>
     "
