@@ -74,6 +74,7 @@ grad_group:
     title: "Darian Yang"
     excerpt: "
     **Molecular Biology/ Structural Biology Graduate Student**<br>
+    Co-advisor: Angela Gronenborn (Department of Structural Biology)
     BS, Biochemistry, University of Delaware<br>
     Room 338, Eberly Hall<br>
     Email: dty7 AT pitt DOT edu<br>
