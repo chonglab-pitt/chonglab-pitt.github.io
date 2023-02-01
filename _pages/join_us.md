@@ -11,22 +11,6 @@ Join us in our scientific adventures!
 
 We welcome applications from prospective postdocs, graduate students, and undergraduates. We encourage a diversity of backgrounds, and applications from women and underrepresented minorities are particularly encouraged. 
 
-*Our Lab Values*
-
-**Adventure** - We are unafraid to consider unfamiliar applications and to learn new concepts/tools for solving problems that excite us.
-
-**Creativity** - We encourage blue sky thinking and following your own ideas.
-
-**Rigor** - We value quality over quantity and maintain openness, integrity, and reproducibility in research, paying special attention to outliers.
-
-**Persistence** - We value failures as opportunities for learning, noting that great discoveries are often made after countless failed attempts.
-
-**Collaboration** - We enjoy collaborating with other labs in a variety of efforts, including the integration of simulation with experiment. 
-
-**Diversity** - We seek to make science an inclusive effort in all aspects ranging from hosting visitors to citing relevant work.
-
-**Balance** - We value work/life balance and maintain a tidy lab for a clear mind.
-
 {% include figure image_path="/assets/images/pittsburgh.jpg" alt="Pittsburgh Panorama" %}
 
 ## Postdocs
