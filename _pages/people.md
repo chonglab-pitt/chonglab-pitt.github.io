@@ -115,7 +115,7 @@ undergrad_group:
 {% include feature_row id="lillian" type="left" %}
 
 # Current Group Members
-## Post-doctorial Students
+## Postdoctoral Researchers
 {% include feature_row id="postdoc_group" type="left" %}
 
 ## Graduate Students
