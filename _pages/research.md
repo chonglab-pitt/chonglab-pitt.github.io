@@ -17,17 +17,17 @@ Our work is featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-u
 ## Collaborations:
 ### With computational labs:
 
-[Daniel Zuckerman (Oregon Health and Science University)](https://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/bme-labs/zuckerman-lab/index.cfm) - weighted ensemble strategies  
-[David Case (Rutgers University)](http://casegroup.rutgers.edu) - AMBER force field development  
+[Daniel Zuckerman (Oregon Health and Science University)](https://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/bme-labs/zuckerman-lab/index.cfm) - weighted ensemble strategies <br/>
+[David Case (Rutgers University)](http://casegroup.rutgers.edu) - AMBER force field development <br/> 
 [Rommie Amaro (University of California, San Diego)](https://amarolab.ucsd.edu) - coronavirus applications<br/>
-[Arvind Ramanathan (Argonne National Lab)](https://ramanathanlab.org) - deep-learning enhanced weighted ensemble strategies
+[Arvind Ramanathan (Argonne National Lab)](https://ramanathanlab.org) - deep-learning enhanced weighted ensemble strategies <br/>
 
 ### With experimental labs:
 
-[Stewart Loh (SUNY Upstate Medical University)](http://www.upstate.edu/biochem/faculty/?empID=lohs) - design of protein conformational switches  
+[Stewart Loh (SUNY Upstate Medical University)](http://www.upstate.edu/biochem/faculty/?empID=lohs) - design of protein conformational switches <br/> 
 [Angela Gronenborn (University of Pittsburgh)](http://www.amg.structbio.pitt.edu) - integrative structural biology<br/>
 [Sunil Saxena (University of Pittsburgh)](https://sites.pitt.edu/~sksaxena/index.html) - integration of simulations with magnetic resonance restraints <br/>
-[Seth Horne (University of Pittsburgh)](https://www.chem.pitt.edu/person/seth-horne) - folding mechanisms of protein mimetics  
+[Seth Horne (University of Pittsburgh)](https://www.chem.pitt.edu/person/seth-horne) - folding mechanisms of protein mimetics <br/>  
 
 ## Movie Highlights: 
 
