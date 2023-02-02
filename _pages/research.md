@@ -15,20 +15,21 @@ Our work is featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-u
 [2020 Gordon Bell Special Prize Recipients](/gordon_bell_prize)
 
 ## Collaborations:
-### With other computational labs:
+### With computational labs:
 
 [Daniel Zuckerman (Oregon Health and Science University)](https://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/bme-labs/zuckerman-lab/index.cfm) - weighted ensemble strategies  
 [David Case (Rutgers University)](http://casegroup.rutgers.edu) - AMBER force field development  
 [Rommie Amaro (University of California, San Diego)](https://amarolab.ucsd.edu) - coronavirus applications
+[Arvind Ramanathan (Argonne National Lab) (https://ramanathanlab.org/) - deep-learning enhanced weighted ensemble strategies
 
 ### With experimental labs:
 
-[Angela Gronenborn (University of Pittsburgh)](http://www.amg.structbio.pitt.edu/) - integrative structural biology  
-[Seth Horne (University of Pittsburgh)](https://www.chem.pitt.edu/person/seth-horne) - Folding mechanisms of protein mimetics  
 [Stewart Loh (SUNY Upstate Medical University)](http://www.upstate.edu/biochem/faculty/?empID=lohs) - design of protein conformational switches  
+[Angela Gronenborn (University of Pittsburgh)](http://www.amg.structbio.pitt.edu/) - integrative structural biology 
+[Sunil Saxena (University of Pittsburgh)](https://sites.pitt.edu/~sksaxena/index.html) - integration of simulations with magnetic resonance restraints
+[Seth Horne (University of Pittsburgh)](https://www.chem.pitt.edu/person/seth-horne) - folding mechanisms of protein mimetics  
 
-
-## Movie Gallery:
+## Movie Highlights: 
 
 {% include video id="0mhMwpLSUXY" provider="youtube" %}
 [Protein-protein binding pathways and kinetics from explicit-solvent simulations](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04811h#!divAbstract). Movie of a binding pathway for barnase (blue) and barstar (orange) from a weighted ensemble simulation. Residues at the binding interfaces of barnase (S38 and R59) and barstar (D35, D39, and W44) are highlighted in cyan and yellow, respectively. This simulation can be completed within 10 days using 16 modern GPUs. “The Story Unfolds” music by Jingle Punks is royalty-free.
