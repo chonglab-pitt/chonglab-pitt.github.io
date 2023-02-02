@@ -20,12 +20,12 @@ Our work is featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-u
 [Daniel Zuckerman (Oregon Health and Science University)](https://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/bme-labs/zuckerman-lab/index.cfm) - weighted ensemble strategies  
 [David Case (Rutgers University)](http://casegroup.rutgers.edu) - AMBER force field development  
 [Rommie Amaro (University of California, San Diego)](https://amarolab.ucsd.edu) - coronavirus applications
-[Arvind Ramanathan (Argonne National Lab) (https://ramanathanlab.org/) - deep-learning enhanced weighted ensemble strategies
+[Arvind Ramanathan (Argonne National Lab)](https://ramanathanlab.org) - deep-learning enhanced weighted ensemble strategies
 
 ### With experimental labs:
 
 [Stewart Loh (SUNY Upstate Medical University)](http://www.upstate.edu/biochem/faculty/?empID=lohs) - design of protein conformational switches  
-[Angela Gronenborn (University of Pittsburgh)](http://www.amg.structbio.pitt.edu/) - integrative structural biology 
+[Angela Gronenborn (University of Pittsburgh)](http://www.amg.structbio.pitt.edu) - integrative structural biology 
 [Sunil Saxena (University of Pittsburgh)](https://sites.pitt.edu/~sksaxena/index.html) - integration of simulations with magnetic resonance restraints
 [Seth Horne (University of Pittsburgh)](https://www.chem.pitt.edu/person/seth-horne) - folding mechanisms of protein mimetics  
 
