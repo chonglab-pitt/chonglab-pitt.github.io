@@ -18,7 +18,7 @@ Our work is featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-u
 ### With computational labs:
 
 [Daniel Zuckerman (Oregon Health and Science University)](https://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/bme-labs/zuckerman-lab/index.cfm) - weighted ensemble strategies <br/>
-[David Case (Rutgers University)](http://casegroup.rutgers.edu) - AMBER force field development <br/> 
+[David Case (Rutgers University)](http://casegroup.rutgers.edu) - implicitly polarized force fields <br/> 
 [Rommie Amaro (University of California, San Diego)](https://amarolab.ucsd.edu) - coronavirus applications<br/>
 [Arvind Ramanathan (Argonne National Lab)](https://ramanathanlab.org) - deep-learning enhanced weighted ensemble strategies <br/>
 
