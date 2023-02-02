@@ -25,7 +25,7 @@ Our work is featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-u
 ### With experimental labs:
 
 [Stewart Loh (SUNY Upstate Medical University)](http://www.upstate.edu/biochem/faculty/?empID=lohs) - design of protein conformational switches  
-[Angela Gronenborn (University of Pittsburgh)](http://www.amg.structbio.pitt.edu) - integrative structural biology 
+[Angela Gronenborn (University of Pittsburgh)](http://www.amg.structbio.pitt.edu) - integrative structural biology
 [Sunil Saxena (University of Pittsburgh)](https://sites.pitt.edu/~sksaxena/index.html) - integration of simulations with magnetic resonance restraints
 [Seth Horne (University of Pittsburgh)](https://www.chem.pitt.edu/person/seth-horne) - folding mechanisms of protein mimetics  
 
