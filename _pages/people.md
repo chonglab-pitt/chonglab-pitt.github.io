@@ -29,6 +29,7 @@ admin_group:
     alt: "Amber Travis"
     title: "Amber Travis"
     excerpt: "
+    **Administrative Assistant**<br>
     Room 326, Eberly Hall<br>
     Email: adt59 AT pitt DOT edu<br>
     " 
@@ -37,6 +38,7 @@ postdoc_group:
     alt: "Nicolas Frazee"
     title: "Nicolas Frazee"
     excerpt: "
+    **Postdoctoral Fellow**<br>
     PhD, Biophysics, West Virginia University<br>
     BS, Chemistry and Mathematics, Waynesburg University<br>
     Room 226, Eberly Hall<br>
@@ -47,6 +49,7 @@ postdoc_group:
     alt: "Marion Silvestrini"
     title: "Marion Silvestrini"
     excerpt: "
+    **Postdoctoral Fellow**<br>
     PhD, Physics, Federal University of Rio Grande do Sul<br>
     MS, Theoretical Physics, Federal University of Rio Grande do Sul<br>
     BS, Astrophysics, Federal University of Rio Grande do Sul<br>
@@ -59,7 +62,7 @@ grad_group:
     alt: "Anthony Bogetti"
     title: "Anthony Bogetti"
     excerpt: "
-    **Chemistry Graduate Student**<br>
+    **PhD Candidate in Chemistry**<br>
     BS, Chemistry, Messiah University<br>
     Room 223, Eberly Hall<br>
     Email: atb43 AT pitt DOT edu<br>
@@ -69,7 +72,7 @@ grad_group:
     alt: "Jeremy Leung"
     title: "Jeremy Leung"
     excerpt: "
-    **Chemistry Graduate Student**<br>
+    **PhD Candidate in Chemistry**<br>
     BA, Chemistry, Occidental College<br>
     Room 338, Eberly Hall<br>
     Email: jml230 AT pitt DOT edu<br>
@@ -79,7 +82,7 @@ grad_group:
     alt: "Darian Yang"
     title: "Darian Yang"
     excerpt: "
-    **Molecular Biology/ Structural Biology Graduate Student**<br>
+    **PhD Candidate in Biophysics**<br>
     Co-advisor: Angela Gronenborn (Department of Structural Biology)
     BS, Biochemistry, University of Delaware<br>
     Room 338, Eberly Hall<br>
@@ -100,7 +103,7 @@ grad_group:
     alt: "Baily Ford"
     title: "Baily Ford"
     excerpt: "
-    **Chemistry Graduate Student**<br>
+    **PhD Candidate in Chemistry**<br>
     BS, Chemistry, Austin Peay State University<br>
     Room 226, Eberly Hall<br>
     Email: BWF AT pitt DOT edu<br>
