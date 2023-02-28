@@ -29,7 +29,6 @@ admin_group:
     alt: "Amber Travis"
     title: "Amber Travis"
     excerpt: "
-    **Administrative Assistant**<br>
     Room 326, Eberly Hall<br>
     Email: adt59 AT pitt DOT edu<br>
     " 
@@ -38,7 +37,6 @@ postdoc_group:
     alt: "Nicolas Frazee"
     title: "Nicolas Frazee"
     excerpt: "
-    **Postdoctoral Fellow**<br>
     PhD, Biophysics, West Virginia University<br>
     BS, Chemistry and Mathematics, Waynesburg University<br>
     Room 226, Eberly Hall<br>
@@ -49,7 +47,6 @@ postdoc_group:
     alt: "Marion Silvestrini"
     title: "Marion Silvestrini"
     excerpt: "
-    **Postdoctoral Fellow**<br>
     PhD, Physics, Federal University of Rio Grande do Sul<br>
     MS, Theoretical Physics, Federal University of Rio Grande do Sul<br>
     BS, Astrophysics, Federal University of Rio Grande do Sul<br>
@@ -113,7 +110,7 @@ undergrad_group:
     alt: "Rhea Abraham"
     title: "Rhea Abraham"
     excerpt: "
-    **Undergraduate Student**<br>
+    **Neuroscience Major**<br>
     Room 338, Eberly Hall<br>
     Email: rca27 AT pitt DOT edu
     "
