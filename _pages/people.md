@@ -24,6 +24,15 @@ lillian:
     ORCID: [0000-0002-0590-483X](https://orcid.org/0000-0002-0590-483X)<br>
     [CV](/assets/pdf/LTCcvShort.pdf){: .btn .btn--inverse .btn--small}
     "
+admin_group:
+  - image_path: /assets/images/people/ADT.jpg
+    alt: "Amber Travis"
+    title: "Amber Travis"
+    excerpt: "
+    **Administrative Assistant**<br>
+    Room 326, Eberly Hall<br>
+    Email: adt59 AT pitt DOT edu<br>
+    " 
 postdoc_group:
   - image_path: /assets/images/people/NCF.jpg
     alt: "Nicolas Frazee"
@@ -113,6 +122,9 @@ undergrad_group:
 # Principal Investigator
 
 {% include feature_row id="lillian" type="left" %}
+
+# Administrative Assistant
+{% include feature_row id="admin_group" type="left" %}
 
 # Current Group Members
 ## Postdoctoral Researchers
