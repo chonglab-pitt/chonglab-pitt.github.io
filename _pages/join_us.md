@@ -14,7 +14,7 @@ We welcome applications from prospective postdocs, graduate students, and underg
 {% include figure image_path="/assets/images/pittsburgh.jpg" alt="Pittsburgh Panorama" %}
 
 ## Postdocs
-All postdoc positions in the lab have been filled. Contact ltchong AT pitt DOT edu if you are interested in applying for NIH, NSF, or other postdoctoral fellowships. 
+To apply for a postdoc position, please email a cover letter and CV (with contact information for two references) to ltchong AT pitt DOT edu. 
 
 ## Graduate Students
 Positions are available for graduate students with interests in computational biophysics or chemistry. To be considered for a position, please apply to one of the following graduate programs at the University of Pittsburgh.
