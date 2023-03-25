@@ -26,7 +26,7 @@ If you are interested in both computational and experimental research:
 [Joint CMU-Pitt PhD Program in Molecular Biophysics & Structural Biology](http://www.mbsb.pitt.edu/index.php/apply-here)<br>
 
 ## Undergraduates
-Positions for a minimum of one year, including full-time research during the summer. Undergraduates majoring in chemistry, biology, physics, math, computer science, and related fields are encouraged to apply. Interested applicants should email a one-page resume along with contact information for two references to ltchong AT pitt DOT edu. 
+Positions for a minimum of one year, including full-time research during the summer, starting either in the fall or spring semester. Undergraduates majoring in chemistry, biology, physics, math, computer science, and related fields are encouraged to apply. Interested applicants should email a one-page resume along with contact information for two references to ltchong AT pitt DOT edu. 
 
 ## Virtual Tour of the Chong Lab 
 {% include video id="1fV8hReWqR0" provider="youtube" %}
