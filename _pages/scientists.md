@@ -1,6 +1,6 @@
 ---
 title: The Chong Lab Research Group
-permalink: /people/
+permalink: /scientists/
 #layout: splash
 #layout: single
 #classes: wide
