@@ -134,3 +134,10 @@ Positions for a minimum of one year starting in the fall or spring semester and 
 </details>
 
 </details>
+
+
+## Lab Activities
+
+Theory Groups Hike in Frick Park, March 2023
+{% include figure image_path="/assets/images/hike-MAR2023.jpg" alt="Theory Groups Hike in Frick Park, March 2023" %}
+
