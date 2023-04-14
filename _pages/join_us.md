@@ -14,7 +14,7 @@ We welcome applications from prospective postdocs, graduate students, and underg
 {% include figure image_path="/assets/images/pittsburgh.jpg" alt="Pittsburgh Panorama" %}
 
 ## Postdocs
-To apply for a postdoc position, please email a cover letter and CV (with contact information for two references) to ltchong AT pitt DOT edu. 
+A postdoc position is available with a start date before December 2023. To apply, please use this [link] (https://cfopitt.taleo.net/careersection/pitt_faculty_external_pd/jobdetail.ftl?job=23002523&tz=GMT-04%3A00&tzname=America%2FNew_York).
 
 ## Graduate Students
 Positions are available for graduate students with interests in computational biophysics or chemistry. To be considered for a position, please apply to one of the following graduate programs at the University of Pittsburgh.
