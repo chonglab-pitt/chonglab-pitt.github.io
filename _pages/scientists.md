@@ -150,11 +150,11 @@ undergrad_group:
 * Reza Salari, PhD in Chemistry (2012), A&S Fellow, now a resident at Washington University School of Medicine in St. Louis.  
 * Maria (Panteva) Salari, BS in Chemistry (2010), [Assistant Professor at McKendree University](https://www.mckendree.edu/directory/maria-salari.php).
 * Ali Sinan Saglam, PhD in Chemistry (2018), DAAD Grant awardee, now a postdoc at U. Pittsburgh Medical School.  
-* Nicholas Rego, BS in Bioinformatics & Economics (2012), now a graduate student in biophysics at U. Pennsylvania.  
+* Nicholas Rego, BS in Bioinformatics & Economics (2012), now a postdoc in biophysics at U. Pennsylvania.  
 * Brandon Mills, [BPhil](http://www.honorscollege.pitt.edu/bphil-degree)/MS in Chemistry (2014), A&S Fellow, now a Senior Analyst at Accenture Scientific Informatics Services.  
 * Joseph Kaus, BS in Chemistry (2011), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a Senior Software Engineer II at Relay Therapeutics.  
-* Parmila Kafley, BS in chemistry & political science (2020), now a graduate student in chemistry at Temple University.  
-* Page Harrison, BS in comp sci & physics (2021), now a graduate student in physics at the University of Pittsburgh. 
+* Parmila Kafley, BS in chemistry & political science (2020), now a PhD candidate in chemistry at Temple University.  
+* Page Harrison, BS in comp sci & physics (2021), now a PhD candidate in physics at the University of Pittsburgh. 
 * Daniel Hatfield, BS in Chemistry (2013), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a chemistry graduate student at UCLA.  
 * Natalia Hajlasz, Allderdice High School (2014-2017), [Regeneron High School STS 2017 Finalist](https://student.societyforscience.org/regeneronsts-finalists-2017), now a Harvard undergraduate.
 * Gabriel Garcia-Borrero, BS in Biochemistry (2020), [Brackenridge Fellow](http://www.honorscollege.pitt.edu/summer-brackenridge-fellowships).  
