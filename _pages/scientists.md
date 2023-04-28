@@ -156,7 +156,7 @@ undergrad_group:
 * Parmila Kafley, BS in chemistry & political science (2020), now a PhD candidate in chemistry at Temple University.  
 * Page Harrison, BS in comp sci & physics (2021), now a PhD candidate in physics at the University of Pittsburgh. 
 * Daniel Hatfield, BS in Chemistry (2013), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a high school chemistry teacher.  
-* Natalia Hajlasz, Allderdice High School (2014-2017), [Regeneron High School STS 2017 Finalist](https://student.societyforscience.org/regeneronsts-finalists-2017), now a Harvard undergraduate.
+* Natalia Hajlasz, Allderdice High School (2014-2017), Regeneron High School STS 2017 Finalist, now a Harvard undergraduate.
 * Gabriel Garcia-Borrero, BS in Biochemistry (2020), [Brackenridge Fellow](http://www.honorscollege.pitt.edu/summer-brackenridge-fellowships).  
 * Elissa Fink (2017), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a graduate student in biophysics at UCSF.  
 * Max Dudek, BS in Molecular Biology & Computer Science (2021), NSF GRFP Award, now a PhD Student at U Penn.  
