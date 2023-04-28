@@ -142,7 +142,7 @@ undergrad_group:
 * Yiwen Zou, BS in Chemistry (2012), PharmD student at Philadelphia College of Osteopathic Med, now a Specialty Clinical Pharmacist.  
 * David Wang, [BPhil](http://www.honorscollege.pitt.edu/bphil-degree) in Chemistry & Applied Math (2012), Harvard-MIT HST program, now a resident at U. Pittsburgh Medical School.  
 * Erin Walsh (2017), [First Experiences Undergraduate Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
-* Paul Torrillo, BS in Molecular Biology & Applied Math (2021), now a PhD candidate in math at MIT. 
+* Paul Torrillo, BS in Molecular Biology & Applied Math (2021), NSF GRFP award, now a PhD candidate in math at MIT. 
 * Jakob Sorkness, BS in Chemistry(2017), [Writer in Residence](https://medium.com/pitt-undergraduate-science-writing), now at Salubris Biotherapeutics.
 * Riccardo Solazzo, Visiting MS student from University of Bologna, Italy (2022), now a PhD candidate at ETH Zurich. 
 * Claire Shao, North Allegheny Senior High School (2019-2020), now an MIT undergraduate.   
@@ -155,15 +155,14 @@ undergrad_group:
 * Joseph Kaus, BS in Chemistry (2011), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a Senior Software Engineer II at Relay Therapeutics.  
 * Parmila Kafley, BS in chemistry & political science (2020), now a PhD candidate in chemistry at Temple University.  
 * Page Harrison, BS in comp sci & physics (2021), now a PhD candidate in physics at the University of Pittsburgh. 
-* Daniel Hatfield, BS in Chemistry (2013), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a chemistry graduate student at UCLA.  
+* Daniel Hatfield, BS in Chemistry (2013), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a high school chemistry teacher.  
 * Natalia Hajlasz, Allderdice High School (2014-2017), [Regeneron High School STS 2017 Finalist](https://student.societyforscience.org/regeneronsts-finalists-2017), now a Harvard undergraduate.
 * Gabriel Garcia-Borrero, BS in Biochemistry (2020), [Brackenridge Fellow](http://www.honorscollege.pitt.edu/summer-brackenridge-fellowships).  
 * Elissa Fink (2017), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a graduate student in biophysics at UCSF.  
 * Max Dudek, BS in Molecular Biology & Computer Science (2021), NSF GRFP Award.  
 * Alex DeGrave, BS in Molecular Biology & Applied Math (2018), now an MD/PhD student at U. Washington.  
 * Karl Debiec, PhD in Biophysics (2017), Co-advisor: Angela Gronenborn, Mellon Fellow, now a software engineer at Epic Systems.  
-* Kayva Darapuneni (2017), [First Experiences Undergraduate Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
-* Charles Bobcheck, BS in Chemistry (2012).  
+* Kayva Darapuneni (2017), [First Experiences Undergraduate Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.   
 * Monica Bhattacharjee, BS in Chemistry (2009), medical student at the U. Maryland at Baltimore. 
 * Andrew Bellesis, MS in Biophysics (2020), now a Research Associate at BlueSphere Bio.  
 * Lewis Baker, BS in Applied Math (2015), now a Data Scientist at Amyris. 
