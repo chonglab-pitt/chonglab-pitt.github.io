@@ -159,7 +159,7 @@ undergrad_group:
 * Natalia Hajlasz, Allderdice High School (2014-2017), [Regeneron High School STS 2017 Finalist](https://student.societyforscience.org/regeneronsts-finalists-2017), now a Harvard undergraduate.
 * Gabriel Garcia-Borrero, BS in Biochemistry (2020), [Brackenridge Fellow](http://www.honorscollege.pitt.edu/summer-brackenridge-fellowships).  
 * Elissa Fink (2017), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a graduate student in biophysics at UCSF.  
-* Max Dudek, BS in Molecular Biology & Computer Science (2021), NSF GRFP Award.  
+* Max Dudek, BS in Molecular Biology & Computer Science (2021), NSF GRFP Award, now a PhD Student at U Penn.  
 * Alex DeGrave, BS in Molecular Biology & Applied Math (2018), now an MD/PhD student at U. Washington.  
 * Karl Debiec, PhD in Biophysics (2017), Co-advisor: Angela Gronenborn, Mellon Fellow, now a software engineer at Epic Systems.  
 * Kayva Darapuneni (2017), [First Experiences Undergraduate Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.   
