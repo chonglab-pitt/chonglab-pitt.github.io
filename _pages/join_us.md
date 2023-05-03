@@ -139,6 +139,6 @@ Video created in the first year of the pandemic (2020)
 
 ## Lab Activities
 
-Theory Groups Hike in Frick Park, March 2023
+Theory Groups Hike in Frick Park, March 2023 - with labs of Geoff Hutchison, Ken Jordan, and Peng Liu, and seminar visitor, Bettina Keller (FU Berlin) 
 {% include figure image_path="/assets/images/theoryhike-mar2023.jpg" alt="Theory Groups Hike in Frick Park, March 2023" %}
 
