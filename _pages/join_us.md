@@ -29,6 +29,7 @@ If you are interested in both computational and experimental research:
 Positions for a minimum of one year starting in the fall or spring semester and including full-time research during the summer before the senior year. Undergraduates majoring in chemistry, biology, physics, math, computer science, and related fields are encouraged to apply. Interested applicants should email a one-page resume along with contact information for two references to ltchong AT pitt DOT edu. 
 
 ## Virtual Tour of the Chong Lab 
+Video created in the first year of the pandemic (2020)
 {% include video id="1fV8hReWqR0" provider="youtube" %}
 
 ## Thinking about visiting or moving to Pittsburgh?
