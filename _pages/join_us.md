@@ -86,7 +86,7 @@ Positions for a minimum of one year starting in the fall or spring semester and 
     <li>Randyland and Mattress Factory museums</li>
     <li>Phipps Conservatory - just walking through it is so nice. They have a beautiful light show during Christmas time too! Also, you can take some really interesting classes there (some examples are bee-keeping, bonsai 101, photography… it’s very diverse - https://www.phipps.conservatory.org/classes-and-programs)</li>
     <li>Farmer’s Markets all over the city throughout the week </li>
-    <li>Pittsburgh Vintage Grand Prix (middle-end of July each year) - vintage cars race around Schenley park and it is incredible to watch/listen and there is a huge car show too! It’s canceled this year though :( </li>
+    <li>Pittsburgh Vintage Grand Prix (middle-end of July each year) - vintage cars race around Schenley park and it is incredible to watch/listen and there is a huge car show too! </li>
     </ul>
 <li>Lots of outdoor trails for walking, jogging, biking, etc: </li>
     <ul>
