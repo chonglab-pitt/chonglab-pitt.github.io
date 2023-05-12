@@ -26,7 +26,7 @@ Positions are available for graduate students with interests in computational bi
 To be considered for a research position in the Chong lab, you must be willing to commit to at least one year of research (10-12 hrs/week during the academic year and full-time during the summer). Undergraduates majoring in chemistry, biology, physics, math, computer science, and related fields are encouraged to apply before January of their junior year. Interested applicants should email a one-page resume along with contact information for two references to ltchong AT pitt DOT edu. 
 
 ## Virtual Tour of the Chong Lab 
-Video created in the first year of the pandemic (2020)
+Video created in 2020.
 {% include video id="1fV8hReWqR0" provider="youtube" %}
 
 ## Thinking about visiting or moving to Pittsburgh?
