@@ -19,10 +19,7 @@ A postdoc position is available with a start date before December 2023. To apply
 ## Graduate Students
 Positions are available for graduate students with interests in computational biophysics or chemistry. To be considered for a position, please apply to one of the following graduate programs at the University of Pittsburgh.
 
-If you are interested in solely computational research:
 [Pitt PhD Program in Chemistry](http://www.chem.pitt.edu/graduate/how-apply)<br>
-
-If you are interested in both computational and experimental research:
 [Joint CMU-Pitt PhD Program in Molecular Biophysics & Structural Biology](http://www.mbsb.pitt.edu/index.php/apply-here)<br>
 
 ## Undergraduates
