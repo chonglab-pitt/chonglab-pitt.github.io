@@ -40,7 +40,7 @@ Our work is featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-u
 
 
 {% include video id="z1Kv56IOf_0" provider="youtube" %}
-[First computational study to rationally enhance protein switching kinetics](https://www.nature.com/articles/s41467-018-03228-6). Our strategy involved the use of the weighted ensemble strategy with residue-level simulations. Shown in the movie is a protein-based calcium sensor, switching from the "on" state (where fluorophores, represented as yellow spheres, are distant) to the "off" state (fluorophores adjacent), with the probability p (statistical weight) of each snapshot indicated in the lower right hand corner. Our results predicted mutations that resulted in a >32-fold enhancement in the switch kinetics. Guitar music for this work was composed and performed by Alex J. DeGrave, and is freely available for reuse under a CC BY 4.0 license.
+[Large enhancement in protein switching kinetics by computational design](https://www.nature.com/articles/s41467-018-03228-6). Movie of a protein-based calcium sensor, switching from an "on" state with fluorophores (yellow spheres) far apart to an "off" state (fluorophores adjacent). Our results predicted mutations that enhanced switching kinetics by >32-fold. Guitar music for this work was composed and performed by Alex J. DeGrave, and is freely available for reuse under a CC BY 4.0 license.
 
 
 {% include video id="7OvtwElXlD4" provider="youtube" %}
