@@ -70,7 +70,8 @@ MC Zwier and LT Chong. “Reaching biological timescales with all-atom molecular
 
 
 
-## Development of force fields for proteins and protein mimetics
+## Development of physics-based force fields
+
 DT Yang, AM Gronenborn, and LT Chong. "Development and Validation of Fluorinated, Aromatic Amino Acid Parameters for Use with the AMBER ff15ipq Protein Force Field" *J. Phys. Chem. A* **2022**, 126, 2286-2297. 
 [link](https://doi.org/10.1021/acs.jpca.2c00255){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Yang et al. 2022 - 19F ff15ipq.pdf){: .btn .btn--inverse .btn--small} [code](https://github.com/chonglab-pitt/ff15ipq-19F){: .btn .btn--inverse .btn--small}
 
