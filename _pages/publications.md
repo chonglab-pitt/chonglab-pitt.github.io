@@ -70,7 +70,7 @@ MC Zwier and LT Chong. “Reaching biological timescales with all-atom molecular
 
 
 
-## Development of biomolecular force fields
+## Development of force fields for proteins and protein mimetics
 DT Yang, AM Gronenborn, and LT Chong. "Development and Validation of Fluorinated, Aromatic Amino Acid Parameters for Use with the AMBER ff15ipq Protein Force Field" *J. Phys. Chem. A* **2022**, 126, 2286-2297. 
 [link](https://doi.org/10.1021/acs.jpca.2c00255){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Yang et al. 2022 - 19F ff15ipq.pdf){: .btn .btn--inverse .btn--small} [code](https://github.com/chonglab-pitt/ff15ipq-19F){: .btn .btn--inverse .btn--small}
 
@@ -113,7 +113,7 @@ TA Cutler, BM Mills, DJ Lubin, LT Chong, and SN Loh. "Effect of interdomain link
 
 
 
-## Large-scale “brute-force” simulation studies
+## Large-scale conventional simulation studies
 
 KT Debiec, MJ Whitley, LMI Koharudin, LT Chong, and AM Gronenborn. “Integrating NMR, SAXS, and Atomistic Simulations: Structure and Dynamics of a Two-Domain Protein.” *Biophys. J.* **2018**, 114, 839.
 [link](http://www.cell.com/biophysj/fulltext/S0006-3495(18)30059-6){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/brute-force/Debiec et al. - 2018 - Integrating NMR, SAXS, and Atomistic Simulations .pdf){: .btn .btn--inverse .btn--small}
@@ -130,33 +130,6 @@ K Xiong, MC Zwier, NS Myshakina, VM Burger, SA Asher, and LT Chong. “Direct ob
 
 
 
-## “Pre-Chong Lab”
 
-LT Chong, JW Pitera, WC Swope, and VS Pande. "Comparison of computational approaches for predicting the effects of missense mutations on p53 function." *J. Mol. Graph. Model.* **2009**, 27, 978. 
-[link](https://www-sciencedirect-com.pitt.idm.oclc.org/science/article/abs/pii/S1093326308001794){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/pre-chong-lab/Chong et al. - 2009 - Comparison of computational approaches for predict.pdf){: .btn .btn--inverse .btn--small}
-
-LT Chong, WC Swope, JW Pitera, and VS Pande. "Kinetic computational alanine scanning: application to p53 oligomerization." *J. Mol. Biol.* **2006**, 257, 1039. 
-[link](https://www-sciencedirect-com.pitt.idm.oclc.org/science/article/pii/S0022283605016736){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/pre-chong-lab/Chong et al. - 2006 - Kinetic Computational Alanine Scanning Applicatio.pdf){: .btn .btn--inverse .btn--small}
-
-LT Chong, CD Snow, YM Rhee, and VS Pande. "Dimerization of the p53 oligomerization domain: Identification of a folding nucleus by molecular dynamics simulations." *J. Mol. Biol.* **2005**, 345, 869.
-[link](https://www-sciencedirect-com.pitt.idm.oclc.org/science/article/pii/S0022283604014044){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/pre-chong-lab/Chong et al. - 2005 - Dimerization of the p53 Oligomerization Domain Id.pdf){: .btn .btn--inverse .btn--small}
-
-LT Chong, P Bandyopadhyay, TS Scanlan, ID Kuntz, and PA Kollman. "Direct Hydroxide Attack is a Plausible Mechanism for Amidase Antibody 43C9." *J. Comp. Chem.* **2003**, 4, 1371. 
-[link](https://onlinelibrary-wiley-com.pitt.idm.oclc.org/doi/full/10.1002/jcc.10293){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/pre-chong-lab/Chong et al. - 2003 - Direct hydroxide attack is a plausible mechanism f.pdf){: .btn .btn--inverse .btn--small}
-
-TS Lee\*, LT Chong\*, JD Chodera, and PA Kollman. "An Alternative Explanation for the Catalytic Proficiency of Orotidine 5'-Phosphate Decarboxylase." *J. Am. Chem. Soc.* **2001**, 123, 12837. \*equal authorship 
-[link](https://pubs-acs-org.pitt.idm.oclc.org/doi/abs/10.1021/ja011096f){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/pre-chong-lab/Lee et al. - 2001 - An Alternative Explanation for the Catalytic Profi.pdf){: .btn .btn--inverse .btn--small}
-
-PA Kollman, I Massova, C Reyes, B Kuhn, S Huo, LT Chong, MR Lee, TS Lee, Y Duan, W Wang, O Donini, P Cieplak, J Srinivasan, D Case, and TE Cheatham 3rd. "Calculating Structures and Free Energies of Complex Molecules: Combining Molecular Mechanics and Continuum Models."  *Acc. Chem. Res.* **2000**, 33, 889. 
-[link](https://pubs-acs-org.pitt.idm.oclc.org/doi/abs/10.1021/ar000033j){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/pre-chong-lab/Kollman et al. - 2000 - Calculating Structures and Free Energies of Comple.pdf){: .btn .btn--inverse .btn--small}
-
-LT Chong, Y Duan, L Wang, I Massova, and PA Kollman. "Molecular Dynamics Simulation and Free Energy Calculations Applied to Affinity Maturation in Antibody 48G7." *Proc. Natl. Acad. Sci. USA* **1999**, 96, 14330. 
-[link](https://www-pnas-org.pitt.idm.oclc.org/content/96/25/14330.short){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/pre-chong-lab/Chong et al. - 1999 - Molecular dynamics and free-energy calculations ap.pdf){: .btn .btn--inverse .btn--small}
-
-K Lin, HS Ateeq, SH Hsiung, LT Chong, CN Zimmerman, A Castro, WC Lee, CE Hammond, S Kalkunte, LL Chen, RB Pepinsky, DR Leone, AG Sprague, WM Abraham, A Gill, RR Lobb, and SP Adams. "Selective, Tight-binding Inhibitors of Integrin Alpha-4-beta-1 that Inhibit Allergic Airway Responses." *J. Med. Chem.* **1999**, 42, 920. 
-[link](https://pubs-acs-org.pitt.idm.oclc.org/doi/abs/10.1021/jm980673g){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/pre-chong-lab/Lin et al. - 1999 - Selective, Tight-Binding Inhibitors of Integrin α4.pdf){: .btn .btn--inverse .btn--small}
-
-LT Chong, SE Dempster, ZS Hendsch, L-P Lee, and B Tidor. "Computation of Electrostatic Complements to Proteins: A Case of Charge Stabilized Binding." *Protein Sci.* **1998**, 7, 206. 
-[link](https://onlinelibrary-wiley-com.pitt.idm.oclc.org/doi/abs/10.1002/pro.5560070122){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/pre-chong-lab/Chong et al. - 1998 - Computation of electrostatic complements to protei.pdf){: .btn .btn--inverse .btn--small}
 
 
