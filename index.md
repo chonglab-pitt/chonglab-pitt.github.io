@@ -17,4 +17,3 @@ We are a collaborative group of scientists who work at the interface of chemistr
       {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
->>>>>>> Stashed changes
