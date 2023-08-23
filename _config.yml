@@ -17,6 +17,7 @@ title: Chong Lab
 subtitle: Computational Biophysics
 email: ltchong@pitt.edu 
 logo: /assets/images/logo.jpg
+#repository: "chonglab-pitt/chonglab-pitt.github.io"
 description: >- # this means to ignore newlines until "baseurl:"
   The official website for the Chong Lab in the Department of Chemistry at the University of Pittsburgh.
 twitter_username: ltchong
@@ -26,6 +27,7 @@ minimal_mistakes_skin: "default" # "default", air", "aqua", "contrast", "dark", 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+breadcrumbs: true
 
 #Outputting
 permalink: /:categories/:title/
@@ -38,6 +40,8 @@ include:
 
 search: true
 search_full_content: true
+
+excerpt_separator: "<!--more-->"  #global excerpt separator for the blog posts
 
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -59,6 +63,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-algolia
+  - jekyll-archives
 
 #author:
 #  name   : "First Lastname"
@@ -113,6 +118,17 @@ defaults:
     values:
       layout: single
       author_profile: false
+
+jekyll-archives:
+  enabled: []
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
 
 #category_archive:
 #  type: liquid
