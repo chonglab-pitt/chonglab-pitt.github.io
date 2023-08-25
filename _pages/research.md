@@ -31,6 +31,10 @@ Our work is featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-u
 
 ## Movie Highlights: 
 
+{% include video id="iegXV0vSWig" provider="youtube" %}
+[A glycan gate controls opening of the SARS-CoV-2 spike protein](https://pubmed.ncbi.nlm.nih.gov/34413500/). Movie of SARS-CoV-2 spike-opening simulated using the weighted ensemble strategy.
+
+
 {% include video id="0mhMwpLSUXY" provider="youtube" %}
 [Protein-protein binding pathways and kinetics from explicit-solvent simulations](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04811h#!divAbstract). Movie of a binding pathway for barnase (blue) and barstar (orange) from a weighted ensemble simulation. Residues at the binding interfaces of barnase (S38 and R59) and barstar (D35, D39, and W44) are highlighted in cyan and yellow, respectively. This simulation can be completed within 10 days using 16 modern GPUs. “The Story Unfolds” music by Jingle Punks is royalty-free.
 
