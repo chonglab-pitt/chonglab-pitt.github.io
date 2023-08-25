@@ -32,7 +32,7 @@ Our work is featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-u
 ## Movie Highlights: 
 
 {% include video id="iegXV0vSWig" provider="youtube" %}
-[A glycan gate controls opening of the SARS-CoV-2 spike protein](https://pubmed.ncbi.nlm.nih.gov/34413500/). Movie of SARS-CoV-2 spike-opening simulated using the weighted ensemble strategy.
+[A glycan gate controls opening of the SARS-CoV-2 spike protein](https://pubmed.ncbi.nlm.nih.gov/34413500/). Movie of the seconds-timescale SARS-CoV-2 spike-opening process, as simulated using the weighted ensemble strategy.
 
 
 {% include video id="0mhMwpLSUXY" provider="youtube" %}
