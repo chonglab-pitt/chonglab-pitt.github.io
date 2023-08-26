@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "Publications"
 ---
-## Reviews and Perspective Articles
+## Review and Perspective Articles
 
 AT Bogetti, MF Presti, SN Loh, and LT Chong. “The Next Frontier for Designing Switchable Proteins: Rational Enhancement of Kinetics.” *J. Phys. Chem. B* **2021**, 125 (32), 9069–9077. 
 [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.1c04082){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-switch/Bogetti et al. - 2021 - The Next Frontier for Designing Switchable Protein.pdf){: .btn .btn--inverse .btn--small}
@@ -19,10 +19,13 @@ LT Chong, AS Saglam, and DM Zuckerman. “Path-sampling strategies for simulatin
 MC Zwier and LT Chong. “Reaching biological timescales with all-atom molecular dynamics simulations.” *Curr. Opin. Pharmacol.* **2010**, 10, 745-752. 
 [link](http://www.sciencedirect.com/science/article/pii/S1471489210001463){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Zwier and Chong - 2010 - Reaching biological timescales with all-atom molec.pdf){: .btn .btn--inverse .btn--small}
 
-## Weighted ensemble methods, software, and tutorials
+## Weighted ensemble methods and software
 
 JD Russo\*, S Zhang\*, JMG Leung\*, AT Bogetti\*, JP Thompson, AJ DeGrave, PA Torrillo, AJ Pratt, KF Wong, J Xia, J Copperman, JL Adelman, MC Zwier, DN LeBard, DM Zuckerman, LT Chong. "WESTPA 2.0: High-Performance Upgrades for Weighted Ensemble Simulations and Analysis of Longer-Timescale Applications." *J. Chem. Theory Comput.* **2022**, 18 (2), 638–649. \*equal authorship 
 [link](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01154){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Russo et al. - 2022 - WESTPA 2.0 High-Performance Upgrades for Weighted.pdf){: .btn .btn--inverse .btn--small}
+
+S Zhang, JP Thompson, J Xia, AT Bogetti, F York, AG Skillman, LT Chong, DN LeBard. "Mechanistic Insights into Passive Membrane Permeability of Drug-Like Molecules from a Weighted Ensemble of Trajectories." *J. Chem. Inf. Model* **2022**.
+[link](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01540){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Zhang et al. - 2022 - Mechanistic Insights into Passive Membrane Permeab.pdf){: .btn .btn--inverse .btn--small}
 
 AJ DeGrave\*, AT Bogetti\*, and LT Chong. “The RED scheme: Rate-constant estimation from pre-steady state weighted ensemble simulations.” *bioRxiv* **2021**. \*equal authorship 
 [link](https://www.biorxiv.org/content/10.1101/453647v2){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/DeGrave et al. - 2021 - The RED scheme Rate-constant estimation from pre-steady state weighted ensemble simulations.pdf){: .btn .btn--inverse .btn--small}
@@ -81,7 +84,7 @@ L Casalino, A Dommer, Z Gaieb, EP Barros, T Sztain, S Ahn, A Trifan, A Brace, AT
 JL Adelman, A Scarbrough, MC Zwier, D Bhatt, LT Chong, DM Zuckerman, and M Grabe. “Simulations of the alternating access mechanism of the sodium symporter Mhp1.” *Biophys. J.* **2011**, 101, 2399. 
 [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3218348/){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Adelman et al. - 2011 - Simulations of the Alternating Access Mechanism of.pdf){: .btn .btn--inverse .btn--small}
 
-## Rational design of protein conformational switches
+## Rational design of protein switches
 
 AT Bogetti, MF Presti, SN Loh, and LT Chong. “The Next Frontier for Designing Switchable Proteins: Rational Enhancement of Kinetics.” *J. Phys. Chem. B* **2021**, 125 (32), 9069–9077. 
 [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.1c04082){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-switch/Bogetti et al. - 2021 - The Next Frontier for Designing Switchable Protein.pdf){: .btn .btn--inverse .btn--small}
@@ -95,12 +98,7 @@ BM Mills and LT Chong. “Molecular simulations of mutually exclusive folding in
 TA Cutler, BM Mills, DJ Lubin, LT Chong, and SN Loh. "Effect of interdomain linker length on an antagonistic folding-unfolding equilibrium between two protein domains." *J. Mol. Biol.* **2009**, 386,  854. 
 [link](http://www.sciencedirect.com/science/article/pii/S0022283608014034){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-switch/Cutler et al. - 2009 - Effect of Interdomain Linker Length on an Antagoni.pdf){: .btn .btn--inverse .btn--small}
 
-## Virtual screens for drug design
-
-S Zhang, JP Thompson, J Xia, AT Bogetti, F York, AG Skillman, LT Chong, DN LeBard. "Mechanistic Insights into Passive Membrane Permeability of Drug-Like Molecules from a Weighted Ensemble of Trajectories." *J. Chem. Inf. Model* **2022**.
-[link](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01540){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Zhang et al. - 2022 - Mechanistic Insights into Passive Membrane Permeab.pdf){: .btn .btn--inverse .btn--small}
-
-## Development of force fields for proteins and protein mimetics
+## Force fields for proteins and protein mimetics
 
 DT Yang, AM Gronenborn, and LT Chong. "Development and Validation of Fluorinated, Aromatic Amino Acid Parameters for Use with the AMBER ff15ipq Protein Force Field" *J. Phys. Chem. A* **2022**, 126, 2286-2297. 
 [link](https://doi.org/10.1021/acs.jpca.2c00255){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Yang et al. 2022 - 19F ff15ipq.pdf){: .btn .btn--inverse .btn--small} [code](https://github.com/chonglab-pitt/ff15ipq-19F){: .btn .btn--inverse .btn--small}
@@ -123,7 +121,7 @@ R Salari and LT Chong. “Effects of increasing temperature on desolvation costs
 R Salari and LT Chong. "Desolvation costs of salt bridges across protein binding interfaces: Similarities and differences between implicit and explicit solvent models." *J. Phys. Chem. Lett.* **2010**, 1, 2844. 
 [link](http://pubs.acs.org/doi/abs/10.1021/jz1010863){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Salari and Chong - 2012 - Effects of High Temperature on Desolvation Costs o.pdf){: .btn .btn--inverse .btn--small}
 
-## Integrative structural biology studies
+## Integrative structural biology
 
 KT Debiec, MJ Whitley, LMI Koharudin, LT Chong, and AM Gronenborn. “Integrating NMR, SAXS, and Atomistic Simulations: Structure and Dynamics of a Two-Domain Protein.” *Biophys. J.* **2018**, 114, 839.
 [link](http://www.cell.com/biophysj/fulltext/S0006-3495(18)30059-6){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/brute-force/Debiec et al. - 2018 - Integrating NMR, SAXS, and Atomistic Simulations .pdf){: .btn .btn--inverse .btn--small}
