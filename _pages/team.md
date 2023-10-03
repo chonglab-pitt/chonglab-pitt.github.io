@@ -151,7 +151,8 @@ undergrad_group:
 * Maria (Panteva) Salari, BS in Chemistry (2010), now an Assistant Professor at McKendree University.
 * Ali Sinan Saglam, PhD in Chemistry (2018), DAAD Grant awardee, now a postdoc at U. Pittsburgh Medical School.  
 * Nicholas Rego, BS in Bioinformatics & Economics (2012), now a postdoc in biophysics at U. Pennsylvania.  
-* Brandon Mills, [BPhil](https://www.frederickhonors.pitt.edu/bphil)/MS in Chemistry (2014), A&S Fellow, now a Senior Analyst at Accenture Scientific Informatics Services.  
+* Brandon Mills, [BPhil](https://www.frederickhonors.pitt.edu/bphil)/MS in Chemistry (2014), A&S Fellow, now a Senior Analyst at Accenture Scientific Informatics Services.
+* Marion LoPresti (2023), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant.
 * Joseph Kaus, BS in Chemistry (2011), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a Senior Software Engineer II at Relay Therapeutics.  
 * Parmila Kafley, BS in chemistry & political science (2020), now a PhD candidate in chemistry at Temple University.  
 * Page Harrison, BS in comp sci & physics (2021), now a PhD candidate in physics at the University of Pittsburgh. 
