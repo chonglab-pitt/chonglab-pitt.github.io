@@ -95,7 +95,7 @@ grad_group:
     title: "Darian Yang"
     excerpt: "
     **PhD Candidate in Biophysics**<br>
-    Co-advisor: Angela Gronenborn (Department of Structural Biology)
+    Co-advisor: Angela Gronenborn (Department of Structural Biology)<br>
     BS, Biochemistry, University of Delaware<br>
     Room 338, Eberly Hall<br>
     Email: dty7 AT pitt DOT edu<br>
