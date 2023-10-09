@@ -41,9 +41,21 @@ postdoc_group:
     **Postdoctoral Fellow**<br>
     PhD, Biophysics, West Virginia University<br>
     BS, Chemistry and Mathematics, Waynesburg University<br>
-    Room 226, Eberly Hall<br>
+    Room 323, Eberly Hall<br>
     Email: ncf26 AT pitt DOT edu<br>
     ORCID: [0000-0002-6223-8036](https://orcid.org/0000-0002-6223-8036)<br>
+    " 
+  - image_path: /assets/images/people/LEL.jpg
+    alt: "Yuanhao Li"
+    title: "Yuanhao Li"
+    excerpt: "
+    **Postdoctoral Fellow**<br>
+    PhD, Computational Mechanics, Carnegie Mellon University<br>
+    MS, Computational Mechanics, Carnegie Mellon University<br>
+    BS, Civil & Environmental Engineering, Auburn University<br>
+    Room 338, Eberly Hall<br>
+    Email: lel178 AT pitt DOT edu<br>
+    ORCID: [0000-0003-0688-0910](https://orcid.org/0000-0003-0688-0910)<br>
     " 
   - image_path: /assets/images/people/MLS.jpg
     alt: "Marion Silvestrini"
