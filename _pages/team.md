@@ -157,7 +157,7 @@ undergrad_group:
 * Paul Torrillo, BS in Molecular Biology & Applied Math (2021), NSF GRFP award, now a PhD candidate in math at MIT. 
 * Jakob Sorkness, BS in Chemistry(2017), [Writer in Residence](https://medium.com/pitt-undergraduate-science-writing), now at Salubris Biotherapeutics.
 * Riccardo Solazzo, Visiting MS student from University of Bologna, Italy (2022), now a PhD candidate at ETH Zurich.
-* Marion Silvestrini, Postdoc (2021-2023), now a postdoc at the University of Copenhagen. 
+* Marion Silvestrini, postdoc (2021-2023), now a postdoc at the University of Copenhagen. 
 * Claire Shao, North Allegheny Senior High School (2019-2020), now an MIT undergraduate.   
 * Joseph Seemiller (2011), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a neurology resident at Geisinger Medical Center.  
 * Reza Salari, PhD in Chemistry (2012), A&S Fellow, now a resident at Washington University School of Medicine in St. Louis.  
