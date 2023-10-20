@@ -156,13 +156,15 @@ undergrad_group:
 * Erin Walsh (2017), [First Experiences Undergraduate Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
 * Paul Torrillo, BS in Molecular Biology & Applied Math (2021), NSF GRFP award, now a PhD candidate in math at MIT. 
 * Jakob Sorkness, BS in Chemistry(2017), [Writer in Residence](https://medium.com/pitt-undergraduate-science-writing), now at Salubris Biotherapeutics.
-* Riccardo Solazzo, Visiting MS student from University of Bologna, Italy (2022), now a PhD candidate at ETH Zurich. 
+* Riccardo Solazzo, Visiting MS student from University of Bologna, Italy (2022), now a PhD candidate at ETH Zurich.
+* Marion Silvestrini, Postdoc (2021-2023), now a postdoc at the University of Copenhagen. 
 * Claire Shao, North Allegheny Senior High School (2019-2020), now an MIT undergraduate.   
 * Joseph Seemiller (2011), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a neurology resident at Geisinger Medical Center.  
 * Reza Salari, PhD in Chemistry (2012), A&S Fellow, now a resident at Washington University School of Medicine in St. Louis.  
 * Maria (Panteva) Salari, BS in Chemistry (2010), now an Assistant Professor at McKendree University.
 * Ali Sinan Saglam, PhD in Chemistry (2018), DAAD Grant awardee, now a postdoc at U. Pittsburgh Medical School.  
-* Nicholas Rego, BS in Bioinformatics & Economics (2012), now a postdoc in biophysics at U. Pennsylvania.  
+* Nicholas Rego, BS in Bioinformatics & Economics (2012), now a postdoc in biophysics at U. Pennsylvania.
+* Hannah Piston, BS in Chemistry (2019), now a medical student at U. Pittsburgh. 
 * Brandon Mills, [BPhil](https://www.frederickhonors.pitt.edu/bphil)/MS in Chemistry (2014), A&S Fellow, now a Senior Analyst at Accenture Scientific Informatics Services.
 * Marion LoPresti (2023), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant.
 * Joseph Kaus, BS in Chemistry (2011), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a Senior Software Engineer II at Relay Therapeutics.  
