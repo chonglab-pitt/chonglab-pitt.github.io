@@ -152,29 +152,29 @@ undergrad_group:
 
 * Matthew Zwier, PhD in Chemistry (2013), A&S and Mellon Fellow, now an [Associate Professor at Drake University](https://www.drake.edu/chemistry/facultystaff/drmatthewzwier/).  
 * Yiwen Zou, BS in Chemistry (2012), PharmD student at Philadelphia College of Osteopathic Med, now a Specialty Clinical Pharmacist.  
-* David Wang, [BPhil](https://www.frederickhonors.pitt.edu/bphil) in Chemistry & Applied Math (2012), Harvard-MIT HST program, now a resident at U. Pittsburgh Medical School.  
+* David Wang, [BPhil](https://www.frederickhonors.pitt.edu/bphil) in Chemistry & Applied Math (2012), Harvard-MIT HST program, now an [Assistant Professor] (https://www.anesthesiology.pitt.edu/people/david-wang-md) at U. Pittsburgh Medical School.  
 * Erin Walsh (2017), [First Experiences Undergraduate Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
-* Paul Torrillo, BS in Molecular Biology & Applied Math (2021), NSF GRFP award, now a PhD candidate in math at MIT. 
+* Paul Torrillo, BS in Molecular Biology & Applied Math (2021), NSF GRFP award, now a PhD in math candidate at MIT. 
 * Jakob Sorkness, BS in Chemistry(2017), [Writer in Residence](https://medium.com/pitt-undergraduate-science-writing), now at Salubris Biotherapeutics.
 * Riccardo Solazzo, Visiting MS student from University of Bologna, Italy (2022), now a PhD candidate at ETH Zurich.
 * Marion Silvestrini, postdoc (2021-2023), now a postdoc at the University of Copenhagen. 
 * Claire Shao, North Allegheny Senior High School (2019-2020), now an MIT undergraduate.   
 * Joseph Seemiller (2011), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a neurology resident at Geisinger Medical Center.  
-* Reza Salari, PhD in Chemistry (2012), A&S Fellow, now a resident at Washington University School of Medicine in St. Louis.  
+* Reza Salari, PhD in Chemistry (2012), A&S Fellow, now a radiologist at Barnes-Jewish Hospital in St. Louis.  
 * Maria (Panteva) Salari, BS in Chemistry (2010), now an Assistant Professor at McKendree University.
-* Ali Sinan Saglam, PhD in Chemistry (2018), DAAD Grant awardee, now a postdoc at U. Pittsburgh Medical School.  
-* Nicholas Rego, BS in Bioinformatics & Economics (2012), now a postdoc in biophysics at U. Pennsylvania.
+* Ali Sinan Saglam, PhD in Chemistry (2018), DAAD Grant awardee, now a postdoc for James Faeder (U. Pittsburgh Medical School).  
+* Nicholas Rego, BS in Bioinformatics & Economics (2012), now a postdoc in biophysics for Amish Patel (U. Pennsylvania).
 * Hannah Piston, BS in Chemistry (2019), now a medical student at U. Pittsburgh. 
 * Brandon Mills, [BPhil](https://www.frederickhonors.pitt.edu/bphil)/MS in Chemistry (2014), A&S Fellow, now a Senior Analyst at Accenture Scientific Informatics Services.
 * Marion LoPresti (2023), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant.
 * Joseph Kaus, BS in Chemistry (2011), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a Senior Software Engineer II at Relay Therapeutics.  
-* Parmila Kafley, BS in chemistry & political science (2020), now a PhD candidate in chemistry at Temple University.  
-* Page Harrison, BS in comp sci & physics (2021), now a PhD candidate in physics at the University of Pittsburgh. 
-* Daniel Hatfield, BS in Chemistry (2013), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a high school chemistry teacher.  
-* Natalia Hajlasz, Allderdice High School (2014-2017), Regeneron High School STS 2017 Finalist, now a Harvard undergraduate.
+* Parmila Kafley, BS in chemistry & political science (2020), now a PhD in chemistry candidate at Temple University.  
+* Page Harrison, BS in comp sci & physics (2021), now a PhD in physics candidate at the University of Pittsburgh. 
+* Daniel Hatfield, BS in Chemistry (2013), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a science high school teacher at Jack M. Hebrew Academy.  
+* Natalia Hajlasz, Allderdice High School (2014-2017), Regeneron High School STS 2017 Finalist, now a G1 at NYU's Courant Institute.
 * Gabriel Garcia-Borrero, BS in Biochemistry (2020), [Brackenridge Fellow](https://www.frederickhonors.pitt.edu/academics/research-and-creative-fellowships/brackenridge-fellowships).  
-* Elissa Fink (2017), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a graduate student in biophysics at UCSF.  
-* Max Dudek, BS in Molecular Biology & Computer Science (2021), NSF GRFP Award, now a PhD Student at U Penn.  
+* Elissa Fink (2017), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a PhD in biophysics candidate at UCSF.  
+* Max Dudek, BS in Molecular Biology & Computer Science (2021), NSF GRFP Award, now a PhD in chemistry candiate at U Penn.  
 * Alex DeGrave, BS in Molecular Biology & Applied Math (2018), now an MD/PhD student at U. Washington.  
 * Karl Debiec, PhD in Biophysics (2017), Co-advisor: Angela Gronenborn, Mellon Fellow, now a software engineer at Epic Systems.  
 * Kayva Darapuneni (2017), [First Experiences Undergraduate Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.   
