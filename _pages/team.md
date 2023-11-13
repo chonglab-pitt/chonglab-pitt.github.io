@@ -57,29 +57,7 @@ postdoc_group:
     Email: lel178 AT pitt DOT edu<br>
     ORCID: [0000-0003-0688-0910](https://orcid.org/0000-0003-0688-0910)<br>
     " 
-  - image_path: /assets/images/people/MLS.jpg
-    alt: "Marion Silvestrini"
-    title: "Marion Silvestrini"
-    excerpt: "
-    **Postdoctoral Fellow**<br>
-    PhD, Physics, Federal University of Rio Grande do Sul<br>
-    MS, Theoretical Physics, Federal University of Rio Grande do Sul<br>
-    BS, Astrophysics, Federal University of Rio Grande do Sul<br>
-    Room 338, Eberly Hall<br>
-    Email: mls333 AT pitt DOT edu<br>
-    ORCID: [0000-0002-7479-5163](https://orcid.org/0000-0002-7479-5163)<br>
-    " 
 grad_group:
-  - image_path: /assets/images/people/ATB.jpg
-    alt: "Anthony Bogetti"
-    title: "Anthony Bogetti"
-    excerpt: "
-    **PhD Candidate in Chemistry**<br>
-    BS, Chemistry, Messiah University<br>
-    Room 223, Eberly Hall<br>
-    Email: atb43 AT pitt DOT edu<br>
-    ORCID: [0000-0003-0610-2879](https://orcid.org/0000-0003-0610-2879)<br>
-    "
   - image_path: /assets/images/people/JML.jpg
     alt: "Jeremy Leung"
     title: "Jeremy Leung"
@@ -101,15 +79,6 @@ grad_group:
     Email: dty7 AT pitt DOT edu<br>
     ORCID: [0000-0002-8654-3529](https://orcid.org/0000-0002-8654-3529)<br>
     [SITE](https://darianyang.github.io/index.html){: .btn .btn--inverse .btn--small}
-    "
-  - image_path: /assets/images/people/HEP.jpg
-    alt: "Hannah Piston"
-    title: "Hannah Piston"
-    excerpt: "
-    **Pitt Medical Student**<br>
-    BS, Chemistry, University of Pittsburgh<br>
-    Room 338, Eberly Hall<br>
-    Email: hep32 AT pitt DOT edu
     "
   - image_path: /assets/images/people/BWF.jpg
     alt: "Baily Ford"
@@ -178,6 +147,7 @@ undergrad_group:
 * Alex DeGrave, BS in Molecular Biology & Applied Math (2018), now an MD/PhD student at U. Washington.  
 * Karl Debiec, PhD in Biophysics (2017), Co-advisor: Angela Gronenborn, Mellon Fellow, now a software engineer at Epic Systems.  
 * Kayva Darapuneni (2017), [First Experiences Undergraduate Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.   
+* Anthony Bogetti, PhD in Chemistry (2023), now a postdoc at Stony Brook University.  
 * Monica Bhattacharjee, BS in Chemistry (2009), medical student at the U. Maryland at Baltimore. 
 * Andrew Bellesis, MS in Biophysics (2020), now a Research Associate at BlueSphere Bio.  
 * Lewis Baker, BS in Applied Math (2015), now a Data Scientist at Amyris. 
