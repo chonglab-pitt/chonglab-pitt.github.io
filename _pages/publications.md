@@ -21,6 +21,9 @@ MC Zwier and LT Chong. “Reaching biological timescales with all-atom molecular
 
 ## Weighted ensemble methods and software
 
+AT Bogetti\*, JMG Leung\*, LT Chong. "LPATH: A Semiautomated Python Tool for Clustering Molecular Pathways." *J. Chem. Inf. Model.* **2023**. \*equal authorship
+[link](https://doi.org/10.1021/acs.jcim.3c01318){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2023 - LPATH A Semiautomated Python Tool for Clusteringi.pdf){: .btn .btn--inverse .btn--small}
+
 JD Russo\*, S Zhang\*, JMG Leung\*, AT Bogetti\*, JP Thompson, AJ DeGrave, PA Torrillo, AJ Pratt, KF Wong, J Xia, J Copperman, JL Adelman, MC Zwier, DN LeBard, DM Zuckerman, LT Chong. "WESTPA 2.0: High-Performance Upgrades for Weighted Ensemble Simulations and Analysis of Longer-Timescale Applications." *J. Chem. Theory Comput.* **2022**, 18 (2), 638–649. \*equal authorship 
 [link](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01154){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Russo et al. - 2022 - WESTPA 2.0 High-Performance Upgrades for Weighted.pdf){: .btn .btn--inverse .btn--small}
 
