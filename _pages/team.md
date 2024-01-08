@@ -86,8 +86,26 @@ grad_group:
     excerpt: "
     **PhD Candidate in Chemistry**<br>
     BS, Chemistry, Austin Peay State University<br>
-    Room 226, Eberly Hall<br>
-    Email: BWF AT pitt DOT edu<br>
+    Room 323, Eberly Hall<br>
+    Email: bwf15 AT pitt DOT edu<br>
+    "
+  - image_path: /assets/images/people/default.jpg
+    alt: "Gessica Adornato"
+    title: "Gessica Adornato"
+    excerpt: "
+    **PhD Candidate in Chemistry**<br>
+    BS, Chemistry<br>
+    Room 323, Eberly Hall<br>
+    Email: gma27 AT pitt DOT edu<br>
+    "
+  - image_path: /assets/images/people/AMG.jpg
+    alt: "Alex Goldberg"
+    title: "Alex Goldberg"
+    excerpt: "
+    **PhD Candidate in Biophysics**<br>
+    BS, Biochemistry, Muhlenberg College<br>
+    Room 338, Eberly Hall<br>
+    Email: amg535 AT pitt DOT edu<br>
     "
 undergrad_group:
   - image_path: /assets/images/people/RCA.jpg
