@@ -78,8 +78,11 @@ MT Panteva\*, R Salari\*, M Bhattacharjee, and LT Chong. “Direct observations 
 
 ## Simulations of protein folding and other large-scale conformational transitions in proteins
 
-JR Santhouse\*, JMG Leung\*, LT Chong, and WS Horne. “Effects of Altered Backbone Composition on the Folding Kinetics and Mechanism of an Ultrafast-Folding Protein.” *Chem. Sci.* **2023**. \*equal authorship 
-[link](https://doi.org/10.1039/D2SC04427G){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Santhouse et al. - 2023 - Effects of altered backbone composition on the fol.pdf){: .btn .btn--inverse .btn--small}
+JR Santhouse\*, JMG Leung\*, LT Chong, and WS Horne. “Effects of Altered Backbone Composition on the Folding Kinetics and Mechanism of an Ultrafast-Folding Protein.” *Chem. Sci.* **2024**. \*equal authorship 
+[link](https://doi.org/10.1039/D3SC03976E){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Santhouse et al. - 2023 - Effects of altered backbone composition on the fol.pdf){: .btn .btn--inverse .btn--small}
+
+X Bogetti\*, AT Bogetti\*, J Casto, GS Rule, LT Chong, and S Saxena. “Direct Observation of Negative Cooperativity in a Detoxification Enzyme at the Atomic Level by Electron Paramagnetic Resonance Spectroscopy and Simulation.” *Protein Sci.* **2023**. \*equal authorship 
+[link](https://doi.org/10.1002/pro.4770){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Bogetti et al. - 2023 - Direct observation of negative cooperativity in a.pdf){: .btn .btn--inverse .btn--small}
 
 JR Santhouse\*, JMG Leung\*, LT Chong, and WS Horne. “Implications of the Unfolded State in the Folding Energetics of Heterogeneous-Backbone Protein Mimetics.” *Chem. Sci.* **2022**. \*equal authorship 
 [link](https://doi.org/10.1039/D2SC04427G){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Santhouse et al. - 2022 - Implications of the unfolded state in the folding.pdf){: .btn .btn--inverse .btn--small}
@@ -134,7 +137,6 @@ R Salari and LT Chong. "Desolvation costs of salt bridges across protein binding
 
 X Bogetti\*, AT Bogetti\*, J Casto, GS Rule, LT Chong, and S Saxena. “Direct Observation of Negative Cooperativity in a Detoxification Enzyme at the Atomic Level by Electron Paramagnetic Resonance Spectroscopy and Simulation.” *Protein Sci.* **2023**. \*equal authorship 
 [link](https://doi.org/10.1002/pro.4770){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Bogetti et al. - 2023 - Direct observation of negative cooperativity in a.pdf){: .btn .btn--inverse .btn--small}
-
 
 JR Santhouse\*, JMG Leung\*, LT Chong, and WS Horne. “Implications of the Unfolded State in the Folding Energetics of Heterogeneous-Backbone Protein Mimetics.” *Chem. Sci.* **2022**. \*equal authorship 
 [link](https://doi.org/10.1039/D2SC04427G){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Santhouse et al. - 2022 - Implications of the unfolded state in the folding.pdf){: .btn .btn--inverse .btn--small}
