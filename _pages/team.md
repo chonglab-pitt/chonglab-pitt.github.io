@@ -94,7 +94,7 @@ grad_group:
     title: "Gessica Adornato"
     excerpt: "
     **PhD Candidate in Chemistry**<br>
-    BS, Chemistry<br>
+    BA, Classics, University of Washington, Seattle<br>
     Room 323, Eberly Hall<br>
     Email: gma27 AT pitt DOT edu<br>
     "
