@@ -76,7 +76,16 @@ MC Zwier, AJ Pratt, JL Adelman, JW Kaus, DM Zuckerman, and LT Chong. “Efficien
 MT Panteva\*, R Salari\*, M Bhattacharjee, and LT Chong. “Direct observations of shifts in the beta-sheet register of a protein-peptide complex using explicit solvent simulations.” *Biophys. J. Letters* **2011**, 100, L50. \*equal authorship
 [link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3149256/){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/brute-force/Panteva et al. - 2011 - Direct Observations of Shifts in the β-Sheet Regis.pdf){: .btn .btn--inverse .btn--small}
 
-## Simulations of large-scale conformational transitions to alternate protein states
+## Simulations of protein folding and other large-scale conformational transitions in proteins
+
+AT Bogetti\*, JMG Leung\*,  LT Chong. “LPATH: A Semiautomated Python Tool for Clustering Molecular Pathways.” *J. Chem. Inf. Model.* **2023**. \*equal authorship
+[link](https://doi.org/10.1021/acs.jcim.3c01318){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Bogetti et al. - 2023 - LPATH A Semiautomated Python Tool for Clustering.pdf){: .btn .btn--inverse .btn--small}
+
+JR Santhouse\*, JMG Leung\*, LT Chong, and WS Horne. “Effects of Altered Backbone Composition on the Folding Kinetics and Mechanism of an Ultrafast-Folding Protein.” *Chem. Sci.* **2023**. \*equal authorship 
+[link](https://doi.org/10.1039/D2SC04427G){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Santhouse et al. - 2023 - Effects of altered backbone composition on the fol.pdf){: .btn .btn--inverse .btn--small}
+
+JR Santhouse\*, JMG Leung\*, LT Chong, and WS Horne. “Implications of the Unfolded State in the Folding Energetics of Heterogeneous-Backbone Protein Mimetics.” *Chem. Sci.* **2022**. \*equal authorship 
+[link](https://doi.org/10.1039/D2SC04427G){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Santhouse et al. - 2022 - Implications of the unfolded state in the folding.pdf){: .btn .btn--inverse .btn--small}
 
 T Sztain, S Ahn, AT Bogetti, L Casalino, JA Goldsmith, E Seitz, RS McCool, FL Kearns, F Acosta-Reyes, S Maji, G Mashayekhi, JA McCammon, A Ourmazd, J Frankm, JS McLellan, LT Chong\*, and RE Amaro\*. “A glycan gate controls opening of the SARS-CoV-2 spike protein.” *Nat. Chem.* **2021**. \*co-corresponding authors 
 [link](https://www.nature.com/articles/s41557-021-00758-3){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Sztain et al. - 2021 - A glycan gate controls opening of the SARS-CoV-2 s.pdf){: .btn .btn--inverse .btn--small}
@@ -125,6 +134,13 @@ R Salari and LT Chong. "Desolvation costs of salt bridges across protein binding
 [link](http://pubs.acs.org/doi/abs/10.1021/jz1010863){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Salari and Chong - 2012 - Effects of High Temperature on Desolvation Costs o.pdf){: .btn .btn--inverse .btn--small}
 
 ## Integrative structural biology
+
+X Bogetti\*, AT Bogetti\*, J Casto, GS Rule, LT Chong, and S Saxena. “Direct Observation of Negative Cooperativity in a Detoxification Enzyme at the Atomic Level by Electron Paramagnetic Resonance Spectroscopy and Simulation.” *Protein Sci.* **2023**. \*equal authorship 
+[link](https://doi.org/10.1002/pro.4770){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Bogetti et al. - 2023 - Direct observation of negative cooperativity in a.pdf){: .btn .btn--inverse .btn--small}
+
+
+JR Santhouse\*, JMG Leung\*, LT Chong, and WS Horne. “Implications of the Unfolded State in the Folding Energetics of Heterogeneous-Backbone Protein Mimetics.” *Chem. Sci.* **2022**. \*equal authorship 
+[link](https://doi.org/10.1039/D2SC04427G){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Santhouse et al. - 2022 - Implications of the unfolded state in the folding.pdf){: .btn .btn--inverse .btn--small}
 
 KT Debiec, MJ Whitley, LMI Koharudin, LT Chong, and AM Gronenborn. “Integrating NMR, SAXS, and Atomistic Simulations: Structure and Dynamics of a Two-Domain Protein.” *Biophys. J.* **2018**, 114, 839.
 [link](http://www.cell.com/biophysj/fulltext/S0006-3495(18)30059-6){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/brute-force/Debiec et al. - 2018 - Integrating NMR, SAXS, and Atomistic Simulations .pdf){: .btn .btn--inverse .btn--small}
