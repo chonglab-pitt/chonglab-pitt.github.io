@@ -78,9 +78,6 @@ MT Panteva\*, R Salari\*, M Bhattacharjee, and LT Chong. “Direct observations 
 
 ## Simulations of protein folding and other large-scale conformational transitions in proteins
 
-AT Bogetti\*, JMG Leung\*,  LT Chong. “LPATH: A Semiautomated Python Tool for Clustering Molecular Pathways.” *J. Chem. Inf. Model.* **2023**. \*equal authorship
-[link](https://doi.org/10.1021/acs.jcim.3c01318){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Bogetti et al. - 2023 - LPATH A Semiautomated Python Tool for Clustering.pdf){: .btn .btn--inverse .btn--small}
-
 JR Santhouse\*, JMG Leung\*, LT Chong, and WS Horne. “Effects of Altered Backbone Composition on the Folding Kinetics and Mechanism of an Ultrafast-Folding Protein.” *Chem. Sci.* **2023**. \*equal authorship 
 [link](https://doi.org/10.1039/D2SC04427G){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Santhouse et al. - 2023 - Effects of altered backbone composition on the fol.pdf){: .btn .btn--inverse .btn--small}
 
