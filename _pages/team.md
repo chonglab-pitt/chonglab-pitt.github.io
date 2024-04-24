@@ -89,7 +89,7 @@ grad_group:
     Room 323, Eberly Hall<br>
     Email: bwf15 AT pitt DOT edu<br>
     "
-  - image_path: /assets/images/people/default.jpg
+  - image_path: /assets/images/people/GMA.jpg
     alt: "Gessica Adornato"
     title: "Gessica Adornato"
     excerpt: "
