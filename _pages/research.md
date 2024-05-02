@@ -31,6 +31,10 @@ Our work is featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-u
 
 ## Movie Highlights: 
 
+{% include video id="88jh9R5nEDw" provider="youtube" %}
+[Azide clock reaction simulated with QM/MM molecular dynamics](https://pubs.acs.org/doi/full/10.1021/jacs.4c03360). Movie of an azide clock reaction, revealing azide "crawling" along the trityl cation's "propellers".
+
+
 {% include video id="iegXV0vSWig" provider="youtube" %}
 [A glycan gate controls opening of the SARS-CoV-2 spike protein](https://pubmed.ncbi.nlm.nih.gov/34413500/). Movie of the seconds-timescale SARS-CoV-2 spike-opening process, as simulated using the weighted ensemble strategy.
 
