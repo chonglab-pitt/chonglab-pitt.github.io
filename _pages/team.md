@@ -96,7 +96,7 @@ grad_group:
     **PhD Candidate in Chemistry**<br>
     BA, Classics, University of Washington, Seattle<br>
     Room 323, Eberly Hall<br>
-    Email: gma27 AT pitt DOT edu<br>
+    Email: gma57 AT pitt DOT edu<br>
     "
   - image_path: /assets/images/people/AMG.jpg
     alt: "Alex Goldberg"
