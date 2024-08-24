@@ -134,11 +134,11 @@ undergrad_group:
 * Riccardo Solazzo, Visiting MS student from University of Bologna, Italy (2022), now a PhD candidate with Sereina Riniker (ETH Zurich).
 * Marion Silvestrini, postdoc (2021-2023), now a postdoc with Amelie Stein (University of Copenhagen). 
 * Claire Shao, North Allegheny Senior High School (2019-2020), now an MIT undergraduate.   
-* Joseph Seemiller (2011), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a neurology resident at Geisinger Medical Center.  
+* Joseph Seemiller (2011), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a neurology resident at Johns Hopkins University.  
 * Reza Salari, PhD in Chemistry (2012), A&S Fellow, now a radiologist at Barnes-Jewish Hospital in St. Louis.  
 * Maria (Panteva) Salari, BS in Chemistry (2010), now an Assistant Professor at McKendree University.
-* Ali Sinan Saglam, PhD in Chemistry (2018), DAAD Grant awardee, now a postdoc with James Faeder (U. Pittsburgh Medical School).  
-* Nicholas Rego, BS in Bioinformatics & Economics (2012), now a postdoc in biophysics for Amish Patel (U. Pennsylvania).
+* Ali Sinan Saglam, PhD in Chemistry (2018), DAAD Grant awardee, now a Computational Chemisty at VantAI. 
+* Nicholas Rego, BS in Bioinformatics & Economics (2012), now a postdoc with Amish Patel (U. Pennsylvania).
 * Hannah Piston, BS in Chemistry (2019), now a medical student at U. Pittsburgh. 
 * Brandon Mills, [BPhil](https://www.frederickhonors.pitt.edu/bphil)/MS in Chemistry (2014), A&S Fellow, now a Senior Analyst at Accenture Scientific Informatics Services.
 * Marion LoPresti (2023), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant.
@@ -155,5 +155,5 @@ undergrad_group:
 * Kayva Darapuneni (2017), [First Experiences Undergraduate Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.   
 * Anthony Bogetti, PhD in Chemistry (2023), now a postdoc with Ken Dill (Stony Brook University).  
 * Monica Bhattacharjee, BS in Chemistry (2009), medical student at the U. Maryland at Baltimore. 
-* Andrew Bellesis, MS in Biophysics (2020), now a Research Associate at BlueSphere Bio.  
+* Andrew Bellesis, MS in Biophysics (2020), now a Lab Manager at CMU.  
 * Lewis Baker, BS in Applied Math (2015), now a Data Scientist at Amyris. 
