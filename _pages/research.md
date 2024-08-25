@@ -23,7 +23,7 @@ Our work is featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-u
 [Arvind Ramanathan (Argonne National Lab)](https://ramanathanlab.org) - deep-learning enhanced weighted ensemble strategies <br/>
 
 ### With experimental labs:
-
+[Kevin Gardner (CUNY Advanced Science Research Center)](https://kglab.org/) - exploiting buried cavities for drug discovery<br/>
 [Stewart Loh (SUNY Upstate Medical University)](http://www.upstate.edu/biochem/faculty/?empID=lohs) - design of protein conformational switches <br/> 
 [Angela Gronenborn (University of Pittsburgh)](http://www.amg.structbio.pitt.edu) - integrative structural biology<br/>
 [Sunil Saxena (University of Pittsburgh)](https://sites.pitt.edu/~sksaxena/index.html) - integration of simulations with magnetic resonance restraints <br/>
