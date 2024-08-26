@@ -21,6 +21,11 @@ MC Zwier and LT Chong. “Reaching biological timescales with all-atom molecular
 
 ## Weighted ensemble methods and software
 
+DT Yang, and LT Chong. "WEDAP: A Python Package for Streamlined Plotting of Molecular Simulation Data." *J. Chem. Inf. Model.* **2024**.
+[link](https://doi.org/10.1021/acs.jcim.4c00867){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/wedap/yang-chong-2024-wedap-a-python-package-for-streamlined-plotting-of-molecular-simulation-data.pdf){: .btn .btn--inverse .btn--small}
+
+
+
 AT Bogetti\*, JMG Leung\*, LT Chong. "LPATH: A Semiautomated Python Tool for Clustering Molecular Pathways." *J. Chem. Inf. Model.* **2023**. \*equal authorship
 [link](https://doi.org/10.1021/acs.jcim.3c01318){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2023 - LPATH A Semiautomated Python Tool for Clustering.pdf){: .btn .btn--inverse .btn--small}
 
@@ -134,6 +139,9 @@ R Salari and LT Chong. "Desolvation costs of salt bridges across protein binding
 [link](http://pubs.acs.org/doi/abs/10.1021/jz1010863){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Salari and Chong - 2012 - Effects of High Temperature on Desolvation Costs o.pdf){: .btn .btn--inverse .btn--small}
 
 ## Integrative structural biology
+
+X Xu, JD Closson, LP Marcelino, DC Favaro, ML Silvestrini, R Solazzo, LT Chong, and KH Gardner. "Identification of small-molecule ligand-binding sites on and in the ARNT PAS-B domain." *J. Biol. Chem.* **2024**.
+[link](https://doi.org/10.1016/j.jbc.2024.107606){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Xingjian et al. - 2024 - Identification of small-molecule ligand-binding sites on and in the ARNT PAS-B domain.pdf){: .btn .btn--inverse .btn--small}
 
 X Bogetti\*, AT Bogetti\*, J Casto, GS Rule, LT Chong, and S Saxena. “Direct Observation of Negative Cooperativity in a Detoxification Enzyme at the Atomic Level by Electron Paramagnetic Resonance Spectroscopy and Simulation.” *Protein Sci.* **2023**. \*equal authorship 
 [link](https://doi.org/10.1002/pro.4770){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Bogetti et al. - 2023 - Direct observation of negative cooperativity in a.pdf){: .btn .btn--inverse .btn--small}
