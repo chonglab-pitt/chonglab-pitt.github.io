@@ -113,7 +113,7 @@ undergrad_group:
 * Matthew Zwier, PhD in Chemistry (2013), A&S and Mellon Fellow, now an [Associate Professor at Drake University](https://www.drake.edu/chemistry/facultystaff/drmatthewzwier/).  
 * Yiwen Zou, BS in Chemistry (2012), PharmD student at Philadelphia College of Osteopathic Med, now a Specialty Clinical Pharmacist.
 * Darian Yang, PhD in Biophysics (2024), Co-advisor: Angela Gronenborn, Mellon Fellow, now a postdoc with Kresten Lindorff-Larsen (University of Copenhagen).
-* David Wang, [BPhil](https://www.frederickhonors.pitt.edu/bphil) in Chemistry & Applied Math (2012), Harvard-MIT HST program, now an [Assistant Professor] (https://www.anesthesiology.pitt.edu/people/david-wang-md) at U. Pittsburgh Medical School.  
+* David Wang, [BPhil](https://www.frederickhonors.pitt.edu/bphil) in Chemistry & Applied Math (2012), Harvard-MIT HST program, now an [Assistant Professor](https://www.anesthesiology.pitt.edu/people/david-wang-md) at U. Pittsburgh Medical School.  
 * Erin Walsh (2017), [First Experiences Undergraduate Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
 * Paul Torrillo, BS in Molecular Biology & Applied Math (2021), NSF GRFP award, now a PhD in math candidate at MIT. 
 * Jakob Sorkness, BS in Chemistry(2017), [Writer in Residence](https://medium.com/pitt-undergraduate-science-writing), now at Salubris Biotherapeutics.
