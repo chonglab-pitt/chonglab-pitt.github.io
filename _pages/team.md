@@ -84,6 +84,14 @@ undergrad_group:
     Room 338, Eberly Hall<br>
     Email: rca27 AT pitt DOT edu
     "
+  - image_path: /assets/images/people/KJS.jpg
+    alt: "Kaylee Spadaro"
+    title: "Kaylee Spadaro"
+    excerpt: "
+    **Chemistry Major**<br>
+    Room 338, Eberly Hall<br>
+    Email: kjs189 AT pitt DOT edu
+    "
 ---
 
 # Principal Investigator
