@@ -57,15 +57,6 @@ grad_group:
     Room 323, Eberly Hall<br>
     Email: bwf15 AT pitt DOT edu<br>
     "
-  - image_path: /assets/images/people/GMA.jpg
-    alt: "Gessica Adornato"
-    title: "Gessica Adornato"
-    excerpt: "
-    **PhD Candidate in Chemistry**<br>
-    BA, Classics, University of Washington, Seattle<br>
-    Room 323, Eberly Hall<br>
-    Email: gma57 AT pitt DOT edu<br>
-    "
   - image_path: /assets/images/people/AMG.jpg
     alt: "Alex Goldberg"
     title: "Alex Goldberg"
