@@ -17,10 +17,13 @@ We welcome applications from prospective postdocs, graduate students, and underg
 For inquiries about postdoc positions, please email ltchongATpittDOTedu.
 
 ## Graduate Students
-To be considered for a graduate student position, please apply to one of the following PhD programs at the University of Pittsburgh.
+To be considered for a graduate student position, please apply to any number of the following PhD programs at the University of Pittsburgh.
 
 [Pitt PhD Program in Chemistry](http://www.chem.pitt.edu/graduate/how-apply)<br>
-[Joint CMU-Pitt PhD Program in Molecular Biophysics & Structural Biology](http://www.mbsb.pitt.edu/index.php/apply-here)<br>
+[Joint CMU-Pitt PhD Program in Molecular Biophysics & Structural Biology](http://www.mbsb.pitt.edu/index.php/apply-here)
+[Joint CMU-Pitt PhD Program in Computational Biology] (https://www.compbio.cmu.edu/) <br>
+
+Note that priority is given to students in the Pitt chemistry program given that LTC's primary appointment is in the Pitt Chemistry Department. 
 
 ## Undergraduates
 To be considered for a research position in the Chong lab, you must be willing to commit to one year of research (10-12 hrs/week during the academic year and full-time during the summer). Undergraduates majoring in chemistry, biology, physics, math, computer science, and related fields are encouraged to apply *before January of their junior year*. Interested applicants should email a one-page resume along with contact information for two references to ltchong AT pitt DOT edu. 
