@@ -21,7 +21,7 @@ To be considered for a graduate student position, please apply to any number of 
 
 [Pitt PhD Program in Chemistry](http://www.chem.pitt.edu/graduate/how-apply)<br>
 [Joint CMU-Pitt PhD Program in Molecular Biophysics & Structural Biology](http://www.mbsb.pitt.edu/index.php/apply-here)<br>
-[Joint CMU-Pitt PhD Program in Computational Biology] (https://www.compbio.cmu.edu)<br>
+[Joint CMU-Pitt PhD Program in Computational Biology](https://www.compbio.cmu.edu)<br>
 
 Note that priority is given to students in the Pitt chemistry program given that LTC's primary appointment is in the Pitt Chemistry Department. 
 
