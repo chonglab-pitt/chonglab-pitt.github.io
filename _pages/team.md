@@ -26,8 +26,8 @@ lillian:
     "
 postdoc_group:
   - image_path: /assets/images/people/LEL.jpg
-    alt: "Yuanhao Li"
-    title: "Yuanhao Li"
+    alt: "Yuanhao (Leo) Li"
+    title: "Yuanhao (Leo) Li"
     excerpt: "
     **Postdoctoral Fellow**<br>
     PhD, Computational Mechanics, Carnegie Mellon University<br>
