@@ -36,18 +36,19 @@ postdoc_group:
     Room 338, Eberly Hall<br>
     Email: lel178 AT pitt DOT edu<br>
     ORCID: [0000-0003-0688-0910](https://orcid.org/0000-0003-0688-0910)<br>
-    " 
-grad_group:
+    "
   - image_path: /assets/images/people/JML.jpg
     alt: "Jeremy Leung"
     title: "Jeremy Leung"
     excerpt: "
-    **PhD Candidate in Chemistry**<br>
+    **Postdoctoral Associate**<br>
+    PhD, Chemistry, University of Pittsburgh<br>
     BA, Chemistry, Occidental College<br>
     Room 338, Eberly Hall<br>
     Email: jml230 AT pitt DOT edu<br>
     ORCID: [0000-0001-7021-4619](https://orcid.org/0000-0001-7021-4619)<br>
     "
+grad_group:
   - image_path: /assets/images/people/BWF.jpg
     alt: "Baily Ford"
     title: "Baily Ford"
