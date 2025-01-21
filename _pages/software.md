@@ -3,7 +3,8 @@ permalink: /software/
 title: "Software"
 ---
 
-![WESTPA](/assets/images/WESTPA.png){:height="40%" width="40%" .align-center}
+![WESTPA](/assets/images/westpa-10th.svg){:height="40%" width="40%" .align-center}![WESTPAWORKSHOP2024](/assets/images/2024WESTPAWorkshop.png){:height="80%" width="80%" .align-center}
+
 
 We lead the development of the Weighted Ensemble Simulation Toolkit with Parallelization and Analysis ([WESTPA](https://github.com/westpa/westpa)), which is an open-source, highly scalable framework for carrying out extended-timescale simulations of rare events with rigorous kinetics. 
 
