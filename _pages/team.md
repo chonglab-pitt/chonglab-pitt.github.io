@@ -25,18 +25,6 @@ lillian:
     [CV](/assets/pdf/LTCcvShort.pdf){: .btn .btn--inverse .btn--small}
     "
 postdoc_group:
-  - image_path: /assets/images/people/LEL.jpg
-    alt: "Yuanhao (Leo) Li"
-    title: "Yuanhao (Leo) Li"
-    excerpt: "
-    **Postdoctoral Fellow**<br>
-    PhD, Computational Mechanics, Carnegie Mellon University<br>
-    MS, Computational Mechanics, Carnegie Mellon University<br>
-    BS, Civil & Environmental Engineering, Auburn University<br>
-    Room 338, Eberly Hall<br>
-    Email: lel178 AT pitt DOT edu<br>
-    ORCID: [0000-0003-0688-0910](https://orcid.org/0000-0003-0688-0910)<br>
-    "
   - image_path: /assets/images/people/JML.jpg
     alt: "Jeremy Leung"
     title: "Jeremy Leung"
@@ -120,6 +108,7 @@ undergrad_group:
 * Nicholas Rego, BS in Bioinformatics & Economics (2012), now a postdoc with Amish Patel (U. Pennsylvania).
 * Hannah Piston, BS in Chemistry (2019), now a medical student at U. Pittsburgh. 
 * Brandon Mills, [BPhil](https://www.frederickhonors.pitt.edu/bphil)/MS in Chemistry (2014), A&S Fellow, now a Senior Analyst at Accenture Scientific Informatics Services.
+* Yuanhao Li, postdoc (2023-2025). 
 * Marion LoPresti (2023), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant.
 * Joseph Kaus, BS in Chemistry (2011), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a Senior Software Engineer II at Relay Therapeutics.  
 * Parmila Kafley, BS in chemistry & political science (2020), now a PhD in chemistry candidate with Ross Wang (Temple University).  
