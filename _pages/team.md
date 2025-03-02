@@ -80,7 +80,9 @@ undergrad_group:
 
 # Current Group Members
 {% include feature_row id="postdoc_group" type="left" %}
+
 {% include feature_row id="grad_group" type="left" %}
+
 {% include feature_row id="undergrad_group" type="left" %}
 
 # Group Alumni 
