@@ -50,7 +50,7 @@ grad_group:
     alt: "Alex Goldberg"
     title: "Alex Goldberg"
     excerpt: "
-    **PhD Candidate in Biophysics**<br>
+    **PhD Candidate in Computational Biology**<br>
     BS, Biochemistry, Muhlenberg College<br>
     Room 338, Eberly Hall<br>
     Email: amg535 AT pitt DOT edu<br>
