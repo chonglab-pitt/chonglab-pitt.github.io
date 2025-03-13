@@ -43,7 +43,7 @@ grad_group:
     excerpt: "
     **PhD Candidate in Chemistry**<br>
     BS, Chemistry, Austin Peay State University<br>
-    Room 323, Eberly Hall<br>
+    Room 338, Eberly Hall<br>
     Email: bwf15 AT pitt DOT edu<br>
     "
   - image_path: /assets/images/people/AMG.jpg
