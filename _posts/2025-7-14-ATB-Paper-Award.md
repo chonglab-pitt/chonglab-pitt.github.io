@@ -7,7 +7,7 @@ tags:
   - News
   - Article
 header:
-  teaser: /assets/images/'2024 Paper Awards slides-01.jpg'
+  teaser: /assets/images/ATB-best-poster.png
 ---
 
 
