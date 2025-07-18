@@ -140,6 +140,9 @@ R Salari and LT Chong. "Desolvation costs of salt bridges across protein binding
 
 ## Integrative structural biology
 
+DT Yang, LT Chong, and AM Gronenborn. "Illuminating an invisible state of the HIV-1 capsid protein CTD dimer using 19F NMR and weighted ensemble simulations." *Proc. Natl. Acad. Sci. USA* **2025**.
+[link](https://www.pnas.org/doi/10.1073/pnas.2420371122){: .btn .btn--inverse .btn--small}
+
 X Xu, JD Closson, LP Marcelino, DC Favaro, ML Silvestrini, R Solazzo, LT Chong, and KH Gardner. "Identification of small-molecule ligand-binding sites on and in the ARNT PAS-B domain." *J. Biol. Chem.* **2024**.
 [link](https://doi.org/10.1016/j.jbc.2024.107606){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Xingjian et al. - 2024 - Identification of small-molecule ligand-binding sites on and in the ARNT PAS-B domain.pdf){: .btn .btn--inverse .btn--small}
 
