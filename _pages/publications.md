@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "Publications"
 ---
-## Review and Perspective Articles
+## Review and perspective articles
 
 AT Bogetti, MF Presti, SN Loh, and LT Chong. “The Next Frontier for Designing Switchable Proteins: Rational Enhancement of Kinetics.” *J. Phys. Chem. B* **2021**, 125 (32), 9069–9077. 
 [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.1c04082){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-switch/Bogetti et al. - 2021 - The Next Frontier for Designing Switchable Protein.pdf){: .btn .btn--inverse .btn--small}
