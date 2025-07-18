@@ -21,27 +21,27 @@ MC Zwier and LT Chong. “Reaching biological timescales with all-atom molecular
 
 ## Weighted ensemble methods and software
 
-JMG Leung\*, NC Frazee\*, A Brace\*, AT Bogetti, A Ramanathan, and LT Chong. "Unsupervised learning of progress coordinates during weighted ensemble simulations: Application to NTL9 protein folding." *J. Chem. Theory Comput.* **2025**.
+JMG Leung, NC Frazee, A Brace, AT Bogetti, A Ramanathan, and LT Chong. "Unsupervised learning of progress coordinates during weighted ensemble simulations: Application to NTL9 protein folding." *J. Chem. Theory Comput.* **2025**.
 [link](https://pubs.acs.org/doi/10.1021/acs.jctc.4c01136){: .btn .btn--inverse .btn--small}
 
 DT Yang, and LT Chong. "WEDAP: A Python Package for Streamlined Plotting of Molecular Simulation Data." *J. Chem. Inf. Model.* **2024**.
 [link](https://doi.org/10.1021/acs.jcim.4c00867){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/wedap/yang-chong-2024-wedap-a-python-package-for-streamlined-plotting-of-molecular-simulation-data.pdf){: .btn .btn--inverse .btn--small}
 
-AT Bogetti\*, JMG Leung\*, LT Chong. "LPATH: A Semiautomated Python Tool for Clustering Molecular Pathways." *J. Chem. Inf. Model.* **2023**. \*equal authorship
+AT Bogetti, JMG Leung, LT Chong. "LPATH: A Semiautomated Python Tool for Clustering Molecular Pathways." *J. Chem. Inf. Model.* **2023**. \*equal authorship
 [link](https://doi.org/10.1021/acs.jcim.3c01318){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2023 - LPATH A Semiautomated Python Tool for Clustering.pdf){: .btn .btn--inverse .btn--small}
 
-JD Russo\*, S Zhang\*, JMG Leung\*, AT Bogetti\*, JP Thompson, AJ DeGrave, PA Torrillo, AJ Pratt, KF Wong, J Xia, J Copperman, JL Adelman, MC Zwier, DN LeBard, DM Zuckerman, LT Chong. "WESTPA 2.0: High-Performance Upgrades for Weighted Ensemble Simulations and Analysis of Longer-Timescale Applications." *J. Chem. Theory Comput.* **2022**, 18 (2), 638–649. \*equal authorship 
+JD Russo, S Zhang, JMG Leung, AT Bogetti, JP Thompson, AJ DeGrave, PA Torrillo, AJ Pratt, KF Wong, J Xia, J Copperman, JL Adelman, MC Zwier, DN LeBard, DM Zuckerman, LT Chong. "WESTPA 2.0: High-Performance Upgrades for Weighted Ensemble Simulations and Analysis of Longer-Timescale Applications." *J. Chem. Theory Comput.* **2022**, 18 (2), 638–649. 
 [link](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01154){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Russo et al. - 2022 - WESTPA 2.0 High-Performance Upgrades for Weighted.pdf){: .btn .btn--inverse .btn--small}
 
 S Zhang, JP Thompson, J Xia, AT Bogetti, F York, AG Skillman, LT Chong, DN LeBard. "Mechanistic Insights into Passive Membrane Permeability of Drug-Like Molecules from a Weighted Ensemble of Trajectories." *J. Chem. Inf. Model* **2022**.
 [link](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01540){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Zhang et al. - 2022 - Mechanistic Insights into Passive Membrane Permeab.pdf){: .btn .btn--inverse .btn--small}
 
-AJ DeGrave\*, AT Bogetti\*, and LT Chong. “The RED scheme: Rate-constant estimation from pre-steady state weighted ensemble simulations.” *bioRxiv* **2021**. \*equal authorship 
-[link](https://www.biorxiv.org/content/10.1101/453647v2){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/DeGrave et al. - 2021 - The RED scheme Rate-constant estimation from pre-steady state weighted ensemble simulations.pdf){: .btn .btn--inverse .btn--small}
+AJ DeGrave, AT Bogetti, and LT Chong. “The RED scheme: Rate-constant estimation from pre-steady state weighted ensemble simulations.” *J. Chem. Phys.* **2021**. 
+[link](https://pubs.aip.org/aip/jcp/article/154/11/114111/315440/The-RED-scheme-Rate-constant-estimation-from-pre){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/DeGrave et al. - 2021 - The RED scheme Rate-constant estimation from pre-steady state weighted ensemble simulations.pdf){: .btn .btn--inverse .btn--small}
 
-PA Torrillo\*, AT Bogetti\*, and LT Chong. “A minimal, adaptive binning scheme for weighted ensemble simulations.” *J. Chem. Phys. A* **2021**, 125: 1642–1649. \*equal authorship [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.0c10724){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Torrillo et al. - 2021 - A Minimal, Adaptive Binning Scheme for Weighted En.pdf){: .btn .btn--inverse .btn--small}
+PA Torrillo, AT Bogetti, and LT Chong. “A minimal, adaptive binning scheme for weighted ensemble simulations.” *J. Chem. Phys. A* **2021**, 125: 1642–1649. [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.0c10724){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Torrillo et al. - 2021 - A Minimal, Adaptive Binning Scheme for Weighted En.pdf){: .btn .btn--inverse .btn--small}
 
-AT Bogetti\*, B Mostofian\*, A Dickson\*, AJ Pratt\*, AS Saglam\*, PO Harrison\*, JL Adelman, M Dudek, PA Torrillo, AJ DeGrave, U Adhikari, MC Zwier, DM Zuckerman, and LT Chong. “A suite of tutorials for the WESTPA rare-events sampling software.” *Living J. Comput. Mol. Sci.* **2019**, 1, 10607. \*equal authorship 
+AT Bogetti, B Mostofian, A Dickson, AJ Pratt, AS Saglam, PO Harrison, JL Adelman, M Dudek, PA Torrillo, AJ DeGrave, U Adhikari, MC Zwier, DM Zuckerman, and LT Chong. “A suite of tutorials for the WESTPA rare-events sampling software.” *Living J. Comput. Mol. Sci.* **2019**, 1, 10607. 
 [link](https://www.livecomsjournal.org/article/10607-a-suite-of-tutorials-for-the-westpa-rare-events-sampling-software-article-v1-0){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2019 - A Suite of Tutorials for the WESTPA Rare-Events Sa.pdf){: .btn .btn--inverse .btn--small}
 
 DM Zuckerman and LT Chong. “Weighted ensemble simulation: Review of methodology, applications, and software.” *Ann. Rev. Biophys.* **2017**, 46, 43. 
@@ -64,7 +64,7 @@ MC Zwier, JW Kaus, and LT Chong. “Efficient explicit-solvent molecular dynamic
 
 ## Protein (un)binding simulations
 
-ML Silvestrini*, R Solazzo*, S Boral, MJ Cocco, JD Closson, M Masetti, KH Gardner, and LT Chong. “Gating residues govern ligand unbinding kinetics from the buried cavity of HIF-2alpha PAS-B.” *Prot. Sci.* **2024**, 33, e5198. 
+ML Silvestrini, R Solazzo, S Boral, MJ Cocco, JD Closson, M Masetti, KH Gardner, and LT Chong. “Gating residues govern ligand unbinding kinetics from the buried cavity of HIF-2alpha PAS-B.” *Prot. Sci.* **2024**, 33, e5198. 
 [link](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.5198){: .btn .btn--inverse .btn--small}[data](https://zenodo.org/records/13737481){: .btn .btn--inverse .btn--small}
 
 AS Saglam and LT Chong. “Protein-protein binding pathways and calculations of rate constants using fully-continuous, explicit-solvent simulations.” *Chem. Sci.* **2019**, 10, 2360. 
@@ -79,21 +79,21 @@ AS Saglam and LT Chong. “Highly efficient computation of the basal kon using d
 MC Zwier, AJ Pratt, JL Adelman, JW Kaus, DM Zuckerman, and LT Chong. “Efficient atomistic simulation of pathways and calculation of rate constants for a protein-peptide binding process: Application to the MDM2 protein and an intrinsically disordered p53 peptide.” *J. Phys. Chem. Lett.* **2016**, 7, 3440. 
 [link](http://pubs.acs.org/doi/full/10.1021/acs.jpclett.6b01502){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Zwier et al. - 2016 - Efficient Atomistic Simulation of Pathways and Cal.pdf){: .btn .btn--inverse .btn--small}
 
-MT Panteva\*, R Salari\*, M Bhattacharjee, and LT Chong. “Direct observations of shifts in the beta-sheet register of a protein-peptide complex using explicit solvent simulations.” *Biophys. J. Letters* **2011**, 100, L50. \*equal authorship
+MT Panteva, R Salari, M Bhattacharjee, and LT Chong. “Direct observations of shifts in the beta-sheet register of a protein-peptide complex using explicit solvent simulations.” *Biophys. J. Letters* **2011**, 100, L50. \*equal authorship
 [link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3149256/){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/brute-force/Panteva et al. - 2011 - Direct Observations of Shifts in the β-Sheet Regis.pdf){: .btn .btn--inverse .btn--small}
 
 ## Simulations of protein folding and other large-scale conformational transitions in proteins
 
-JR Santhouse\*, JMG Leung\*, LT Chong, and WS Horne. “Effects of Altered Backbone Composition on the Folding Kinetics and Mechanism of an Ultrafast-Folding Protein.” *Chem. Sci.* **2024**. \*equal authorship 
+JR Santhouse, JMG Leung, LT Chong, and WS Horne. “Effects of Altered Backbone Composition on the Folding Kinetics and Mechanism of an Ultrafast-Folding Protein.” *Chem. Sci.* **2024**. 
 [link](https://doi.org/10.1039/D3SC03976E){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Santhouse et al. - 2023 - Effects of altered backbone composition on the fol.pdf){: .btn .btn--inverse .btn--small}
 
-X Bogetti\*, AT Bogetti\*, J Casto, GS Rule, LT Chong, and S Saxena. “Direct Observation of Negative Cooperativity in a Detoxification Enzyme at the Atomic Level by Electron Paramagnetic Resonance Spectroscopy and Simulation.” *Protein Sci.* **2023**. \*equal authorship 
+X Bogetti, AT Bogetti, J Casto, GS Rule, LT Chong, and S Saxena. “Direct Observation of Negative Cooperativity in a Detoxification Enzyme at the Atomic Level by Electron Paramagnetic Resonance Spectroscopy and Simulation.” *Protein Sci.* **2023**. 
 [link](https://doi.org/10.1002/pro.4770){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Bogetti et al. - 2023 - Direct observation of negative cooperativity in a.pdf){: .btn .btn--inverse .btn--small}
 
-JR Santhouse\*, JMG Leung\*, LT Chong, and WS Horne. “Implications of the Unfolded State in the Folding Energetics of Heterogeneous-Backbone Protein Mimetics.” *Chem. Sci.* **2022**. \*equal authorship 
+JR Santhouse, JMG Leung, LT Chong, and WS Horne. “Implications of the Unfolded State in the Folding Energetics of Heterogeneous-Backbone Protein Mimetics.” *Chem. Sci.* **2022**.
 [link](https://doi.org/10.1039/D2SC04427G){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Santhouse et al. - 2022 - Implications of the unfolded state in the folding.pdf){: .btn .btn--inverse .btn--small}
 
-T Sztain, S Ahn, AT Bogetti, L Casalino, JA Goldsmith, E Seitz, RS McCool, FL Kearns, F Acosta-Reyes, S Maji, G Mashayekhi, JA McCammon, A Ourmazd, J Frankm, JS McLellan, LT Chong\*, and RE Amaro\*. “A glycan gate controls opening of the SARS-CoV-2 spike protein.” *Nat. Chem.* **2021**. \*co-corresponding authors 
+T Sztain, S Ahn, AT Bogetti, L Casalino, JA Goldsmith, E Seitz, RS McCool, FL Kearns, F Acosta-Reyes, S Maji, G Mashayekhi, JA McCammon, A Ourmazd, J Frankm, JS McLellan, LT Chong, and RE Amaro. “A glycan gate controls opening of the SARS-CoV-2 spike protein.” *Nat. Chem.* **2021**.
 [link](https://www.nature.com/articles/s41557-021-00758-3){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Sztain et al. - 2021 - A glycan gate controls opening of the SARS-CoV-2 s.pdf){: .btn .btn--inverse .btn--small}
 
 L Casalino, A Dommer, Z Gaieb, EP Barros, T Sztain, S Ahn, A Trifan, A Brace, AT Bogetti, H Ma, H Lee, M Turilli, S Khalid, LT Chong, C Simmerling, DJ Hardy, JDC Maia, JC Phillips, T Kurth, A Stern, L Huang, J McCalpin, M Tatineni, T Gibbs, JE Stone, S Jha, A Ramanathan, and RE Amaro. “AI-Driven Multiscale Simulations Illuminate Mechanisms of SARS-CoV-2 Spike Dynamics.” *bioRxiv* **2020**.  
@@ -121,7 +121,7 @@ TA Cutler, BM Mills, DJ Lubin, LT Chong, and SN Loh. "Effect of interdomain link
 DT Yang, AM Gronenborn, and LT Chong. "Development and Validation of Fluorinated, Aromatic Amino Acid Parameters for Use with the AMBER ff15ipq Protein Force Field" *J. Phys. Chem. A* **2022**, 126, 2286-2297. 
 [link](https://doi.org/10.1021/acs.jpca.2c00255){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Yang et al. 2022 - 19F ff15ipq.pdf){: .btn .btn--inverse .btn--small} [code](https://github.com/chonglab-pitt/ff15ipq-19F){: .btn .btn--inverse .btn--small}
 
-AT Bogetti\*, HE Piston\*, JMG Leung\*, CC Cabalteja, DT Yang, AJ DeGrave, KT Debiec, DS Cerutti, DA Case, WS Horne, and LT Chong. "A twist in the road less traveled: The AMBER ff15ipq-m force field for protein mimetics." *J. Chem. Phys.* **2020**, 153(6), 064101. \*equal authorship 
+AT Bogetti, HE Piston, JMG Leung, CC Cabalteja, DT Yang, AJ DeGrave, KT Debiec, DS Cerutti, DA Case, WS Horne, and LT Chong. "A twist in the road less traveled: The AMBER ff15ipq-m force field for protein mimetics." *J. Chem. Phys.* **2020**, 153(6), 064101. 
 [link](https://aip.scitation.org/doi/10.1063/5.0019054){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Bogetti et al. - 2020 - A twist in the road less traveled The AMBER ff15i.pdf){: .btn .btn--inverse .btn--small}
 
 DS Cerutti, KT Debiec, DA Case, and LT Chong. “Links between the charge model and bonded parameter force constants in biomolecular force constants.” *J. Chem. Phys.* **2017**, 147, 161730. 
@@ -147,10 +147,10 @@ DT Yang, LT Chong, and AM Gronenborn. "Illuminating an invisible state of the HI
 X Xu, JD Closson, LP Marcelino, DC Favaro, ML Silvestrini, R Solazzo, LT Chong, and KH Gardner. "Identification of small-molecule ligand-binding sites on and in the ARNT PAS-B domain." *J. Biol. Chem.* **2024**.
 [link](https://doi.org/10.1016/j.jbc.2024.107606){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Xingjian et al. - 2024 - Identification of small-molecule ligand-binding sites on and in the ARNT PAS-B domain.pdf){: .btn .btn--inverse .btn--small}
 
-X Bogetti\*, AT Bogetti\*, J Casto, GS Rule, LT Chong, and S Saxena. “Direct Observation of Negative Cooperativity in a Detoxification Enzyme at the Atomic Level by Electron Paramagnetic Resonance Spectroscopy and Simulation.” *Protein Sci.* **2023**. \*equal authorship 
+X Bogetti, AT Bogetti, J Casto, GS Rule, LT Chong, and S Saxena. “Direct Observation of Negative Cooperativity in a Detoxification Enzyme at the Atomic Level by Electron Paramagnetic Resonance Spectroscopy and Simulation.” *Protein Sci.* **2023**. \*equal authorship 
 [link](https://doi.org/10.1002/pro.4770){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Bogetti et al. - 2023 - Direct observation of negative cooperativity in a.pdf){: .btn .btn--inverse .btn--small}
 
-JR Santhouse\*, JMG Leung\*, LT Chong, and WS Horne. “Implications of the Unfolded State in the Folding Energetics of Heterogeneous-Backbone Protein Mimetics.” *Chem. Sci.* **2022**. \*equal authorship 
+JR Santhouse, JMG Leung, LT Chong, and WS Horne. “Implications of the Unfolded State in the Folding Energetics of Heterogeneous-Backbone Protein Mimetics.” *Chem. Sci.* **2022**. \*equal authorship 
 [link](https://doi.org/10.1039/D2SC04427G){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Santhouse et al. - 2022 - Implications of the unfolded state in the folding.pdf){: .btn .btn--inverse .btn--small}
 
 KT Debiec, MJ Whitley, LMI Koharudin, LT Chong, and AM Gronenborn. “Integrating NMR, SAXS, and Atomistic Simulations: Structure and Dynamics of a Two-Domain Protein.” *Biophys. J.* **2018**, 114, 839.
