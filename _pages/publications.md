@@ -21,10 +21,11 @@ MC Zwier and LT Chong. “Reaching biological timescales with all-atom molecular
 
 ## Weighted ensemble methods and software
 
+JMG Leung\*, NC Frazee\*, A Brace\*, AT Bogetti, A Ramanathan, and LT Chong. "Unsupervised learning of progress coordinates during weighted ensemble simulations: Application to NTL9 protein folding." *J. Chem. Theory Comput.* **2025**.
+[link](https://pubs.acs.org/doi/10.1021/acs.jctc.4c01136){: .btn .btn--inverse .btn--small}
+
 DT Yang, and LT Chong. "WEDAP: A Python Package for Streamlined Plotting of Molecular Simulation Data." *J. Chem. Inf. Model.* **2024**.
 [link](https://doi.org/10.1021/acs.jcim.4c00867){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/wedap/yang-chong-2024-wedap-a-python-package-for-streamlined-plotting-of-molecular-simulation-data.pdf){: .btn .btn--inverse .btn--small}
-
-
 
 AT Bogetti\*, JMG Leung\*, LT Chong. "LPATH: A Semiautomated Python Tool for Clustering Molecular Pathways." *J. Chem. Inf. Model.* **2023**. \*equal authorship
 [link](https://doi.org/10.1021/acs.jcim.3c01318){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2023 - LPATH A Semiautomated Python Tool for Clustering.pdf){: .btn .btn--inverse .btn--small}
@@ -39,9 +40,6 @@ AJ DeGrave\*, AT Bogetti\*, and LT Chong. “The RED scheme: Rate-constant estim
 [link](https://www.biorxiv.org/content/10.1101/453647v2){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/DeGrave et al. - 2021 - The RED scheme Rate-constant estimation from pre-steady state weighted ensemble simulations.pdf){: .btn .btn--inverse .btn--small}
 
 PA Torrillo\*, AT Bogetti\*, and LT Chong. “A minimal, adaptive binning scheme for weighted ensemble simulations.” *J. Chem. Phys. A* **2021**, 125: 1642–1649. \*equal authorship [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.0c10724){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Torrillo et al. - 2021 - A Minimal, Adaptive Binning Scheme for Weighted En.pdf){: .btn .btn--inverse .btn--small}
-
-AS Saglam and LT Chong. “Protein-protein binding pathways and calculations of rate constants using fully-continuous, explicit-solvent simulations.” *Chem. Sci.* **2019**, 10, 2360. 
-[link](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04811h){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Saglam and Chong - 2019 - Protein–protein binding pathways and calculations .pdf){: .btn .btn--inverse .btn--small} [data](https://zenodo.org/record/3885771#.X2KCloZ7nxt){: .btn .btn--inverse .btn--small}
 
 AT Bogetti\*, B Mostofian\*, A Dickson\*, AJ Pratt\*, AS Saglam\*, PO Harrison\*, JL Adelman, M Dudek, PA Torrillo, AJ DeGrave, U Adhikari, MC Zwier, DM Zuckerman, and LT Chong. “A suite of tutorials for the WESTPA rare-events sampling software.” *Living J. Comput. Mol. Sci.* **2019**, 1, 10607. \*equal authorship 
 [link](https://www.livecomsjournal.org/article/10607-a-suite-of-tutorials-for-the-westpa-rare-events-sampling-software-article-v1-0){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2019 - A Suite of Tutorials for the WESTPA Rare-Events Sa.pdf){: .btn .btn--inverse .btn--small}
@@ -64,7 +62,10 @@ E Suárez, S Lettieri, MC Zwier, CA Stringer, SR Subramanian, LT Chong, and DM Z
 MC Zwier, JW Kaus, and LT Chong. “Efficient explicit-solvent molecular dynamics simulations of molecular associations: Methane/methane, Na+/Cl-, methane/benzene, and K+/18-crown-6 ether.” *J. Chem. Theory Comput.* **2011**, 7, 1189. 
 [link](http://pubs.acs.org/doi/abs/10.1021/ct100626x){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Zwier et al. - 2011 - Efficient Explicit-Solvent Molecular Dynamics Simu.pdf){: .btn .btn--inverse .btn--small}
 
-## Protein binding simulations
+## Protein (un)binding simulations
+
+ML Silvestrini*, R Solazzo*, S Boral, MJ Cocco, JD Closson, M Masetti, KH Gardner, and LT Chong. “Gating residues govern ligand unbinding kinetics from the buried cavity of HIF-2alpha PAS-B.” *Prot. Sci.* **2024**, 33, e5198. 
+[link](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.5198){: .btn .btn--inverse .btn--small}
 
 AS Saglam and LT Chong. “Protein-protein binding pathways and calculations of rate constants using fully-continuous, explicit-solvent simulations.” *Chem. Sci.* **2019**, 10, 2360. 
 [link](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04811h){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Saglam and Chong - 2019 - Protein–protein binding pathways and calculations .pdf){: .btn .btn--inverse .btn--small} [data](https://zenodo.org/record/3885771#.X2KCloZ7nxt){: .btn .btn--inverse .btn--small}
