@@ -65,7 +65,7 @@ MC Zwier, JW Kaus, and LT Chong. “Efficient explicit-solvent molecular dynamic
 ## Protein (un)binding simulations
 
 ML Silvestrini*, R Solazzo*, S Boral, MJ Cocco, JD Closson, M Masetti, KH Gardner, and LT Chong. “Gating residues govern ligand unbinding kinetics from the buried cavity of HIF-2alpha PAS-B.” *Prot. Sci.* **2024**, 33, e5198. 
-[link](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.5198){: .btn .btn--inverse .btn--small}
+[link](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.5198){: .btn .btn--inverse .btn--small}[data](https://zenodo.org/records/13737481){: .btn .btn--inverse .btn--small}
 
 AS Saglam and LT Chong. “Protein-protein binding pathways and calculations of rate constants using fully-continuous, explicit-solvent simulations.” *Chem. Sci.* **2019**, 10, 2360. 
 [link](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04811h){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Saglam and Chong - 2019 - Protein–protein binding pathways and calculations .pdf){: .btn .btn--inverse .btn--small} [data](https://zenodo.org/record/3885771#.X2KCloZ7nxt){: .btn .btn--inverse .btn--small}
