@@ -1,5 +1,5 @@
 ---
-title: " Darian Yang Publsihes PNAS Paper on the Flexibility of HIV Capsid"
+title: " Darian Yang Publishes PNAS Paper on the Flexibility of HIV Capsid"
 categories:
   - News
 tags:
