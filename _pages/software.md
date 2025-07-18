@@ -6,11 +6,11 @@ title: "Software"
 ![WESTPA](/assets/images/westpa-10th.svg){:height="40%" width="40%" .align-center}![WESTPAWORKSHOP2024](/assets/images/2024WESTPAWorkshop.PNG){:height="80%" width="80%" .align-center}
 
 
-We lead the development of the Weighted Ensemble Simulation Toolkit with Parallelization and Analysis ([WESTPA](https://github.com/westpa/westpa)), which is an open-source, highly scalable framework for carrying out extended-timescale simulations of rare events with rigorous kinetics. 
+Prof. Lillian Chong leads the development of the Weighted Ensemble Simulation Toolkit with Parallelization and Analysis ([WESTPA](https://github.com/westpa/westpa)), which is an open-source, highly scalable framework for carrying out extended-timescale simulations of rare events with rigorous kinetics. 
 
 
 
-We have also developed open-source software for the following:
+The Chong Lab has also developed open-source software for the following:
 
 [Configuring plots based on data from both MD simulation and NMR spectroscopy](https://github.com/chonglab-pitt/MolDynPlot "MolDynPlot")
 
