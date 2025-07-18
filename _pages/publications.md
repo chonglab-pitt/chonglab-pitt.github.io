@@ -162,7 +162,7 @@ KM Oshaben, R Salari, DR McCaslin, LT Chong, and WS Horne. “The native GCN4 le
 K Xiong, MC Zwier, NS Myshakina, VM Burger, SA Asher, and LT Chong. “Direct observations of conformational distributions of intrinsically disordered p53 peptides using UV Raman and explicit solvent simulations.” *J. Phys. Chem. A* **2011**, 115, 9520. 
 [link](http://pubs.acs.org/doi/abs/10.1021/jp112235d){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/brute-force/Xiong et al. - 2011 - Direct Observations of Conformational Distribution.pdf){: .btn .btn--inverse .btn--small}
 
-## Chemical Reactions
+## Chemical reactions
 
 AT Bogetti, MC Zwier, and LT Chong. “Revisiting Textbook Azide-Clock Reactions: A “Propeller-Crawling” Mechanism Explains Differences in Rates” *J. Am. Chem. Soc.* **2024**. 
 [link](https://pubs.acs.org/doi/full/10.1021/jacs.4c03360){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/chemical-reactions/Bogetti et al. - 2024 - Revisiting Textbook Azide-Clock Reactions A “Prop.pdf){: .btn .btn--inverse .btn--small}
