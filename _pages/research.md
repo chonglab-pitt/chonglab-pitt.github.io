@@ -32,7 +32,7 @@ Our work was featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-
 ## Movie Highlights: 
 
 {% include video id="88jh9R5nEDw" provider="youtube" %}
-[Azide clock reaction simulated with QM/MM molecular dynamics](https://pubs.acs.org/doi/full/10.1021/jacs.4c03360). Movie of a reaction pathway revealing azide "crawling" along the "propeller" phenyl-rings of the 4-OCH3-T+ trityl cation. Our study demonstrates the importance of examining such dynamical effects, which explain differences in kinetics for a series of azide-clock reactions. 
+[Azide clock reaction simulated with QM/MM molecular dynamics](https://pubs.acs.org/doi/full/10.1021/jacs.4c03360). Movie of a complete chemical reaction pathway revealing azide "crawling" along the "propeller" phenyl-rings of the 4-OCH3-T+ trityl cation. Our study demonstrates the importance of examining such dynamical effects, which explain differences in kinetics for a series of azide-clock reactions. 
 
 
 {% include video id="iegXV0vSWig" provider="youtube" %}
