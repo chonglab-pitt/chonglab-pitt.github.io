@@ -73,7 +73,7 @@ I am a computational biophysicist and Professor in the Department of Chemistry a
 
 My interest in computational biophysics began as an undergraduate chemistry major at MIT, where I worked with Bruce Tidor on continuum electrostatics of protein-protein interactions. This experience led me to pursue a Ph.D. in biophysics at the University of California, San Francisco, where I worked with Peter Kollman to study enzyme catalysis using molecular dynamics simulations. I then conducted postdoctoral research at Stanford University with Vijay Pande and the IBM Almaden Research Center with Bill Swope, focusing on large-scale simulations of the p53 oligomerization domain using the Folding@Home distributing computing resource. 
 
-Outside of research, I enjoy creative writing, yoga, long walks, and watching fireflies.
+Outside of research, I enjoy creative writing, yoga, and long walks.
 
 # Current Group Members
 {% include feature_row id="postdoc_group" type="left" %}
