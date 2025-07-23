@@ -6,11 +6,11 @@ title: "Research"
 ## Our research falls into the following main areas:
 
 1) Advancing weighted ensemble path sampling strategies and software (WESTPA) for efficient sampling of rare events with rigorous kinetics.  
-2) Development of implicitly polarized force fields (AMBER ff15ipq/ff15ipq-m) for canonical proteins and protein mimetics.  
-3) Application of simulations to characterize mechanisms of protein conformational transitions, binding, and assembly processes.  
-4) Development of simulation strategies for rational enhancement of kinetics for engineered protein conformational switches.  
+2) Developing implicitly polarized AMBER force fields for both canonical proteins and protein mimetics.  
+3) Performing molecular simulations to investigate pathways and kinetics of complex processes, including large-scale protein conformational transitions, protein-ligand (un)binding, and chemical reactions.  
+4) Designing computational strategies to rationally enhance the kinetics of engineered protein conformational switches.  
 
-Our work is featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-underexplored-regions) by the University of Pittsburgh’s Center for Research and Computing.
+Our work was featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-underexplored-regions) by the University of Pittsburgh’s Center for Research and Computing.
 
 [2020 Gordon Bell Special Prize Recipients](/gordon_bell_prize)
 
