@@ -24,7 +24,7 @@ To be considered for a graduate student position, please apply to any number of 
 Note that priority is given to graduate students in the chemistry program given that LTC's primary faculty appointment is in the Department of Chemistry at the University of Pittsburgh. 
 
 ## Undergraduates
-To be considered for a research position in the Chong lab, you must be willing to commit to one year of research (10-12 hrs/week during the academic year and full-time during the summer). Undergraduates majoring in chemistry, biology, physics, math, computer science, and related fields are encouraged to apply *before January of their junior year*. Interested applicants should email a one-page resume along with contact information for two references to ltchong AT pitt DOT edu. 
+To be considered for a research position in the Chong lab, applicants must be able to commit to at least one year of research (10-12 hrs/week during the academic year and full-time during the summer). Undergraduates majoring in chemistry, biology, physics, math, computer science, and related fields are encouraged to apply *before January of their junior year*. To apply, please email a one-page resume and the contact information for two references to ltchong AT pitt DOT edu. 
 
 ## Thinking about visiting or moving to Pittsburgh?
 <details>
