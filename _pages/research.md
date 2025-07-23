@@ -22,9 +22,9 @@ During the pandemic, we were part of an international team that received the [20
 
 ### With experimental labs:
 [Kevin Gardner (CUNY Advanced Science Research Center)](https://kglab.org/) - exploiting buried cavities for drug discovery<br/>
-[Stewart Loh (SUNY Upstate Medical University)](http://www.upstate.edu/biochem/faculty/?empID=lohs) - design of protein conformational switches <br/> 
-[Angela Gronenborn (University of Pittsburgh)](http://www.amg.structbio.pitt.edu) - integrative structural biology<br/>
-[Sunil Saxena (University of Pittsburgh)](https://sites.pitt.edu/~sksaxena/index.html) - integration of simulations with magnetic resonance restraints <br/>
+[Stewart Loh (SUNY Upstate Medical University)](http://www.upstate.edu/biochem/faculty/?empID=lohs) - designing protein conformational switches <br/> 
+[Angela Gronenborn (University of Pittsburgh)](http://www.amg.structbio.pitt.edu) - integrating simulations with NMR<br/>
+[Sunil Saxena (University of Pittsburgh)](https://sites.pitt.edu/~sksaxena/index.html) - integrating simulations with magnetic resonance restraints <br/>
 [Seth Horne (University of Pittsburgh)](https://www.chem.pitt.edu/person/seth-horne) - folding mechanisms of protein mimetics <br/>  
 
 ## Movie Highlights: 
