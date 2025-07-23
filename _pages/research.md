@@ -10,9 +10,7 @@ title: "Research"
 3) Performing molecular simulations to investigate pathways and kinetics of complex processes, including large-scale protein conformational transitions, protein-ligand (un)binding, and chemical reactions.  
 4) Designing computational strategies to rationally enhance the kinetics of engineered protein conformational switches.  
 
-Our work was featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-underexplored-regions) by the University of Pittsburgh’s Center for Research and Computing.
-
-[2020 Gordon Bell Special Prize Recipients](/gordon_bell_prize)
+We were part of an international team that received the [2020 Gordon Bell Special Prize for COVID-19 Research](/gordon_bell_prize)--often referred to as the "Nobel Prize in Supercomputing". Our work was also featured by [PittWire](https://www.pittwire.pitt.edu/pittwire/ones-watch/2022/09/02/lillian-chong). 
 
 ## Collaborations:
 ### With computational labs:
