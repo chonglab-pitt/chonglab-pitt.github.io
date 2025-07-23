@@ -22,7 +22,6 @@ lillian:
     Email: ltchong AT pitt DOT edu<br>
     Tel: 412-624-6026<br>
     ORCID: [0000-0002-0590-483X](https://orcid.org/0000-0002-0590-483X)<br>
-    [CV](/assets/pdf/LTCcvShort.pdf){: .btn .btn--inverse .btn--small}
     "
 postdoc_group:
   - image_path: /assets/images/people/JML.jpg
@@ -56,14 +55,6 @@ grad_group:
     Email: amg535 AT pitt DOT edu<br>
     "
 undergrad_group:
-  - image_path: /assets/images/people/RCA.jpg
-    alt: "Rhea Abraham"
-    title: "Rhea Abraham"
-    excerpt: "
-    **Neuroscience Major**<br>
-    Room 338, Eberly Hall<br>
-    Email: rca27 AT pitt DOT edu
-    "
   - image_path: /assets/images/people/KJS.jpg
     alt: "Kaylee Spadaro"
     title: "Kaylee Spadaro"
@@ -77,6 +68,12 @@ undergrad_group:
 # Principal Investigator
 
 {% include feature_row id="lillian" type="left" %}
+
+I am a computational biophysicist and Professor in the Department of Chemistry at the University of Pittsburgh, with affiliations in the Joint CMU-Pitt PhD programs in Molecular Biophysics and Structural Biology, and Computational Biology. My honors include an NSF CAREER Award, a collaborative Gordon Bell Special Prize in COVID-19 Research, and a Tina & David Bellet Teaching Excellence Award from the University of Pittsburgh. I also serve on the Scientific Advisory Board of OpenEye Scientific, Cadence.
+
+My interest in computational biophysics began as an undergraduate chemistry major at MIT, where I worked with Bruce Tidor on continuum electrostatics of protein-protein interactions. This experience led me to pursue a Ph.D. in biophysics at the University of California, San Francisco, where I worked with Peter Kollman to study antibody and enzyme catalysis using molecular simulations. I then conducted postdoctoral research at Stanford University with Vijay Pande and the IBM Almaden Research Center with Bill Swope, focusing on large-scale simulations of the p53 oligomerization domain. 
+
+Outside of research, I enjoy creative writing, yoga, long walks, and watching fireflies.
 
 # Current Group Members
 {% include feature_row id="postdoc_group" type="left" %}
@@ -115,4 +112,5 @@ undergrad_group:
 * Anthony Bogetti, PhD in Chemistry (2023), Mellow Fellow, now a postdoc with Ken Dill (Stony Brook University).  
 * Monica Bhattacharjee, BS in Chemistry (2009), medical student at the U. Maryland at Baltimore. 
 * Andrew Bellesis, MS in Biophysics (2020), now a Lab Manager at CMU.  
-* Lewis Baker, BS in Applied Math (2015), now a Data Scientist at Amyris. 
+* Lewis Baker, BS in Applied Math (2015), now a Data Scientist at Amyris.
+* Rhea Abraham, BS in Neuroscience (2025), now an MD student at the Cleveland Clinic Lerner College of Medicine.
