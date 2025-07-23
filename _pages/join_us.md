@@ -7,7 +7,7 @@ toc_label: "Join Us"
 toc_icon: "user-plus"
 ---
 
-Join us in our scientific adventures! We welcome applications from prospective postdocs, graduate students, and undergraduates. We encourage a diversity of backgrounds.
+Join us in our scientific adventures! We welcome applications from prospective postdocs, graduate students, and undergraduates, and we value varied backgrounds and perspectives.
 
 {% include figure image_path="/assets/images/pittsburgh.jpg" alt="Pittsburgh Panorama" %}
 
