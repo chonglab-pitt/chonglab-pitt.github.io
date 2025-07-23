@@ -5,10 +5,10 @@ title: "Research"
 
 ## Our research falls into the following main areas:
 
-1) Development of weighted ensemble path sampling strategies and software (WESTPA) for efficient sampling of rare events with rigorous kinetics.  
-2) Application of simulations to characterize mechanisms of protein conformational transitions, binding, and assembly processes.  
-3) Development of simulation strategies for rational enhancement of kinetics for engineered protein conformational switches.  
-4) Development of implicitly polarized force fields (AMBER ff15ipq/ff15ipq-m) for canonical proteins and protein mimetics.  
+1) Advancing weighted ensemble path sampling strategies and software (WESTPA) for efficient sampling of rare events with rigorous kinetics.  
+2) Development of implicitly polarized force fields (AMBER ff15ipq/ff15ipq-m) for canonical proteins and protein mimetics.  
+3) Application of simulations to characterize mechanisms of protein conformational transitions, binding, and assembly processes.  
+4) Development of simulation strategies for rational enhancement of kinetics for engineered protein conformational switches.  
 
 Our work is featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-underexplored-regions) by the University of Pittsburgh’s Center for Research and Computing.
 
