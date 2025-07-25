@@ -59,7 +59,7 @@ undergrad_group:
     alt: "Kaylee Spadaro"
     title: "Kaylee Spadaro"
     excerpt: "
-    **Chemistry Major**<br>
+    **Chemistry and Biology Major**<br>
     Room 338, Eberly Hall<br>
     Email: kjs189 AT pitt DOT edu
     "
