@@ -21,6 +21,9 @@ MC Zwier and LT Chong. “Reaching biological timescales with all-atom molecular
 
 ## Weighted ensemble methods and software
 
+AT Bogetti, DT Yang, HE Piston, DN LeBard, and LT Chong. “Lessons learned from a ligand-unbinding stress test for weighted ensemble simulations.” *ACS Omega* **2025**, 10, 27617. 
+[link](https://pubs.acs.org/doi/10.1021/acsomega.5c03809){: .btn .btn--inverse .btn--small}
+
 JMG Leung, NC Frazee, A Brace, AT Bogetti, A Ramanathan, and LT Chong. "Unsupervised learning of progress coordinates during weighted ensemble simulations: Application to NTL9 protein folding." *J. Chem. Theory Comput.* **2025**.
 [link](https://pubs.acs.org/doi/10.1021/acs.jctc.4c01136){: .btn .btn--inverse .btn--small}
 
@@ -63,6 +66,9 @@ MC Zwier, JW Kaus, and LT Chong. “Efficient explicit-solvent molecular dynamic
 [link](http://pubs.acs.org/doi/abs/10.1021/ct100626x){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Zwier et al. - 2011 - Efficient Explicit-Solvent Molecular Dynamics Simu.pdf){: .btn .btn--inverse .btn--small}
 
 ## Protein (un)binding simulations
+
+AT Bogetti, DT Yang, HE Piston, DN LeBard, and LT Chong. “Lessons learned from a ligand-unbinding stress test for weighted ensemble simulations.” *ACS Omega* **2025**, 10, 27617. 
+[link](https://pubs.acs.org/doi/10.1021/acsomega.5c03809){: .btn .btn--inverse .btn--small}
 
 ML Silvestrini, R Solazzo, S Boral, MJ Cocco, JD Closson, M Masetti, KH Gardner, and LT Chong. “Gating residues govern ligand unbinding kinetics from the buried cavity of HIF-2alpha PAS-B.” *Prot. Sci.* **2024**, 33, e5198. 
 [link](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.5198){: .btn .btn--inverse .btn--small}[data](https://zenodo.org/records/13737481){: .btn .btn--inverse .btn--small}

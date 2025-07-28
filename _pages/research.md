@@ -5,14 +5,12 @@ title: "Research"
 
 ## Our research falls into the following main areas:
 
-1) Development of weighted ensemble path sampling strategies and software (WESTPA) for efficient sampling of rare events with rigorous kinetics.  
-2) Application of simulations to characterize mechanisms of protein conformational transitions, binding, and assembly processes.  
-3) Development of simulation strategies for rational enhancement of kinetics for engineered protein conformational switches.  
-4) Development of implicitly polarized force fields (AMBER ff15ipq/ff15ipq-m) for canonical proteins and protein mimetics.  
+1) Advancing weighted ensemble path sampling strategies and software (WESTPA) for efficient sampling of rare events with rigorous kinetics.  
+2) Developing implicitly polarized AMBER force fields for both canonical proteins and protein mimetics.  
+3) Performing molecular simulations to investigate pathways and kinetics of complex processes, including large-scale protein conformational transitions, protein-ligand (un)binding, and chemical reactions.  
+4) Designing computational strategies to rationally enhance the kinetics of engineered protein conformational switches.  
 
-Our work is featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-underexplored-regions) by the University of Pittsburgh’s Center for Research and Computing.
-
-[2020 Gordon Bell Special Prize Recipients](/gordon_bell_prize)
+During the pandemic, we were part of an international team that received the [2020 Gordon Bell Special Prize for COVID-19 Research](/gordon_bell_prize) - often referred to as the "Nobel Prize in Supercomputing". Our work was also featured by [PittWire](https://www.pittwire.pitt.edu/pittwire/ones-watch/2022/09/02/lillian-chong). 
 
 ## Collaborations:
 ### With computational labs:
@@ -24,31 +22,31 @@ Our work is featured [here](https://crc.pitt.edu/content/lillian-chong-focuses-u
 
 ### With experimental labs:
 [Kevin Gardner (CUNY Advanced Science Research Center)](https://kglab.org/) - exploiting buried cavities for drug discovery<br/>
-[Stewart Loh (SUNY Upstate Medical University)](http://www.upstate.edu/biochem/faculty/?empID=lohs) - design of protein conformational switches <br/> 
-[Angela Gronenborn (University of Pittsburgh)](http://www.amg.structbio.pitt.edu) - integrative structural biology<br/>
-[Sunil Saxena (University of Pittsburgh)](https://sites.pitt.edu/~sksaxena/index.html) - integration of simulations with magnetic resonance restraints <br/>
+[Stewart Loh (SUNY Upstate Medical University)](http://www.upstate.edu/biochem/faculty/?empID=lohs) - designing protein conformational switches <br/> 
+[Angela Gronenborn (University of Pittsburgh)](http://www.amg.structbio.pitt.edu) - integrating simulations with NMR<br/>
+[Sunil Saxena (University of Pittsburgh)](https://sites.pitt.edu/~sksaxena/index.html) - integrating simulations with magnetic resonance restraints <br/>
 [Seth Horne (University of Pittsburgh)](https://www.chem.pitt.edu/person/seth-horne) - folding mechanisms of protein mimetics <br/>  
 
 ## Movie Highlights: 
 
 {% include video id="88jh9R5nEDw" provider="youtube" %}
-[Azide clock reaction simulated with QM/MM molecular dynamics](https://pubs.acs.org/doi/full/10.1021/jacs.4c03360). Movie of a reaction pathway revealing azide "crawling" along the "propeller" phenyl-rings of the 4-OCH3-T+ trityl cation. Our study demonstrates the importance of examining such dynamical effects, which explain differences in kinetics for a series of azide-clock reactions. 
+[Azide clock reaction simulated with QM/MM molecular dynamics](https://pubs.acs.org/doi/full/10.1021/jacs.4c03360). A complete chemical reaction pathway revealing azide "crawling" along the "propeller" phenyl-rings of the 4-OCH3-T+ trityl cation. Our study demonstrates the importance of examining such dynamical effects, which explain differences in kinetics for a series of azide-clock reactions. 
 
 
 {% include video id="iegXV0vSWig" provider="youtube" %}
-[A glycan gate controls opening of the SARS-CoV-2 spike protein](https://pubmed.ncbi.nlm.nih.gov/34413500/). Movie of the seconds-timescale spike-opening process of SARS-CoV-2 (1M atom system), as simulated using the weighted ensemble strategy. The glycan gate at the N288 position is highlighted in magenta.
+[A glycan gate controls opening of the SARS-CoV-2 spike protein](https://pubmed.ncbi.nlm.nih.gov/34413500/). The seconds-timescale spike-opening process of SARS-CoV-2 (1M atom system), as simulated using the weighted ensemble strategy. The glycan gate at the N288 position is highlighted in magenta.
 
 
 {% include video id="0mhMwpLSUXY" provider="youtube" %}
-[Protein-protein binding pathways and kinetics from explicit-solvent simulations](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04811h#!divAbstract). Movie of a binding pathway for barnase (blue) and barstar (orange) from a weighted ensemble simulation. Residues at the binding interfaces of barnase (S38 and R59) and barstar (D35, D39, and W44) are highlighted in cyan and yellow, respectively. This simulation can be completed within 10 days using 16 modern GPUs. “The Story Unfolds” music by Jingle Punks is royalty-free.
+[Protein-protein binding pathways and kinetics from explicit-solvent simulations](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04811h#!divAbstract). A binding pathway for barnase (blue) and barstar (orange) from a weighted ensemble simulation. Residues at the binding interfaces of barnase (S38 and R59) and barstar (D35, D39, and W44) are highlighted in cyan and yellow, respectively. This simulation can be completed within 10 days using 16 modern GPUs. “The Story Unfolds” music by Jingle Punks is royalty-free.
 
 
 {% include video id="ahWvbOnI52g" provider="youtube" %}
-[First atomistic simulations of protein-peptide binding pathways to yield an on-rate](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b01502). Movie of a coupled folding and binding pathway generated by weighted ensemble simulations involving a disordered p53 peptide (gold) and MDM2 protein (gray). "Anchor" residues which become the most buried upon binding are highlighted in red, blue, and green for F19, W23, and L26, respectively. 
+[First atomistic simulations of protein-peptide binding pathways to yield an on-rate](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b01502). A coupled folding and binding pathway generated by weighted ensemble simulations involving a disordered p53 peptide (gold) and MDM2 protein (gray). "Anchor" residues which become the most buried upon binding are highlighted in red, blue, and green for F19, W23, and L26, respectively. 
 
 
 {% include video id="z1Kv56IOf_0" provider="youtube" %}
-[Large enhancement in protein switching kinetics by computational design](https://www.nature.com/articles/s41467-018-03228-6). Movie of a protein-based calcium sensor, switching from an "on" state with fluorophores (yellow spheres) far apart to an "off" state (fluorophores adjacent). Our results predicted mutations that enhanced switching kinetics by >32-fold. Guitar music for this work was composed and performed by Alex J. DeGrave, and is freely available for reuse under a CC BY 4.0 license.
+[Large enhancement in protein switching kinetics by computational design](https://www.nature.com/articles/s41467-018-03228-6). A protein-based calcium sensor, switching from an "on" state with fluorophores (yellow spheres) far apart to an "off" state (fluorophores adjacent). Our results predicted mutations that enhanced switching kinetics by >32-fold. Guitar music for this work was composed and performed by Alex J. DeGrave, and is freely available for reuse under a CC BY 4.0 license.
 
 
 {% include video id="7OvtwElXlD4" provider="youtube" %}
