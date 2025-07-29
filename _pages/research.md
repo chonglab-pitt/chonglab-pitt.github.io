@@ -3,14 +3,14 @@ permalink: /research/
 title: "Research"
 ---
 
-## Our research falls into the following main areas:
+## Our research centers on four main areas:
 
 1) Advancing weighted ensemble path sampling strategies and software (WESTPA) for efficient sampling of rare events with rigorous kinetics.  
 2) Developing implicitly polarized AMBER force fields for both canonical proteins and protein mimetics.  
-3) Performing molecular simulations to investigate pathways and kinetics of complex processes, including large-scale protein conformational transitions, protein-ligand (un)binding, and chemical reactions.  
+3) Conducting molecular simulations to investigate pathways and kinetics of complex processes, including large-scale protein conformational transitions, protein-ligand (un)binding, and chemical reactions.  
 4) Designing computational strategies to rationally enhance the kinetics of engineered protein conformational switches.  
 
-During the pandemic, we were part of an international team that received the [2020 Gordon Bell Special Prize for COVID-19 Research](/gordon_bell_prize) - often referred to as the "Nobel Prize in Supercomputing". Our WESTPA-simulated movies of the coronavirus spike opening process were featured on the front page of the [New York Times, December 1, 2021](https://www.nytimes.com/interactive/2021/12/01/science/coronavirus-aerosol-simulation.html). This work was also featured by [PittWire](https://www.pittwire.pitt.edu/pittwire/ones-watch/2022/09/02/lillian-chong). 
+During the pandemic, we were part of an international team that received the [2020 Gordon Bell Special Prize for COVID-19 Research](/gordon_bell_prize) - often referred to as the "Nobel Prize in Supercomputing". Our WESTPA-generated movies capturing the coronavirus spike opening process were featured on the front page of the [New York Times, December 1, 2021](https://www.nytimes.com/interactive/2021/12/01/science/coronavirus-aerosol-simulation.html). This work was also highlighted by [PittWire](https://www.pittwire.pitt.edu/pittwire/ones-watch/2022/09/02/lillian-chong). 
 
 ## Collaborations:
 ### With computational labs:
