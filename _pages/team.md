@@ -86,7 +86,7 @@ My interest in computational biophysics began as an undergraduate chemistry majo
 
 Outside of research, I enjoy creative writing, yoga, and long walks.
 
-Check out the Chong Group's [academic geneology](https://academictree.org/chemistry/tree.php?pid=141518#)! 
+The Chong Group's [academic geneology](https://academictree.org/chemistry/tree.php?pid=141518#) -- we all stand on the shoulders of giants.
 
 # Current Group Members
 {% include feature_row id="postdoc_group" type="left" %}
