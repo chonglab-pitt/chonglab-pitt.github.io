@@ -35,13 +35,13 @@ postdoc_group:
     Email: jml230 AT pitt DOT edu<br>
     ORCID: [0000-0001-7021-4619](https://orcid.org/0000-0001-7021-4619)<br>
     "
-  - image_path: /assets/images/people/SRS.png
+  - image_path: /assets/images/people/SRS.jpg
     alt: "Stephen Slimak"
     title: "Stephen Slimak"
     excerpt: "
     **Postdoctoral Associate**<br>
     PhD, Chemistry, University of Pittsburgh<br>
-    B.S.C, Chemistry, BS, Mathematics,  Lebanon Valley College<br>
+    B.S.C, Chemistry, BS, Mathematics, Lebanon Valley College<br>
     Room 338, Eberly Hall<br>
     Email: srs215 AT pitt DOT edu<br>
     ORCID: [0009-0006-9420-1357](https://orcid.org/0009-0006-9420-1357)<br>
