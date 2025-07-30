@@ -86,7 +86,7 @@ plugins:
 footer:
   links:
     - label: "BlueSky"
-      icon: "fab fa-brands fa-bluesky"
+      icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/ltchong.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
