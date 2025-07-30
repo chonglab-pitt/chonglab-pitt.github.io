@@ -22,13 +22,13 @@ MC Zwier and LT Chong. “Reaching biological timescales with all-atom molecular
 ## Weighted ensemble methods and software
 
 AT Bogetti, DT Yang, HE Piston, DN LeBard, and LT Chong. “Lessons learned from a ligand-unbinding stress test for weighted ensemble simulations.” *ACS Omega* **2025**, 10, 27617. 
-[link](https://pubs.acs.org/doi/10.1021/acsomega.5c03809){: .btn .btn--inverse .btn--small}
+[link](https://pubs.acs.org/doi/10.1021/acsomega.5c03809){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2025 - Lessons Learned from a Ligand-Unbinding Stress Test for Weighted Ensemble Simulations){: .btn .btn--inverse .btn--small}
 
 JMG Leung, NC Frazee, A Brace, AT Bogetti, A Ramanathan, and LT Chong. "Unsupervised learning of progress coordinates during weighted ensemble simulations: Application to NTL9 protein folding." *J. Chem. Theory Comput.* **2025**.
-[link](https://pubs.acs.org/doi/10.1021/acs.jctc.4c01136){: .btn .btn--inverse .btn--small}
+[link](https://pubs.acs.org/doi/10.1021/acs.jctc.4c01136){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Leung et al. - 2025 - Unsupervised Learning of Progress Coordinates during Weighted Ensemble Simulations Application to N.pdf){: .btn .btn--inverse .btn--small}
 
 DT Yang, and LT Chong. "WEDAP: A Python Package for Streamlined Plotting of Molecular Simulation Data." *J. Chem. Inf. Model.* **2024**.
-[link](https://doi.org/10.1021/acs.jcim.4c00867){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/wedap/yang-chong-2024-wedap-a-python-package-for-streamlined-plotting-of-molecular-simulation-data.pdf){: .btn .btn--inverse .btn--small}
+[link](https://doi.org/10.1021/acs.jcim.4c00867){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Yang and Chong - 2024 - WEDAP A Python Package for Streamlined Plotting o.pdf){: .btn .btn--inverse .btn--small}
 
 AT Bogetti, JMG Leung, LT Chong. "LPATH: A Semiautomated Python Tool for Clustering Molecular Pathways." *J. Chem. Inf. Model.* **2023**. \*equal authorship
 [link](https://doi.org/10.1021/acs.jcim.3c01318){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2023 - LPATH A Semiautomated Python Tool for Clustering.pdf){: .btn .btn--inverse .btn--small}
@@ -68,10 +68,10 @@ MC Zwier, JW Kaus, and LT Chong. “Efficient explicit-solvent molecular dynamic
 ## Protein (un)binding simulations
 
 AT Bogetti, DT Yang, HE Piston, DN LeBard, and LT Chong. “Lessons learned from a ligand-unbinding stress test for weighted ensemble simulations.” *ACS Omega* **2025**, 10, 27617. 
-[link](https://pubs.acs.org/doi/10.1021/acsomega.5c03809){: .btn .btn--inverse .btn--small}
+[link](https://pubs.acs.org/doi/10.1021/acsomega.5c03809){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2025 - Lessons Learned from a Ligand-Unbinding Stress Test for Weighted Ensemble Simulations){: .btn .btn--inverse .btn--small}
 
 ML Silvestrini, R Solazzo, S Boral, MJ Cocco, JD Closson, M Masetti, KH Gardner, and LT Chong. “Gating residues govern ligand unbinding kinetics from the buried cavity of HIF-2alpha PAS-B.” *Prot. Sci.* **2024**, 33, e5198. 
-[link](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.5198){: .btn .btn--inverse .btn--small}[data](https://zenodo.org/records/13737481){: .btn .btn--inverse .btn--small}
+[link](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.5198){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Silvestrini et al. - 2024 - Gating residues govern ligand unbinding kinetics from the buried cavity in HIF-2α PAS-B.pdf){: .btn .btn--inverse .btn--small} [data](https://zenodo.org/records/13737481){: .btn .btn--inverse .btn--small}
 
 AS Saglam and LT Chong. “Protein-protein binding pathways and calculations of rate constants using fully-continuous, explicit-solvent simulations.” *Chem. Sci.* **2019**, 10, 2360. 
 [link](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04811h){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Saglam and Chong - 2019 - Protein–protein binding pathways and calculations .pdf){: .btn .btn--inverse .btn--small} [data](https://zenodo.org/record/3885771#.X2KCloZ7nxt){: .btn .btn--inverse .btn--small}
@@ -148,7 +148,7 @@ R Salari and LT Chong. "Desolvation costs of salt bridges across protein binding
 ## Integrative structural biology
 
 DT Yang, LT Chong, and AM Gronenborn. "Illuminating an invisible state of the HIV-1 capsid protein CTD dimer using 19F NMR and weighted ensemble simulations." *Proc. Natl. Acad. Sci. USA* **2025**.
-[link](https://www.pnas.org/doi/10.1073/pnas.2420371122){: .btn .btn--inverse .btn--small}
+[link](https://www.pnas.org/doi/10.1073/pnas.2420371122){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/structural-biology/Yang et al. - 2025 - Illuminating an invisible state of the HIV-1 capsid protein CTD dimer using 19F NMR and weighted ens.pdf){: .btn .btn--inverse .btn--small}
 
 X Xu, JD Closson, LP Marcelino, DC Favaro, ML Silvestrini, R Solazzo, LT Chong, and KH Gardner. "Identification of small-molecule ligand-binding sites on and in the ARNT PAS-B domain." *J. Biol. Chem.* **2024**.
 [link](https://doi.org/10.1016/j.jbc.2024.107606){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Xingjian et al. - 2024 - Identification of small-molecule ligand-binding sites on and in the ARNT PAS-B domain.pdf){: .btn .btn--inverse .btn--small}
