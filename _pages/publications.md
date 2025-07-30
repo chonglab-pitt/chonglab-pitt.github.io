@@ -22,7 +22,7 @@ MC Zwier and LT Chong. “Reaching biological timescales with all-atom molecular
 ## Weighted ensemble methods and software
 
 AT Bogetti, DT Yang, HE Piston, DN LeBard, and LT Chong. “Lessons learned from a ligand-unbinding stress test for weighted ensemble simulations.” *ACS Omega* **2025**, 10, 27617. 
-[link](https://pubs.acs.org/doi/10.1021/acsomega.5c03809){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2025 - Lessons Learned from a Ligand-Unbinding Stress Test for Weighted Ensemble Simulations){: .btn .btn--inverse .btn--small}
+[link](https://pubs.acs.org/doi/10.1021/acsomega.5c03809){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2025 - Lessons Learned from a Ligand-Unbinding Stress Test for Weighted Ensemble Simulations.pdf){: .btn .btn--inverse .btn--small}
 
 JMG Leung, NC Frazee, A Brace, AT Bogetti, A Ramanathan, and LT Chong. "Unsupervised learning of progress coordinates during weighted ensemble simulations: Application to NTL9 protein folding." *J. Chem. Theory Comput.* **2025**.
 [link](https://pubs.acs.org/doi/10.1021/acs.jctc.4c01136){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Leung et al. - 2025 - Unsupervised Learning of Progress Coordinates during Weighted Ensemble Simulations Application to N.pdf){: .btn .btn--inverse .btn--small}
