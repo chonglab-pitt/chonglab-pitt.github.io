@@ -79,14 +79,19 @@ undergrad_group:
 # Principal Investigator
 
 {% include feature_row id="lillian" type="left" %}
-
-I am a computational biophysicist and Professor in the Department of Chemistry at the University of Pittsburgh, with affiliations in the Joint CMU-Pitt PhD programs in Molecular Biophysics and Structural Biology, and Computational Biology. My group is best known for advancing weighted ensemble path sampling strategies for simulating rare events, developing implicitly polarized [AMBER](https://ambermd.org) force fields, and performing molecular simulations of pathways and kinetics underlying complex biological processes. I also lead the development of [WESTPA](https://westpa.github.io/westpa), a highly scalable, open-source software package for weighted ensemble simulations. My honors include an NSF CAREER Award, a collaborative Gordon Bell Special Prize in COVID-19 Research, and a Tina & David Bellet Teaching Excellence Award from the University of Pittsburgh. I also serve on the Scientific Advisory Board of OpenEye Scientific, Cadence.
-
-My interest in computational biophysics began as an undergraduate chemistry major at MIT, where I worked with Bruce Tidor on continuum electrostatics of protein-protein interactions. This experience led me to pursue a Ph.D. in biophysics at the University of California, San Francisco, where I worked with Peter Kollman to study enzyme catalysis using molecular dynamics simulations. I then conducted postdoctoral research at Stanford University with Vijay Pande and the IBM Almaden Research Center with Bill Swope, focusing on large-scale simulations of the p53 oligomerization domain using the Folding@Home distributing computing resource. 
-
-Outside of research, I enjoy creative writing, yoga, and long walks.
-
+<details>
+<summary> Biography </summary>
+<font size="3">
+&emsp; I am a computational biophysicist and Professor in the Department of Chemistry at the University of Pittsburgh, with affiliations in the Joint CMU-Pitt PhD programs in Molecular Biophysics and Structural Biology, and Computational Biology. My group is best known for advancing weighted ensemble path sampling strategies for simulating rare events, developing implicitly polarized <a href="https://ambermd.org">AMBER</a> force fields, and performing molecular simulations of pathways and kinetics underlying complex biological processes. I also lead the development of <a href="https://westpa.github.io/westpa">WESTPA</a>, a highly scalable, open-source software package for weighted ensemble simulations. My honors include an NSF CAREER Award, a collaborative Gordon Bell Special Prize in COVID-19 Research, and a Tina & David Bellet Teaching Excellence Award from the University of Pittsburgh. I also serve on the Scientific Advisory Board of OpenEye Scientific, Cadence.
+<br>
+&emsp; My interest in computational biophysics began as an undergraduate chemistry major at MIT, where I worked with Bruce Tidor on continuum electrostatics of protein-protein interactions. This experience led me to pursue a Ph.D. in biophysics at the University of California, San Francisco, where I worked with Peter Kollman to study enzyme catalysis using molecular dynamics simulations. I then conducted postdoctoral research at Stanford University with Vijay Pande and the IBM Almaden Research Center with Bill Swope, focusing on large-scale simulations of the p53 oligomerization domain using the Folding@Home distributing computing resource. 
+<br>
+&emsp; Outside of research, I enjoy creative writing, yoga, and long walks.
+</font>
+</details>
+<br>
 The Chong Group's [academic geneology](https://academictree.org/chemistry/tree.php?pid=141518#) -- we all stand on the shoulders of giants.
+<br>
 
 # Current Group Members
 {% include feature_row id="postdoc_group" type="left" %}
