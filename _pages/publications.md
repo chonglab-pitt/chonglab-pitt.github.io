@@ -5,7 +5,18 @@ toc: true
 toc_sticky: true
 toc_label: "Publications"
 ---
-## Review and perspective articles
+
+<!--Section 1-->
+<h2 id="review-and-perspective" 
+    style="color: white;
+           padding: 0.5em;
+           background-image: url(/assets/images/pub-banners/review-perspective.png);
+           background-position: right center;
+           background-repeat: no-repeat;
+           background-size: 100%;
+           border: 3px solid gray">
+Review and perspective articles
+</h2>
 
 AT Bogetti, MF Presti, SN Loh, and LT Chong. “The Next Frontier for Designing Switchable Proteins: Rational Enhancement of Kinetics.” *J. Phys. Chem. B* **2021**, 125 (32), 9069–9077. 
 [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.1c04082){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-switch/Bogetti et al. - 2021 - The Next Frontier for Designing Switchable Protein.pdf){: .btn .btn--inverse .btn--small}
@@ -19,7 +30,18 @@ LT Chong, AS Saglam, and DM Zuckerman. “Path-sampling strategies for simulatin
 MC Zwier and LT Chong. “Reaching biological timescales with all-atom molecular dynamics simulations.” *Curr. Opin. Pharmacol.* **2010**, 10, 745-752. 
 [link](http://www.sciencedirect.com/science/article/pii/S1471489210001463){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Zwier and Chong - 2010 - Reaching biological timescales with all-atom molec.pdf){: .btn .btn--inverse .btn--small}
 
-## Weighted ensemble methods and software
+
+<!--Section 2-->
+<h2 id="weighted-ensemble" 
+    style="color: white;
+           padding: 0.5em;
+           background-image: url(/assets/images/pub-banners/weighted-ensemble.png);
+           background-position: right center;
+           background-repeat: no-repeat;
+           background-size: 100%;
+           border: 3px solid gray">
+Weighted ensemble methods and software
+</h2>
 
 AT Bogetti, DT Yang, HE Piston, DN LeBard, and LT Chong. “Lessons learned from a ligand-unbinding stress test for weighted ensemble simulations.” *ACS Omega* **2025**, 10, 27617. 
 [link](https://pubs.acs.org/doi/10.1021/acsomega.5c03809){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2025 - Lessons Learned from a Ligand-Unbinding Stress Test for Weighted Ensemble Simulations.pdf){: .btn .btn--inverse .btn--small}
@@ -65,7 +87,18 @@ E Suárez, S Lettieri, MC Zwier, CA Stringer, SR Subramanian, LT Chong, and DM Z
 MC Zwier, JW Kaus, and LT Chong. “Efficient explicit-solvent molecular dynamics simulations of molecular associations: Methane/methane, Na+/Cl-, methane/benzene, and K+/18-crown-6 ether.” *J. Chem. Theory Comput.* **2011**, 7, 1189. 
 [link](http://pubs.acs.org/doi/abs/10.1021/ct100626x){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Zwier et al. - 2011 - Efficient Explicit-Solvent Molecular Dynamics Simu.pdf){: .btn .btn--inverse .btn--small}
 
-## Protein (un)binding simulations
+
+<!--Section 3-->
+<h2 id="protein-unbinding-simulations" 
+    style="color: white;
+           padding: 0.5em;
+           background-image: url(/assets/images/pub-banners/protein-unbinding.png);
+           background-position: right center;
+           background-repeat: no-repeat;
+           background-size: 100%;
+           border: 3px solid gray">
+Protein (un)binding simulations
+</h2>
 
 AT Bogetti, DT Yang, HE Piston, DN LeBard, and LT Chong. “Lessons learned from a ligand-unbinding stress test for weighted ensemble simulations.” *ACS Omega* **2025**, 10, 27617. 
 [link](https://pubs.acs.org/doi/10.1021/acsomega.5c03809){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2025 - Lessons Learned from a Ligand-Unbinding Stress Test for Weighted Ensemble Simulations){: .btn .btn--inverse .btn--small}
@@ -88,7 +121,18 @@ MC Zwier, AJ Pratt, JL Adelman, JW Kaus, DM Zuckerman, and LT Chong. “Efficien
 MT Panteva, R Salari, M Bhattacharjee, and LT Chong. “Direct observations of shifts in the beta-sheet register of a protein-peptide complex using explicit solvent simulations.” *Biophys. J. Letters* **2011**, 100, L50. \*equal authorship
 [link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3149256/){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/brute-force/Panteva et al. - 2011 - Direct Observations of Shifts in the β-Sheet Regis.pdf){: .btn .btn--inverse .btn--small}
 
-## Simulations of protein folding and other large-scale conformational transitions in proteins
+
+<!--Section 4-->
+<h2 id="protein-folding-conformational-transitions" 
+    style="color: white;
+           padding: 0.5em;
+           background-image: url(/assets/images/pub-banners/large-scale.png);
+           background-position: right center;
+           background-repeat: no-repeat;
+           background-size: 100%;
+           border: 3px solid gray">
+Simulations of protein folding and other <br> large-scale conformational transitions in proteins
+</h2>
 
 JR Santhouse, JMG Leung, LT Chong, and WS Horne. “Effects of Altered Backbone Composition on the Folding Kinetics and Mechanism of an Ultrafast-Folding Protein.” *Chem. Sci.* **2024**. 
 [link](https://doi.org/10.1039/D3SC03976E){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Santhouse et al. - 2023 - Effects of altered backbone composition on the fol.pdf){: .btn .btn--inverse .btn--small}
@@ -108,7 +152,17 @@ L Casalino, A Dommer, Z Gaieb, EP Barros, T Sztain, S Ahn, A Trifan, A Brace, AT
 JL Adelman, A Scarbrough, MC Zwier, D Bhatt, LT Chong, DM Zuckerman, and M Grabe. “Simulations of the alternating access mechanism of the sodium symporter Mhp1.” *Biophys. J.* **2011**, 101, 2399. 
 [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3218348/){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Adelman et al. - 2011 - Simulations of the Alternating Access Mechanism of.pdf){: .btn .btn--inverse .btn--small}
 
-## Rational design of protein switches
+<!--Section 5-->
+<h2 id="protein-switches" 
+    style="color: white;
+           padding: 0.5em;
+           background-image: url(/assets/images/pub-banners/protein-switch.png);
+           background-position: right center;
+           background-repeat: no-repeat;
+           background-size: 100%;
+           border: 3px solid gray">
+Rational design of protein switches
+</h2>
 
 AT Bogetti, MF Presti, SN Loh, and LT Chong. “The Next Frontier for Designing Switchable Proteins: Rational Enhancement of Kinetics.” *J. Phys. Chem. B* **2021**, 125 (32), 9069–9077. 
 [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.1c04082){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-switch/Bogetti et al. - 2021 - The Next Frontier for Designing Switchable Protein.pdf){: .btn .btn--inverse .btn--small}
@@ -122,7 +176,18 @@ BM Mills and LT Chong. “Molecular simulations of mutually exclusive folding in
 TA Cutler, BM Mills, DJ Lubin, LT Chong, and SN Loh. "Effect of interdomain linker length on an antagonistic folding-unfolding equilibrium between two protein domains." *J. Mol. Biol.* **2009**, 386,  854. 
 [link](http://www.sciencedirect.com/science/article/pii/S0022283608014034){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-switch/Cutler et al. - 2009 - Effect of Interdomain Linker Length on an Antagoni.pdf){: .btn .btn--inverse .btn--small}
 
-## Force fields for proteins and protein mimetics
+
+<!--Section 6-->
+<h2 id="protein-force-fields-and-mimetics" 
+    style="color: white;
+           padding: 0.5em;
+           background-image: url(/assets/images/pub-banners/force-field.png);
+           background-position: right center;
+           background-repeat: no-repeat;
+           background-size: 100%;
+           border: 3px solid gray">
+Force fields for proteins and protein mimetics
+</h2>
 
 DT Yang, AM Gronenborn, and LT Chong. "Development and Validation of Fluorinated, Aromatic Amino Acid Parameters for Use with the AMBER ff15ipq Protein Force Field" *J. Phys. Chem. A* **2022**, 126, 2286-2297. 
 [link](https://doi.org/10.1021/acs.jpca.2c00255){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Yang et al. 2022 - 19F ff15ipq.pdf){: .btn .btn--inverse .btn--small} [code](https://github.com/chonglab-pitt/ff15ipq-19F){: .btn .btn--inverse .btn--small}
@@ -145,7 +210,18 @@ R Salari and LT Chong. “Effects of increasing temperature on desolvation costs
 R Salari and LT Chong. "Desolvation costs of salt bridges across protein binding interfaces: Similarities and differences between implicit and explicit solvent models." *J. Phys. Chem. Lett.* **2010**, 1, 2844. 
 [link](http://pubs.acs.org/doi/abs/10.1021/jz1010863){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Salari and Chong - 2012 - Effects of High Temperature on Desolvation Costs o.pdf){: .btn .btn--inverse .btn--small}
 
-## Integrative structural biology
+
+<!--Section 7-->
+<h2 id="integrative-structural-biology" 
+    style="color: white;
+           padding: 0.5em;
+           background-image: url(/assets/images/pub-banners/structural-biology.png);
+           background-position: right center;
+           background-repeat: no-repeat;
+           background-size: 100%;
+           border: 3px solid gray">
+Integrative structural biology
+</h2>
 
 DT Yang, LT Chong, and AM Gronenborn. "Illuminating an invisible state of the HIV-1 capsid protein CTD dimer using 19F NMR and weighted ensemble simulations." *Proc. Natl. Acad. Sci. USA* **2025**.
 [link](https://www.pnas.org/doi/10.1073/pnas.2420371122){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/structural-biology/Yang et al. - 2025 - Illuminating an invisible state of the HIV-1 capsid protein CTD dimer using 19F NMR and weighted ens.pdf){: .btn .btn--inverse .btn--small}
@@ -168,7 +244,18 @@ KM Oshaben, R Salari, DR McCaslin, LT Chong, and WS Horne. “The native GCN4 le
 K Xiong, MC Zwier, NS Myshakina, VM Burger, SA Asher, and LT Chong. “Direct observations of conformational distributions of intrinsically disordered p53 peptides using UV Raman and explicit solvent simulations.” *J. Phys. Chem. A* **2011**, 115, 9520. 
 [link](http://pubs.acs.org/doi/abs/10.1021/jp112235d){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/brute-force/Xiong et al. - 2011 - Direct Observations of Conformational Distribution.pdf){: .btn .btn--inverse .btn--small}
 
-## Chemical reactions
+
+<!--Section 8-->
+<h2 id="chemical-reactions" 
+    style="color: white;
+           padding: 0.5em;
+           background-image: url(/assets/images/pub-banners/chemical-reactions.png);
+           background-position: right center;
+           background-repeat: no-repeat;
+           background-size: 100%;
+           border: 3px solid gray">
+Chemical reactions
+</h2>
 
 AT Bogetti, MC Zwier, and LT Chong. “Revisiting Textbook Azide-Clock Reactions: A “Propeller-Crawling” Mechanism Explains Differences in Rates” *J. Am. Chem. Soc.* **2024**. 
 [link](https://pubs.acs.org/doi/full/10.1021/jacs.4c03360){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/chemical-reactions/Bogetti et al. - 2024 - Revisiting Textbook Azide-Clock Reactions A “Prop.pdf){: .btn .btn--inverse .btn--small}
