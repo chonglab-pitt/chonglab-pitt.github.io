@@ -87,8 +87,22 @@ E Suárez, S Lettieri, MC Zwier, CA Stringer, SR Subramanian, LT Chong, and DM Z
 MC Zwier, JW Kaus, and LT Chong. “Efficient explicit-solvent molecular dynamics simulations of molecular associations: Methane/methane, Na+/Cl-, methane/benzene, and K+/18-crown-6 ether.” *J. Chem. Theory Comput.* **2011**, 7, 1189. 
 [link](http://pubs.acs.org/doi/abs/10.1021/ct100626x){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Zwier et al. - 2011 - Efficient Explicit-Solvent Molecular Dynamics Simu.pdf){: .btn .btn--inverse .btn--small}
 
-
 <!--Section 3-->
+<h2 id="chemical-reactions" 
+    style="color: white;
+           padding: 0.5em;
+           background-image: url(/assets/images/pub-banners/chemical-reactions.png);
+           background-position: right center;
+           background-repeat: no-repeat;
+           background-size: 100%;
+           border: 3px solid gray">
+Chemical reactions
+</h2>
+
+AT Bogetti, MC Zwier, and LT Chong. “Revisiting Textbook Azide-Clock Reactions: A “Propeller-Crawling” Mechanism Explains Differences in Rates” *J. Am. Chem. Soc.* **2024**. 
+[link](https://pubs.acs.org/doi/full/10.1021/jacs.4c03360){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/chemical-reactions/Bogetti et al. - 2024 - Revisiting Textbook Azide-Clock Reactions A “Prop.pdf){: .btn .btn--inverse .btn--small}
+
+<!--Section 4-->
 <h2 id="protein-unbinding-simulations" 
     style="color: white;
            padding: 0.5em;
@@ -122,7 +136,7 @@ MT Panteva, R Salari, M Bhattacharjee, and LT Chong. “Direct observations of s
 [link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3149256/){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/brute-force/Panteva et al. - 2011 - Direct Observations of Shifts in the β-Sheet Regis.pdf){: .btn .btn--inverse .btn--small}
 
 
-<!--Section 4-->
+<!--Section 5-->
 <h2 id="protein-folding-conformational-transitions" 
     style="color: white;
            padding: 0.5em;
@@ -152,7 +166,7 @@ L Casalino, A Dommer, Z Gaieb, EP Barros, T Sztain, S Ahn, A Trifan, A Brace, AT
 JL Adelman, A Scarbrough, MC Zwier, D Bhatt, LT Chong, DM Zuckerman, and M Grabe. “Simulations of the alternating access mechanism of the sodium symporter Mhp1.” *Biophys. J.* **2011**, 101, 2399. 
 [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3218348/){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Adelman et al. - 2011 - Simulations of the Alternating Access Mechanism of.pdf){: .btn .btn--inverse .btn--small}
 
-<!--Section 5-->
+<!--Section 6-->
 <h2 id="protein-switches" 
     style="color: white;
            padding: 0.5em;
@@ -177,7 +191,7 @@ TA Cutler, BM Mills, DJ Lubin, LT Chong, and SN Loh. "Effect of interdomain link
 [link](http://www.sciencedirect.com/science/article/pii/S0022283608014034){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-switch/Cutler et al. - 2009 - Effect of Interdomain Linker Length on an Antagoni.pdf){: .btn .btn--inverse .btn--small}
 
 
-<!--Section 6-->
+<!--Section 7-->
 <h2 id="protein-force-fields-and-mimetics" 
     style="color: white;
            padding: 0.5em;
@@ -211,7 +225,7 @@ R Salari and LT Chong. "Desolvation costs of salt bridges across protein binding
 [link](http://pubs.acs.org/doi/abs/10.1021/jz1010863){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Salari and Chong - 2012 - Effects of High Temperature on Desolvation Costs o.pdf){: .btn .btn--inverse .btn--small}
 
 
-<!--Section 7-->
+<!--Section 8-->
 <h2 id="integrative-structural-biology" 
     style="color: white;
            padding: 0.5em;
@@ -245,18 +259,4 @@ K Xiong, MC Zwier, NS Myshakina, VM Burger, SA Asher, and LT Chong. “Direct ob
 [link](http://pubs.acs.org/doi/abs/10.1021/jp112235d){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/brute-force/Xiong et al. - 2011 - Direct Observations of Conformational Distribution.pdf){: .btn .btn--inverse .btn--small}
 
 
-<!--Section 8-->
-<h2 id="chemical-reactions" 
-    style="color: white;
-           padding: 0.5em;
-           background-image: url(/assets/images/pub-banners/chemical-reactions.png);
-           background-position: right center;
-           background-repeat: no-repeat;
-           background-size: 100%;
-           border: 3px solid gray">
-Chemical reactions
-</h2>
-
-AT Bogetti, MC Zwier, and LT Chong. “Revisiting Textbook Azide-Clock Reactions: A “Propeller-Crawling” Mechanism Explains Differences in Rates” *J. Am. Chem. Soc.* **2024**. 
-[link](https://pubs.acs.org/doi/full/10.1021/jacs.4c03360){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/chemical-reactions/Bogetti et al. - 2024 - Revisiting Textbook Azide-Clock Reactions A “Prop.pdf){: .btn .btn--inverse .btn--small}
 
