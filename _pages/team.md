@@ -28,7 +28,7 @@ postdoc_group:
     alt: "Jeremy Leung"
     title: "Jeremy Leung"
     excerpt: "
-    **Postdoctoral Associate**<br>
+    **Research Assistant Professor**<br>
     PhD, Chemistry, University of Pittsburgh<br>
     BA, Chemistry, Occidental College<br>
     Room 338, Eberly Hall<br>
