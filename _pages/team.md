@@ -123,7 +123,7 @@ The Chong Group's [academic geneology](https://academictree.org/chemistry/tree.p
 * Parmila Kafley, BS in chemistry & political science (2020), now a PhD in chemistry candidate with Ross Wang (Temple University).  
 * Daniel Hatfield, BS in Chemistry (2013), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a science high school teacher at Jack M. Hebrew Academy.  
 * Natalia Hajlasz, Allderdice High School (2014-2017), Regeneron High School STS 2017 Finalist, now a G1 at NYU's Courant Institute.
-* Elissa Fink (2017), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a PhD candidate in biophysics with Brian Shoichet (UCSF). 
+* Elissa Fink (2017), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a Principle Scientist at Deep Apple Therapeutics. 
 * Max Dudek, BS in Molecular Biology & Computer Science (2021), NSF GRFP Award, now a PhD in chemistry candidate at U Penn.  
 * Alex DeGrave, BS in Molecular Biology & Applied Math (2018), now an MD/PhD student with Su-In Lee (U. Washington).  
 * Karl Debiec, PhD in Biophysics (2017), Co-advisor: Angela Gronenborn, Mellon Fellow, now a software engineer at Epic Systems.    
