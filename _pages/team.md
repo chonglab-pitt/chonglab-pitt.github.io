@@ -115,7 +115,7 @@ The Chong Group's [academic geneology](https://academictree.org/chemistry/tree.p
 * Reza Salari, PhD in Chemistry (2012), A&S Fellow, now a radiologist at Barnes-Jewish Hospital in St. Louis. 
 * Maria (Panteva) Salari, BS in Chemistry (2010), now an Assistant Professor at McKendree University.
 * Ali Sinan Saglam, PhD in Chemistry (2018), DAAD Grant awardee, now a Computational Chemist at VantAI. 
-* Nicholas Rego, BS in Bioinformatics & Economics (2012), now a postdoc with Amish Patel (U. Pennsylvania).
+* Nicholas Rego, BS in Bioinformatics & Economics (2012), now at Protein Design Solutions (Founder).
 * Hannah Piston, BS in Chemistry (2019), now a medical student at U. Pittsburgh. 
 * Brandon Mills, [BPhil](https://www.frederickhonors.pitt.edu/bphil)/MS in Chemistry (2014), A&S Fellow, now a Senior Analyst at Accenture Scientific Informatics Services.
 * Yuanhao (Leo) Li, postdoc (2023-2024), now a Research Associate at the Songshan Lake Materials Laboratory, Dongguan, China.
