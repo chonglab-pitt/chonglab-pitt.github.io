@@ -8,7 +8,7 @@ related: false
 
 {% include figure image_path="/assets/images/titlepic.jpg" alt="Protein Ligand Binding" %}
 
-We are a collaborative group of scientists who work at the interface of chemistry, physics, and biology to explore the role of dynamics and kinetics in the function of biomolecules. We focus on the development and application of advanced simulation methods to generate atomistic views of rare events in biology (e.g., protein binding and large-scale transitions in proteins). We also develop simulation strategies for rational enhancement of protein switching kinetics. We are the primary developers of the [WESTPA](https://westpa.github.io/westpa) software for weighted ensemble simulations of rare events and implicitly polarized [AMBER](https://ambermd.org) force fields (ff15ipq/ff15ipq-m).
+We are a collaborative group of scientists who work at the interface of chemistry, physics, and biology to investigate how molecular dynamics and kinetics govern biomolecular function. Our research emphasizes the development and application of advanced simulation methods to capture atomistic views of rare biological events, such as protein binding and large-scale conformational transitions. We also develop simulation strategies to rationally modulate protein switching kinetics. Our group is the primary developer of [WESTPA](https://westpa.github.io/westpa), a software package for weighted ensemble simulations of rare events, as well as the implicitly polarized [AMBER](https://ambermd.org) force fields (ff15ipq/ff15ipq-m).
 
 <h2><a href="/news/" style="color:inherit; text-decoration:none">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent News" }}</a></h2>
 
