@@ -65,13 +65,39 @@ grad_group:
     Room 338, Eberly Hall<br>
     Email: amg535 AT pitt DOT edu<br>
     "
+  - image_path: /assets/images/people/JOW.jpg
+    alt: "John Wolfson"
+    title: "John Wolfson"
+    excerpt: "
+    **PhD Student in Chemistry**<br>
+    ME, Pharmaceutical Egineering and Science, Rutgers University<br>
+    Room 338, Eberly Hall<br>
+    EmailL: jow276 AT pitt DOT edu<br>
+    "
+  - image_path: /assets/images/people/JEA.jpg
+    alt: "Jenevan Irranious Augustine"
+    title: "Jenevan Irranious Augustine"
+    excerpt: "
+    **PhD Student in Chemistry**<br>
+    BSc Chemistry, University of Jaffna, Sri Lanka<br>
+    Room 338, Eberly Hall<br>
+    Email: jea232 At pitt DOT edu<br>
+    "
+  - image_path: /assets/images/people/OGW.jpg
+    alt: "Oliver Wang"
+    title: "Oliver Wang"
+    excerpt: "
+    **MS Student of Quantitative Biology and Bioinformatics**<br>
+    Room 323, Eberly Hall<br>
+    Email: guanyanw AT andrew DOT cmu DOT edu<br>
+    "
 undergrad_group:
   - image_path: /assets/images/people/KJS.jpg
     alt: "Kaylee Spadaro"
     title: "Kaylee Spadaro"
     excerpt: "
     **Chemistry and Biology Major**<br>
-    Room 338, Eberly Hall<br>
+    Room 323, Eberly Hall<br>
     Email: kjs189 AT pitt DOT edu
     "
 ---
