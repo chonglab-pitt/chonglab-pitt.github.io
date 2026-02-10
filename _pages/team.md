@@ -70,7 +70,7 @@ grad_group:
     title: "John Wolfson"
     excerpt: "
     **PhD Student in Chemistry**<br>
-    ME, Pharmaceutical Egineering and Science, Rutgers University<br>
+    ME, Pharmaceutical Engineering and Science, Rutgers University<br>
     Room 338, Eberly Hall<br>
     EmailL: jow276 AT pitt DOT edu<br>
     "
