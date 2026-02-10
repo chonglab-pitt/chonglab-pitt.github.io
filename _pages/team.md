@@ -100,6 +100,14 @@ undergrad_group:
     Room 323, Eberly Hall<br>
     Email: kjs189 AT pitt DOT edu
     "
+  - image_path: /assets/images/people/TGL.jpg
+    alt: "Graham Leavitt"
+    title: "Graham Leavitt"
+    excerpt: "
+    **Chemistry and Business Analytics Major**<br>
+    Room 323, Eberly Hall<br>
+    Email: tgl14 AT pitt DOT edu
+    "
 ---
 
 # Principal Investigator
