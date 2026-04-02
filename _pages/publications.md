@@ -150,6 +150,7 @@ MT Panteva, R Salari, M Bhattacharjee, and LT Chong. “Direct observations of s
            border: 3px solid gray">
 Simulations of protein folding and other <br> large-scale conformational transitions in proteins
 </h2>
+S Palit, DT Yang, X Bogetti, AT Bogetti, O Wood, S Saxena and LT Chong. "Large-scale protein conformational transitions revealed by weighted ensemble simulations and EPR." *Chem. Sci.* **2026**. [link](https://doi.org/10.1039/D5SC08971A){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Palit et al. - 2026 - Large-scale protein conformational transitions.pdf){: .btn .btn--inverse .btn--small}
 
 JR Santhouse, JMG Leung, LT Chong, and WS Horne. “Effects of Altered Backbone Composition on the Folding Kinetics and Mechanism of an Ultrafast-Folding Protein.” *Chem. Sci.* **2024**. 
 [link](https://doi.org/10.1039/D3SC03976E){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Santhouse et al. - 2023 - Effects of altered backbone composition on the fol.pdf){: .btn .btn--inverse .btn--small}
