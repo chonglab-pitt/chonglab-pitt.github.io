@@ -70,7 +70,7 @@ grad_group:
     title: "John Wolfson"
     excerpt: "
     **PhD Student in Chemistry**<br>
-    ME, Pharmaceutical Egineering and Science, Rutgers University<br>
+    ME, Pharmaceutical Engineering and Science, Rutgers University<br>
     Room 338, Eberly Hall<br>
     EmailL: jow276 AT pitt DOT edu<br>
     "
@@ -99,6 +99,14 @@ undergrad_group:
     **Chemistry and Biology Major**<br>
     Room 323, Eberly Hall<br>
     Email: kjs189 AT pitt DOT edu
+    "
+  - image_path: /assets/images/people/TGL.jpg
+    alt: "Graham Leavitt"
+    title: "Graham Leavitt"
+    excerpt: "
+    **Chemistry and Business Analytics Major**<br>
+    Room 323, Eberly Hall<br>
+    Email: tgl14 AT pitt DOT edu
     "
 ---
 
