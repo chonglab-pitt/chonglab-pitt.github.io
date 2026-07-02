@@ -83,14 +83,7 @@ grad_group:
     Room 338, Eberly Hall<br>
     Email: jea232 At pitt DOT edu<br>
     "
-  - image_path: /assets/images/people/OGW.jpg
-    alt: "Oliver Wang"
-    title: "Oliver Wang"
-    excerpt: "
-    **MS Student of Quantitative Biology and Bioinformatics**<br>
-    Room 323, Eberly Hall<br>
-    Email: guanyanw AT andrew DOT cmu DOT edu<br>
-    "
+    
 undergrad_group:
   - image_path: /assets/images/people/KJS.jpg
     alt: "Kaylee Spadaro"
