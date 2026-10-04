@@ -18,10 +18,13 @@ toc_label: "Publications"
 Review and perspective articles
 </h2>
 
-CE Cavender, DA Case, JC-H Chen, LT Chong, DA Keedy, K Lindorff-Larsen, DL Mobley, OHS Ollilam, C Oostenbrink, PJ Robustelli, VA Voelz, ME Wall, DC Wych, and MK Gilson. "Structure-Based Experimental Datasets for Benchmarking Protein Simulation Force Fields [Article v1.0]." *Living J. Comput. Mol. Sci.* **2025**, 6 (1), 3871.
+LT Chong and DM Zuckerman. “Weighted ensemble simulation: Advances in methods, software, and applications.” *WIREs Comput. Mol. Sci.* **2025**, 15, e70055. 
+[link](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.70055){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/){: .btn .btn--inverse .btn--small}
+
+CE Cavender, DA Case, JC-H Chen, LT Chong, DA Keedy, K Lindorff-Larsen, DL Mobley, OHS Ollilam, C Oostenbrink, PJ Robustelli, VA Voelz, ME Wall, DC Wych, and MK Gilson. "Structure-based experimental datasets for benchmarking protein simulation force fields [Article v1.0]." *Living J. Comput. Mol. Sci.* **2025**, 6 (1), 3871.
 [link](https://livecomsjournal.org/index.php/livecoms/article/view/v6i1e3871){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Cavender et al. - 2025 - Structure-Based ExperimentalDatasets.pdf){: .btn .btn--inverse .btn--small}
 
-AT Bogetti, MF Presti, SN Loh, and LT Chong. “The Next Frontier for Designing Switchable Proteins: Rational Enhancement of Kinetics.” *J. Phys. Chem. B* **2021**, 125 (32), 9069–9077. 
+AT Bogetti, MF Presti, SN Loh, and LT Chong. “The next frontier for designing switchable proteins: Rational enhancement of kinetics.” *J. Phys. Chem. B* **2021**, 125 (32), 9069–9077. 
 [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.1c04082){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-switch/Bogetti et al. - 2021 - The Next Frontier for Designing Switchable Protein.pdf){: .btn .btn--inverse .btn--small}
 
 DM Zuckerman and LT Chong. “Weighted ensemble simulation: Review of methodology, applications, and software.” *Ann. Rev. Biophys.* **2017**, 46, 43. 
