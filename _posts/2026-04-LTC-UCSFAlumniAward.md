@@ -15,7 +15,7 @@
  15
  16
 ---
-title: "LTC Awarded 2026 UCSF Graduate and Postdoc Alum of the Year"
+title: "LTC was Awarded 2026 UCSF Graduate and Postdoc Alum of the Year"
 categories:
   - News
 tags:
