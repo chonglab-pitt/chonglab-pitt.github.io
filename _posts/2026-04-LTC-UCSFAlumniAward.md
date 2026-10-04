@@ -1,19 +1,3 @@
-1
-  2
-  3
-  4
-  5
-  6
-  7
-  8
-  9
- 10
- 11
- 12
- 13
- 14
- 15
- 16
 ---
 title: "LTC was Awarded 2026 UCSF Graduate and Postdoc Alum of the Year"
 categories:
