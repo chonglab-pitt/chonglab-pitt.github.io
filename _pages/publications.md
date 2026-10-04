@@ -19,7 +19,7 @@ Review and perspective articles
 </h2>
 
 LT Chong and DM Zuckerman. “Weighted ensemble simulation: Advances in methods, software, and applications.” *WIREs Comput. Mol. Sci.* **2025**, 15, e70055. 
-[link](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.70055){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/){: .btn .btn--inverse .btn--small}
+[link](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.70055){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Chong_WIREsCMS_2025.pdf){: .btn .btn--inverse .btn--small}
 
 CE Cavender, DA Case, JC-H Chen, LT Chong, DA Keedy, K Lindorff-Larsen, DL Mobley, OHS Ollilam, C Oostenbrink, PJ Robustelli, VA Voelz, ME Wall, DC Wych, and MK Gilson. "Structure-based experimental datasets for benchmarking protein simulation force fields [Article v1.0]." *Living J. Comput. Mol. Sci.* **2025**, 6 (1), 3871.
 [link](https://livecomsjournal.org/index.php/livecoms/article/view/v6i1e3871){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Cavender et al. - 2025 - Structure-Based ExperimentalDatasets.pdf){: .btn .btn--inverse .btn--small}
