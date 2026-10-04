@@ -153,9 +153,11 @@ MT Panteva, R Salari, M Bhattacharjee, and LT Chong. “Direct observations of s
            border: 3px solid gray">
 Simulations of protein folding and other <br> large-scale conformational transitions in proteins
 </h2>
-FL Kearns, AT Bogetti, C Calvo-Tusell, MKE Braza, L Casalino, AJ Gramm, S Braet, MA Rosenfeld, H Rajapaksha, B Barker, G Anand, LT Chong, SH Ahn, and RE Amaro. “D614G reshapes allosteric networks and opening mechanisms of SARS-CoV-2 spikes.” *Proc. Natl. Acad. Sci. USA* **2026**. [link](https://www.pnas.org/doi/10.1073/pnas.2504793123){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Kearns-et-al-2026-d614g-reshapes-allosteric-networks-and-opening-mechanisms-of-sars-cov-2-spikes.pdf){: .btn .btn--inverse .btn--small}
+FL Kearns, AT Bogetti, C Calvo-Tusell, MKE Braza, L Casalino, AJ Gramm, S Braet, MA Rosenfeld, H Rajapaksha, B Barker, G Anand, LT Chong, SH Ahn, and RE Amaro. “D614G reshapes allosteric networks and opening mechanisms of SARS-CoV-2 spikes.” 
 
-S Palit, DT Yang, X Bogetti, AT Bogetti, O Wood, S Saxena and LT Chong. "Large-scale protein conformational transitions revealed by weighted ensemble simulations and EPR." *Chem. Sci.* **2026**. [link](https://doi.org/10.1039/D5SC08971A){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Palit et al. - 2026 - Large-scale protein conformational transitions.pdf){: .btn .btn--inverse .btn--small}
+*Proc. Natl. Acad. Sci. USA* **2026**. [link](https://www.pnas.org/doi/10.1073/pnas.2504793123){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Kearns-et-al-2026-d614g-reshapes-allosteric-networks-and-opening-mechanisms-of-sars-cov-2-spikes.pdf){: .btn .btn--inverse .btn--small}
+
+S Palit, DT Yang, X Bogetti, AT Bogetti, O Wood, S Saxena, and LT Chong. "Large-scale protein conformational transitions revealed by weighted ensemble simulations and EPR." *Chem. Sci.* **2026**. [link](https://doi.org/10.1039/D5SC08971A){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Palit et al. - 2026 - Large-scale protein conformational transitions.pdf){: .btn .btn--inverse .btn--small}
 
 JR Santhouse, JMG Leung, LT Chong, and WS Horne. “Effects of Altered Backbone Composition on the Folding Kinetics and Mechanism of an Ultrafast-Folding Protein.” *Chem. Sci.* **2024**. 
 [link](https://doi.org/10.1039/D3SC03976E){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-simulations/Santhouse et al. - 2023 - Effects of altered backbone composition on the fol.pdf){: .btn .btn--inverse .btn--small}
