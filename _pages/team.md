@@ -84,23 +84,17 @@ grad_group:
     Email: jea232 At pitt DOT edu<br>
     "
     
-undergrad_group:
-  - image_path: /assets/images/people/KJS.jpg
-    alt: "Kaylee Spadaro"
-    title: "Kaylee Spadaro"
+master_group:
+  - image_path: /assets/images/people/CF.jpg
+    alt: "Corleigh Forrester"
+    title: "Corleigh Forrester"
     excerpt: "
-    **Chemistry and Biology Major**<br>
-    Room 323, Eberly Hall<br>
-    Email: kjs189 AT pitt DOT edu
+    **M.S. Student in Computational Biomedicine and Biotechnology**<br>
+    BS, Bioinformatics and Computational Biology, University of Maryland<br>
+    Room 338, Eberly Hall<br>
+    Email: CForres1 At pitt DOT edu<br>
     "
-  - image_path: /assets/images/people/TGL.jpg
-    alt: "Graham Leavitt"
-    title: "Graham Leavitt"
-    excerpt: "
-    **Chemistry and Business Analytics Major**<br>
-    Room 323, Eberly Hall<br>
-    Email: tgl14 AT pitt DOT edu
-    "
+
 ---
 
 # Principal Investigator
