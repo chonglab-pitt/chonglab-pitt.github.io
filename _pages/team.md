@@ -82,9 +82,7 @@ grad_group:
     BSc Chemistry, University of Jaffna, Sri Lanka<br>
     Room 338, Eberly Hall<br>
     Email: jea232 At pitt DOT edu<br>
-    "
-    
-master_group:
+    " 
   - image_path: /assets/images/people/CF.jpg
     alt: "Corleigh Forrester"
     title: "Corleigh Forrester"
