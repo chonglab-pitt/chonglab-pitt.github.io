@@ -125,8 +125,9 @@ The Chong Group's [academic geneology](https://academictree.org/chemistry/tree.p
 * Yiwen Zou, BS in Chemistry (2012), PharmD student at Philadelphia College of Osteopathic Med, now a Specialty Clinical Pharmacist.
 * Darian Yang, PhD in Biophysics (2024), Co-advisor: Angela Gronenborn, Mellon Fellow, now a postdoc with Kresten Lindorff-Larsen (University of Copenhagen).
 * David Wang, [BPhil](https://www.frederickhonors.pitt.edu/bphil) in Chemistry & Applied Math (2012), Harvard-MIT HST program, now an [Assistant Professor](https://www.anesthesiology.pitt.edu/people/david-wang-md) at U. Pittsburgh Medical School.    
-* Paul Torrillo, BS in Molecular Biology & Applied Math (2021), NSF GRFP award, now a PhD in math candidate at MIT. 
-* Jakob Sorkness, BS in Chemistry(2017), [Writer in Residence](https://medium.com/pitt-undergraduate-science-writing), now at Salubris Biotherapeutics.
+* Paul Torrillo, BS in Molecular Biology & Applied Math (2021), NSF GRFP award, now a PhD in math candidate at MIT.
+* Kaylee Spadaro, BS in Chemistry & Biology (2026), now a pharmacy student at the U. Pittsburgh.
+* Jakob Sorkness, BS in Chemistry (2017), [Writer in Residence](https://medium.com/pitt-undergraduate-science-writing), now at Salubris Biotherapeutics.
 * Riccardo Solazzo, Visiting MS student from University of Bologna, Italy (2022), now a PhD candidate with Sereina Riniker (ETH Zurich).
 * Marion Silvestrini, postdoc (2021-2023), now a computational scientist at Zealand Pharma, Copenhagen, Denmark. 
 * Claire Shao, North Allegheny Senior High School (2019-2020), now a math major at Stanford University.   
@@ -138,6 +139,7 @@ The Chong Group's [academic geneology](https://academictree.org/chemistry/tree.p
 * Hannah Piston, BS in Chemistry (2019), now a medical student at U. Pittsburgh. 
 * Brandon Mills, [BPhil](https://www.frederickhonors.pitt.edu/bphil)/MS in Chemistry (2014), A&S Fellow, now a Senior Analyst at Accenture Scientific Informatics Services.
 * Yuanhao (Leo) Li, postdoc (2023-2024), now a Research Associate at the Songshan Lake Materials Laboratory, Dongguan, China.
+* Graham Leavitt, BS in Chemistry & Business Analytics (2026).
 * Joseph Kaus, BS in Chemistry (2011), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a Senior Software Engineer II at Relay Therapeutics.  
 * Parmila Kafley, BS in chemistry & political science (2020), now a PhD in chemistry candidate with Ross Wang (Temple University).  
 * Daniel Hatfield, BS in Chemistry (2013), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a science high school teacher at Jack M. Hebrew Academy.  
